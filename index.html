@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>WFP Funding Dashboard</title>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.7/dist/chart.umd.min.js"></script>
+<style>
+:root {
+  --bg: #0f1117;
+  --card: #1a1d2e;
+  --border: #2a2d3e;
+  --text: #e0e0e0;
+  --muted: #888;
+  --accent: #3b82f6;
+  --accent2: #10b981;
+  --accent3: #f59e0b;
+  --danger: #ef4444;
+}
+* { margin:0; padding:0; box-sizing:border-box; }
+body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background:var(--bg); color:var(--text); padding:20px; }
+h1 { font-size:1.8rem; margin-bottom:4px; }
+.subtitle { color:var(--muted); margin-bottom:24px; font-size:0.95rem; }
+.stats-row { display:grid; grid-template-columns: repeat(auto-fit, minmax(200px,1fr)); gap:16px; margin-bottom:24px; }
+.stat-card { background:var(--card); border:1px solid var(--border); border-radius:12px; padding:20px; }
+.stat-card .label { color:var(--muted); font-size:0.8rem; text-transform:uppercase; letter-spacing:0.5px; }
+.stat-card .value { font-size:1.6rem; font-weight:700; margin-top:4px; }
+.stat-card .detail { color:var(--muted); font-size:0.8rem; margin-top:4px; }
+.grid { display:grid; grid-template-columns: 1fr 1fr; gap:20px; margin-bottom:24px; }
+.card { background:var(--card); border:1px solid var(--border); border-radius:12px; padding:20px; }
+.card h2 { font-size:1.1rem; margin-bottom:16px; }
+.card.full { grid-column: 1 / -1; }
+select, input { background:#252838; color:var(--text); border:1px solid var(--border); border-radius:8px; padding:8px 12px; font-size:0.9rem; outline:none; }
+select:focus, input:focus { border-color:var(--accent); }
+.donor-controls { display:flex; gap:12px; align-items:center; margin-bottom:16px; flex-wrap:wrap; }
+.donor-stats { display:grid; grid-template-columns: repeat(auto-fit, minmax(140px,1fr)); gap:12px; margin-bottom:16px; }
+.donor-stat { background:#252838; border-radius:8px; padding:12px; }
+.donor-stat .ds-label { font-size:0.75rem; color:var(--muted); text-transform:uppercase; }
+.donor-stat .ds-value { font-size:1.1rem; font-weight:600; margin-top:2px; }
+table { width:100%; border-collapse:collapse; font-size:0.85rem; }
+th, td { padding:8px 12px; text-align:left; border-bottom:1px solid var(--border); }
+th { color:var(--muted); font-size:0.75rem; text-transform:uppercase; letter-spacing:0.5px; }
+tr:hover { background:#252838; }
+.trend-up { color:var(--accent2); }
+.trend-down { color:var(--danger); }
+.badge { display:inline-block; padding:2px 8px; border-radius:99px; font-size:0.75rem; font-weight:600; }
+.badge-green { background:rgba(16,185,129,0.15); color:var(--accent2); }
+.badge-red { background:rgba(239,68,68,0.15); color:var(--danger); }
+.badge-blue { background:rgba(59,130,246,0.15); color:var(--accent); }
+canvas { max-height: 350px; }
+@media (max-width:900px) { .grid { grid-template-columns:1fr; } }
+.chart-wrap { position:relative; }
+</style>
+</head>
+<body>
+<h1>WFP Funding Dashboard</h1>
+<p class="subtitle">UN World Food Programme contributions 2015–2026 &middot; Data from <a href="https://www.wfp.org/funding" style="color:var(--accent)">wfp.org/funding</a></p>
+
+<div class="stats-row" id="statsRow"></div>
+
+<div class="grid">
+  <div class="card full">
+    <h2>Total Contributions Over Time</h2>
+    <div class="chart-wrap"><canvas id="totalChart"></canvas></div>
+  </div>
+
+  <div class="card full">
+    <h2>Donor Spotlight</h2>
+    <div class="donor-controls">
+      <select id="donorSelect"><option value="">Select a donor...</option></select>
+      <input type="text" id="donorSearch" placeholder="Search donors..." />
+    </div>
+    <div class="donor-stats" id="donorStats"></div>
+    <div class="chart-wrap"><canvas id="donorChart"></canvas></div>
+  </div>
+
+  <div class="card">
+    <h2>Top 15 All-Time Donors</h2>
+    <div class="chart-wrap"><canvas id="topDonorsChart"></canvas></div>
+  </div>
+
+  <div class="card">
+    <h2>USA Dependency Over Time</h2>
+    <div class="chart-wrap"><canvas id="dependencyChart"></canvas></div>
+  </div>
+
+  <div class="card">
+    <h2>Funding Concentration (2025)</h2>
+    <div class="chart-wrap"><canvas id="concentrationChart"></canvas></div>
+  </div>
+
+  <div class="card">
+    <h2>Donor Count by Year</h2>
+    <div class="chart-wrap"><canvas id="donorCountChart"></canvas></div>
+  </div>
+
+  <div class="card full">
+    <h2>Emerging Donors <span style="font-weight:400;font-size:0.85rem;color:var(--muted)">— Fastest growing contributors (2015–2025)</span></h2>
+    <table id="emergingTable">
+      <thead><tr><th>Donor</th><th>2015 Rank</th><th>2025 Rank</th><th>Change</th><th>2015 Amount</th><th>2025 Amount</th><th>Growth</th></tr></thead>
+      <tbody></tbody>
+    </table>
+  </div>
+
+  <div class="card full">
+    <h2>Donor Rank Changes <span style="font-weight:400;font-size:0.85rem;color:var(--muted)">— Top 10 rank positions over time</span></h2>
+    <div class="chart-wrap"><canvas id="bumpChart"></canvas></div>
+  </div>
+</div>
+
+<script>
+const COLORS = ['#3b82f6','#10b981','#f59e0b','#ef4444','#8b5cf6','#ec4899','#06b6d4','#84cc16','#f97316','#6366f1','#14b8a6','#e11d48','#a855f7','#0ea5e9','#d946ef'];
+
+function parseNum(s) { return parseInt(String(s).replace(/[^0-9]/g,''),10) || 0; }
+function fmt(n) { if(n>=1e9) return '$'+( n/1e9).toFixed(1)+'B'; if(n>=1e6) return '$'+(n/1e6).toFixed(0)+'M'; if(n>=1e3) return '$'+(n/1e3).toFixed(0)+'K'; return '$'+n; }
+function fmtFull(n) { return '$' + n.toLocaleString(); }
+function pct(n) { return (n>=0?'+':'')+n.toFixed(1)+'%'; }
+
+fetch('data.json').then(r=>r.json()).then(raw => {
+  // Parse data
+  const years = [2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025];
+  const allYears = [...years, 2026];
+  const data = {};
+  for (const y of allYears) {
+    const d = raw[String(y)];
+    data[y] = {
+      total: parseNum(d.total_contributions_usd),
+      donors: (d.donors||[]).map(x => ({...x, amount: parseNum(x.total_usd)}))
+    };
+  }
+
+  // === STAT CARDS ===
+  const allTimeTotal = years.reduce((s,y)=>s+data[y].total,0);
+  const peakYear = years.reduce((a,b)=>data[a].total>data[b].total?a:b);
+  const uniqueDonors = new Set(); years.forEach(y=>data[y].donors.forEach(d=>uniqueDonors.add(d.donor)));
+  let maxSingle = {donor:'',year:0,amount:0};
+  years.forEach(y=>data[y].donors.forEach(d=>{if(d.amount>maxSingle.amount)maxSingle={donor:d.donor,year:y,amount:d.amount};}));
+  const yoy2425 = ((data[2025].total - data[2024].total)/data[2024].total*100);
+
+  document.getElementById('statsRow').innerHTML = [
+    {label:'All-Time Funding (2015-2025)',value:fmt(allTimeTotal),detail:`Across ${years.length} years`},
+    {label:'Peak Year',value:String(peakYear),detail:fmt(data[peakYear].total)},
+    {label:'Unique Donors',value:String(uniqueDonors.size),detail:'Across all years'},
+    {label:'Largest Single Contribution',value:fmt(maxSingle.amount),detail:`${maxSingle.donor} (${maxSingle.year})`},
+    {label:'2025 vs 2024',value:pct(yoy2425),detail:fmt(data[2025].total)+' vs '+fmt(data[2024].total)},
+  ].map(c=>`<div class="stat-card"><div class="label">${c.label}</div><div class="value">${c.value}</div><div class="detail">${c.detail}</div></div>`).join('');
+
+  // === TOTAL CONTRIBUTIONS CHART ===
+  const totalCtx = document.getElementById('totalChart');
+  const yoyData = years.map((y,i)=>i===0?0:((data[y].total-data[years[i-1]].total)/data[years[i-1]].total*100));
+  new Chart(totalCtx, {
+    type:'bar',
+    data:{
+      labels:years.map(String),
+      datasets:[
+        {label:'Total Contributions',data:years.map(y=>data[y].total),backgroundColor:'rgba(59,130,246,0.6)',borderColor:'#3b82f6',borderWidth:1,borderRadius:6,order:2},
+        {label:'YoY Change %',data:yoyData,type:'line',borderColor:'#f59e0b',backgroundColor:'transparent',pointBackgroundColor:'#f59e0b',yAxisID:'y1',tension:0.3,order:1}
+      ]
+    },
+    options:{
+      responsive:true,
+      plugins:{tooltip:{callbacks:{label:ctx=>ctx.dataset.label==='Total Contributions'?fmt(ctx.raw):pct(ctx.raw)}}},
+      scales:{
+        y:{ticks:{callback:v=>fmt(v)},grid:{color:'#2a2d3e'}},
+        y1:{position:'right',ticks:{callback:v=>v+'%'},grid:{drawOnChartArea:false}},
+        x:{grid:{color:'#2a2d3e'}}
+      }
+    }
+  });
+
+  // === DONOR SPOTLIGHT ===
+  const allDonorNames = [...uniqueDonors].sort();
+  const sel = document.getElementById('donorSelect');
+  const search = document.getElementById('donorSearch');
+  allDonorNames.forEach(n=>{const o=document.createElement('option');o.value=n;o.textContent=n;sel.appendChild(o);});
+
+  search.addEventListener('input', ()=>{
+    const q = search.value.toLowerCase();
+    [...sel.options].forEach(o=>{o.hidden=o.value&&!o.value.toLowerCase().includes(q);});
+  });
+
+  let donorChartInst = null;
+  sel.addEventListener('change', ()=>renderDonor(sel.value));
+
+  function renderDonor(name) {
+    if(!name) return;
+    const amounts = allYears.map(y=>{const d=data[y].donors.find(x=>x.donor===name); return d?d.amount:0;});
+    const ranks = allYears.map(y=>{const d=data[y].donors.find(x=>x.donor===name); return d?d.rank:null;});
+    const total = amounts.slice(0,-1).reduce((a,b)=>a+b,0); // exclude 2026
+    const peak = Math.max(...amounts);
+    const peakYr = allYears[amounts.indexOf(peak)];
+    const activeYears = amounts.filter(a=>a>0).length;
+    const bestRank = Math.min(...ranks.filter(r=>r!==null));
+
+    document.getElementById('donorStats').innerHTML = [
+      {l:'Lifetime Total (2015-2025)',v:fmt(total)},
+      {l:'Peak Contribution',v:fmt(peak)+' ('+peakYr+')'},
+      {l:'Best Rank',v:'#'+bestRank},
+      {l:'Active Years',v:String(activeYears)+'/'+allYears.length},
+    ].map(c=>`<div class="donor-stat"><div class="ds-label">${c.l}</div><div class="ds-value">${c.v}</div></div>`).join('');
+
+    if(donorChartInst) donorChartInst.destroy();
+    donorChartInst = new Chart(document.getElementById('donorChart'), {
+      type:'bar',
+      data:{
+        labels:allYears.map(y=>y===2026?'2026*':String(y)),
+        datasets:[
+          {label:'Contribution',data:amounts,backgroundColor:amounts.map((_,i)=>i===allYears.length-1?'rgba(59,130,246,0.3)':'rgba(59,130,246,0.6)'),borderRadius:6},
+          {label:'Rank',data:ranks,type:'line',borderColor:'#10b981',backgroundColor:'transparent',pointBackgroundColor:'#10b981',yAxisID:'y1',tension:0.3,spanGaps:true}
+        ]
+      },
+      options:{
+        responsive:true,
+        plugins:{tooltip:{callbacks:{label:ctx=>ctx.dataset.label==='Contribution'?fmt(ctx.raw):'Rank #'+ctx.raw}}},
+        scales:{
+          y:{ticks:{callback:v=>fmt(v)},grid:{color:'#2a2d3e'}},
+          y1:{position:'right',reverse:true,min:1,ticks:{callback:v=>'#'+v},grid:{drawOnChartArea:false},title:{display:true,text:'Rank',color:'#888'}},
+          x:{grid:{color:'#2a2d3e'}}
+        }
+      }
+    });
+  }
+
+  // Default to USA
+  sel.value = 'USA'; renderDonor('USA');
+
+  // === TOP 15 ALL-TIME ===
+  const cumulative = {};
+  years.forEach(y=>data[y].donors.forEach(d=>{cumulative[d.donor]=(cumulative[d.donor]||0)+d.amount;}));
+  const top15 = Object.entries(cumulative).sort((a,b)=>b[1]-a[1]).slice(0,15);
+  new Chart(document.getElementById('topDonorsChart'), {
+    type:'bar',
+    data:{
+      labels:top15.map(x=>x[0]),
+      datasets:[{data:top15.map(x=>x[1]),backgroundColor:COLORS}]
+    },
+    options:{
+      indexAxis:'horizontal',
+      responsive:true,
+      plugins:{legend:{display:false},tooltip:{callbacks:{label:ctx=>fmt(ctx.raw)}}},
+      scales:{
+        x:{ticks:{callback:v=>fmt(v)},grid:{color:'#2a2d3e'}},
+        y:{grid:{color:'#2a2d3e'}}
+      }
+    }
+  });
+
+  // === USA DEPENDENCY ===
+  const usaPct = years.map(y=>{const usa=data[y].donors.find(d=>d.donor==='USA'); return usa?(usa.amount/data[y].total*100):0;});
+  const top5Pct = years.map(y=>{const t5=data[y].donors.slice(0,5).reduce((s,d)=>s+d.amount,0); return (t5/data[y].total*100);});
+  new Chart(document.getElementById('dependencyChart'), {
+    type:'line',
+    data:{
+      labels:years.map(String),
+      datasets:[
+        {label:'USA Share %',data:usaPct,borderColor:'#ef4444',backgroundColor:'rgba(239,68,68,0.1)',fill:true,tension:0.3},
+        {label:'Top 5 Share %',data:top5Pct,borderColor:'#f59e0b',backgroundColor:'rgba(245,158,11,0.1)',fill:true,tension:0.3}
+      ]
+    },
+    options:{
+      responsive:true,
+      plugins:{tooltip:{callbacks:{label:ctx=>ctx.dataset.label+': '+ctx.raw.toFixed(1)+'%'}}},
+      scales:{
+        y:{min:0,max:100,ticks:{callback:v=>v+'%'},grid:{color:'#2a2d3e'}},
+        x:{grid:{color:'#2a2d3e'}}
+      }
+    }
+  });
+
+  // === CONCENTRATION 2025 ===
+  const d2025 = data[2025].donors;
+  const top10amt = d2025.slice(0,10).reduce((s,d)=>s+d.amount,0);
+  const next10amt = d2025.slice(10,20).reduce((s,d)=>s+d.amount,0);
+  const restAmt = data[2025].total - top10amt - next10amt;
+  new Chart(document.getElementById('concentrationChart'), {
+    type:'doughnut',
+    data:{
+      labels:['Top 10 Donors','Rank 11-20','All Others'],
+      datasets:[{data:[top10amt,next10amt,restAmt],backgroundColor:['#3b82f6','#8b5cf6','#374151']}]
+    },
+    options:{
+      responsive:true,
+      plugins:{
+        tooltip:{callbacks:{label:ctx=>ctx.label+': '+fmt(ctx.raw)+' ('+(ctx.raw/data[2025].total*100).toFixed(1)+'%)'}},
+        legend:{position:'bottom',labels:{color:'#e0e0e0'}}
+      }
+    }
+  });
+
+  // === DONOR COUNT ===
+  new Chart(document.getElementById('donorCountChart'), {
+    type:'bar',
+    data:{
+      labels:allYears.map(y=>y===2026?'2026*':String(y)),
+      datasets:[{label:'Number of Donors',data:allYears.map(y=>data[y].donors.length),backgroundColor:'rgba(16,185,129,0.6)',borderRadius:6}]
+    },
+    options:{
+      responsive:true,
+      plugins:{legend:{display:false}},
+      scales:{y:{grid:{color:'#2a2d3e'}},x:{grid:{color:'#2a2d3e'}}}
+    }
+  });
+
+  // === EMERGING DONORS ===
+  const emerging = [];
+  const d2015donors = new Map(data[2015].donors.map(d=>[d.donor,d]));
+  const d2025donors = new Map(data[2025].donors.map(d=>[d.donor,d]));
+  d2025donors.forEach((d25, name)=>{
+    const d15 = d2015donors.get(name);
+    if(d15 && d15.amount > 50000 && d25.amount > 1000000) {
+      const growth = ((d25.amount - d15.amount)/d15.amount*100);
+      emerging.push({name, rank15:d15.rank, rank25:d25.rank, amt15:d15.amount, amt25:d25.amount, growth, rankChange:d15.rank-d25.rank});
+    } else if(!d15 && d25.amount > 5000000) {
+      emerging.push({name, rank15:'N/A', rank25:d25.rank, amt15:0, amt25:d25.amount, growth:Infinity, rankChange:999, isNew:true});
+    }
+  });
+  emerging.sort((a,b)=>{
+    if(a.growth===Infinity && b.growth===Infinity) return a.rank25-b.rank25;
+    if(a.growth===Infinity) return -1;
+    if(b.growth===Infinity) return 1;
+    return b.growth-a.growth;
+  });
+
+  const tbody = document.querySelector('#emergingTable tbody');
+  emerging.slice(0,20).forEach(d=>{
+    const rc = d.rankChange;
+    const rcClass = rc>0?'trend-up':rc<0?'trend-down':'';
+    const rcText = d.isNew?'<span class="badge badge-blue">NEW</span>': rc>0?`<span class="trend-up">&#9650; ${rc}</span>`:`<span class="trend-down">&#9660; ${Math.abs(rc)}</span>`;
+    const growthText = d.growth===Infinity?'<span class="badge badge-green">New Donor</span>': d.growth>0?`<span class="trend-up">+${d.growth.toFixed(0)}%</span>`:`<span class="trend-down">${d.growth.toFixed(0)}%</span>`;
+    tbody.innerHTML += `<tr><td><strong>${d.name}</strong></td><td>${d.rank15}</td><td>${d.rank25}</td><td>${rcText}</td><td>${d.amt15?fmt(d.amt15):'-'}</td><td>${fmt(d.amt25)}</td><td>${growthText}</td></tr>`;
+  });
+
+  // === BUMP CHART (Top 10 rank over time) ===
+  const topDonorNames = top15.slice(0,10).map(x=>x[0]);
+  const bumpDatasets = topDonorNames.map((name,i)=>{
+    const ranks = years.map(y=>{const d=data[y].donors.find(x=>x.donor===name); return d?d.rank:null;});
+    return {label:name, data:ranks, borderColor:COLORS[i], backgroundColor:COLORS[i], tension:0.3, spanGaps:true, pointRadius:5, pointHoverRadius:7};
+  });
+  new Chart(document.getElementById('bumpChart'), {
+    type:'line',
+    data:{labels:years.map(String), datasets:bumpDatasets},
+    options:{
+      responsive:true,
+      plugins:{tooltip:{callbacks:{label:ctx=>ctx.dataset.label+': #'+ctx.raw}}, legend:{position:'bottom',labels:{color:'#e0e0e0'}}},
+      scales:{
+        y:{reverse:true,min:1,max:15,ticks:{callback:v=>'#'+v},grid:{color:'#2a2d3e'}},
+        x:{grid:{color:'#2a2d3e'}}
+      }
+    }
+  });
+});
+</script>
+</body>
+</html>

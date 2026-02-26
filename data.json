@@ -1,0 +1,7160 @@
+{
+  "2026": {
+    "year": 2026,
+    "total_contributions_usd": "732,101,857",
+    "donors": [
+      {
+        "rank": 1,
+        "donor": "USA",
+        "total_usd": "143,721,777",
+        "multiyear_usd": ""
+      },
+      {
+        "rank": 2,
+        "donor": "Germany",
+        "total_usd": "141,409,706",
+        "multiyear_usd": "87,840,900"
+      },
+      {
+        "rank": 3,
+        "donor": "Sweden",
+        "total_usd": "101,282,330",
+        "multiyear_usd": "101,282,330"
+      },
+      {
+        "rank": 4,
+        "donor": "United Kingdom",
+        "total_usd": "44,211,730",
+        "multiyear_usd": "34,020,336"
+      },
+      {
+        "rank": 5,
+        "donor": "Ireland",
+        "total_usd": "40,792,541",
+        "multiyear_usd": "40,792,541"
+      },
+      {
+        "rank": 6,
+        "donor": "Private Donors",
+        "total_usd": "40,630,115",
+        "multiyear_usd": "32,078,117"
+      },
+      {
+        "rank": 7,
+        "donor": "Denmark",
+        "total_usd": "32,930,321",
+        "multiyear_usd": ""
+      },
+      {
+        "rank": 8,
+        "donor": "Russian Federation",
+        "total_usd": "30,800,000",
+        "multiyear_usd": "10,800,000"
+      },
+      {
+        "rank": 9,
+        "donor": "Switzerland",
+        "total_usd": "24,097,352",
+        "multiyear_usd": "24,097,352"
+      },
+      {
+        "rank": 10,
+        "donor": "Canada",
+        "total_usd": "18,079,141",
+        "multiyear_usd": "17,719,170"
+      },
+      {
+        "rank": 11,
+        "donor": "European Commission",
+        "total_usd": "16,147,275",
+        "multiyear_usd": "16,147,275"
+      },
+      {
+        "rank": 12,
+        "donor": "UN Other Funds and Agencies (excl. CERF)",
+        "total_usd": "14,920,742",
+        "multiyear_usd": "13,932,905"
+      },
+      {
+        "rank": 13,
+        "donor": "Colombia",
+        "total_usd": "13,730,397",
+        "multiyear_usd": ""
+      },
+      {
+        "rank": 14,
+        "donor": "Belgium",
+        "total_usd": "13,602,553",
+        "multiyear_usd": "13,602,553"
+      },
+      {
+        "rank": 15,
+        "donor": "UN CERF",
+        "total_usd": "12,860,164",
+        "multiyear_usd": ""
+      },
+      {
+        "rank": 16,
+        "donor": "Italy",
+        "total_usd": "9,835,294",
+        "multiyear_usd": "9,835,294"
+      },
+      {
+        "rank": 17,
+        "donor": "Saudi Arabia",
+        "total_usd": "6,641,746",
+        "multiyear_usd": ""
+      },
+      {
+        "rank": 18,
+        "donor": "Japan",
+        "total_usd": "5,951,236",
+        "multiyear_usd": "1,791,236"
+      },
+      {
+        "rank": 19,
+        "donor": "Netherlands",
+        "total_usd": "4,998,527",
+        "multiyear_usd": "4,998,527"
+      },
+      {
+        "rank": 20,
+        "donor": "Republic of Korea",
+        "total_usd": "3,301,933",
+        "multiyear_usd": "3,301,933"
+      },
+      {
+        "rank": 21,
+        "donor": "Norway",
+        "total_usd": "2,443,793",
+        "multiyear_usd": ""
+      },
+      {
+        "rank": 22,
+        "donor": "Slovenia",
+        "total_usd": "2,068,820",
+        "multiyear_usd": "2,068,820"
+      },
+      {
+        "rank": 23,
+        "donor": "Iceland",
+        "total_usd": "1,397,583",
+        "multiyear_usd": "397,583"
+      },
+      {
+        "rank": 24,
+        "donor": "Monaco",
+        "total_usd": "1,232,315",
+        "multiyear_usd": "1,232,315"
+      },
+      {
+        "rank": 25,
+        "donor": "New Zealand",
+        "total_usd": "1,212,152",
+        "multiyear_usd": "1,212,152"
+      },
+      {
+        "rank": 26,
+        "donor": "Djibouti",
+        "total_usd": "1,000,000",
+        "multiyear_usd": ""
+      },
+      {
+        "rank": 27,
+        "donor": "Kuwait",
+        "total_usd": "650,000",
+        "multiyear_usd": "650,000"
+      },
+      {
+        "rank": 28,
+        "donor": "The Central African Republic",
+        "total_usd": "610,399",
+        "multiyear_usd": ""
+      },
+      {
+        "rank": 29,
+        "donor": "Burundi",
+        "total_usd": "400,000",
+        "multiyear_usd": "400,000"
+      },
+      {
+        "rank": 30,
+        "donor": "Luxembourg",
+        "total_usd": "326,672",
+        "multiyear_usd": "326,672"
+      },
+      {
+        "rank": 31,
+        "donor": "Portugal",
+        "total_usd": "271,495",
+        "multiyear_usd": "271,495"
+      },
+      {
+        "rank": 32,
+        "donor": "Panama",
+        "total_usd": "178,198",
+        "multiyear_usd": "178,198"
+      },
+      {
+        "rank": 33,
+        "donor": "Brazil",
+        "total_usd": "117,182",
+        "multiyear_usd": ""
+      },
+      {
+        "rank": 34,
+        "donor": "Dominican Republic",
+        "total_usd": "100,000",
+        "multiyear_usd": "100,000"
+      },
+      {
+        "rank": 35,
+        "donor": "Cyprus",
+        "total_usd": "95,808",
+        "multiyear_usd": "95,808"
+      },
+      {
+        "rank": 36,
+        "donor": "Estonia",
+        "total_usd": "23,419",
+        "multiyear_usd": "23,419"
+      },
+      {
+        "rank": 37,
+        "donor": "Australia",
+        "total_usd": "19,608",
+        "multiyear_usd": ""
+      },
+      {
+        "rank": 38,
+        "donor": "Thailand",
+        "total_usd": "9,532",
+        "multiyear_usd": "9,532"
+      }
+    ]
+  },
+  "2025": {
+    "year": 2025,
+    "total_contributions_usd": "6,520,399,307",
+    "donors": [
+      {
+        "rank": 1,
+        "donor": "USA",
+        "total_usd": "2,065,857,846",
+        "multiyear_usd": "305,606,927"
+      },
+      {
+        "rank": 2,
+        "donor": "European Commission",
+        "total_usd": "593,476,780",
+        "multiyear_usd": "201,144,404"
+      },
+      {
+        "rank": 3,
+        "donor": "Germany",
+        "total_usd": "570,005,126",
+        "multiyear_usd": "266,260,837"
+      },
+      {
+        "rank": 4,
+        "donor": "United Kingdom",
+        "total_usd": "435,167,050",
+        "multiyear_usd": "118,956,609"
+      },
+      {
+        "rank": 5,
+        "donor": "Private Donors",
+        "total_usd": "310,000,925",
+        "multiyear_usd": "205,720,482"
+      },
+      {
+        "rank": 6,
+        "donor": "Canada",
+        "total_usd": "235,448,270",
+        "multiyear_usd": "164,451,866"
+      },
+      {
+        "rank": 7,
+        "donor": "Republic of Korea",
+        "total_usd": "233,267,003",
+        "multiyear_usd": "184,183,210"
+      },
+      {
+        "rank": 8,
+        "donor": "Sweden",
+        "total_usd": "156,016,770",
+        "multiyear_usd": "63,940,433"
+      },
+      {
+        "rank": 9,
+        "donor": "World Bank",
+        "total_usd": "152,879,378",
+        "multiyear_usd": "67,530,269"
+      },
+      {
+        "rank": 10,
+        "donor": "Norway",
+        "total_usd": "142,885,793",
+        "multiyear_usd": "54,978,132"
+      },
+      {
+        "rank": 11,
+        "donor": "Japan",
+        "total_usd": "124,196,256",
+        "multiyear_usd": "42,840,214"
+      },
+      {
+        "rank": 12,
+        "donor": "UN Other Funds and Agencies (excl. CERF)",
+        "total_usd": "114,994,309",
+        "multiyear_usd": "67,403,170"
+      },
+      {
+        "rank": 13,
+        "donor": "France",
+        "total_usd": "113,614,063",
+        "multiyear_usd": "2,792,559"
+      },
+      {
+        "rank": 14,
+        "donor": "African Dev Bank",
+        "total_usd": "97,552,800",
+        "multiyear_usd": "97,552,800"
+      },
+      {
+        "rank": 15,
+        "donor": "Colombia",
+        "total_usd": "84,044,608",
+        "multiyear_usd": ""
+      },
+      {
+        "rank": 16,
+        "donor": "Switzerland",
+        "total_usd": "80,003,417",
+        "multiyear_usd": "49,456,462"
+      },
+      {
+        "rank": 17,
+        "donor": "Netherlands",
+        "total_usd": "79,881,321",
+        "multiyear_usd": "79,881,321"
+      },
+      {
+        "rank": 18,
+        "donor": "UN CERF",
+        "total_usd": "76,815,002",
+        "multiyear_usd": ""
+      },
+      {
+        "rank": 19,
+        "donor": "Australia",
+        "total_usd": "62,879,874",
+        "multiyear_usd": "44,887,593"
+      },
+      {
+        "rank": 20,
+        "donor": "Green Climate Fund",
+        "total_usd": "57,329,820",
+        "multiyear_usd": "57,329,820"
+      },
+      {
+        "rank": 21,
+        "donor": "Denmark",
+        "total_usd": "52,351,760",
+        "multiyear_usd": "28,918,692"
+      },
+      {
+        "rank": 22,
+        "donor": "Ireland",
+        "total_usd": "52,318,866",
+        "multiyear_usd": "38,011,950"
+      },
+      {
+        "rank": 23,
+        "donor": "Italy",
+        "total_usd": "52,293,975",
+        "multiyear_usd": "26,338,607"
+      },
+      {
+        "rank": 24,
+        "donor": "Russian Federation",
+        "total_usd": "48,002,231",
+        "multiyear_usd": "34,400,000"
+      },
+      {
+        "rank": 25,
+        "donor": "Honduras",
+        "total_usd": "44,813,704",
+        "multiyear_usd": "4,810"
+      },
+      {
+        "rank": 26,
+        "donor": "Asian Development Bank",
+        "total_usd": "44,550,673",
+        "multiyear_usd": "41,550,673"
+      },
+      {
+        "rank": 27,
+        "donor": "Bangladesh",
+        "total_usd": "40,191,524",
+        "multiyear_usd": "40,000,000"
+      },
+      {
+        "rank": 28,
+        "donor": "Austria",
+        "total_usd": "33,017,038",
+        "multiyear_usd": "7,088,517"
+      },
+      {
+        "rank": 29,
+        "donor": "Finland",
+        "total_usd": "31,284,170",
+        "multiyear_usd": "8,273,009"
+      },
+      {
+        "rank": 30,
+        "donor": "Spain",
+        "total_usd": "26,250,964",
+        "multiyear_usd": "20,294,538"
+      },
+      {
+        "rank": 31,
+        "donor": "Chad",
+        "total_usd": "24,559,713",
+        "multiyear_usd": "24,559,713"
+      },
+      {
+        "rank": 32,
+        "donor": "Haiti",
+        "total_usd": "19,691,463",
+        "multiyear_usd": "5,000,000"
+      },
+      {
+        "rank": 33,
+        "donor": "Luxembourg",
+        "total_usd": "19,408,385",
+        "multiyear_usd": "10,839,900"
+      },
+      {
+        "rank": 34,
+        "donor": "China",
+        "total_usd": "19,092,735",
+        "multiyear_usd": "3,492,735"
+      },
+      {
+        "rank": 35,
+        "donor": "United Arab Emirates",
+        "total_usd": "16,632,237",
+        "multiyear_usd": "12,071,162"
+      },
+      {
+        "rank": 36,
+        "donor": "Indonesia",
+        "total_usd": "15,469,815",
+        "multiyear_usd": ""
+      },
+      {
+        "rank": 37,
+        "donor": "Somalia",
+        "total_usd": "15,272,461",
+        "multiyear_usd": ""
+      },
+      {
+        "rank": 38,
+        "donor": "Belgium",
+        "total_usd": "14,624,530",
+        "multiyear_usd": "14,214,213"
+      },
+      {
+        "rank": 39,
+        "donor": "New Zealand",
+        "total_usd": "14,581,927",
+        "multiyear_usd": "7,265,811"
+      },
+      {
+        "rank": 40,
+        "donor": "Benin",
+        "total_usd": "11,608,380",
+        "multiyear_usd": "11,608,380"
+      },
+      {
+        "rank": 41,
+        "donor": "Mozambique",
+        "total_usd": "11,055,968",
+        "multiyear_usd": "11,055,968"
+      },
+      {
+        "rank": 42,
+        "donor": "Iceland",
+        "total_usd": "8,052,659",
+        "multiyear_usd": "8,052,659"
+      },
+      {
+        "rank": 43,
+        "donor": "Burundi",
+        "total_usd": "6,641,289",
+        "multiyear_usd": ""
+      },
+      {
+        "rank": 44,
+        "donor": "Saudi Arabia",
+        "total_usd": "6,520,695",
+        "multiyear_usd": ""
+      },
+      {
+        "rank": 45,
+        "donor": "T\u00fcrkiye",
+        "total_usd": "6,000,040",
+        "multiyear_usd": "6,000,040"
+      },
+      {
+        "rank": 46,
+        "donor": "Guinea Bissau",
+        "total_usd": "6,000,000",
+        "multiyear_usd": "6,000,000"
+      },
+      {
+        "rank": 47,
+        "donor": "Ecuador",
+        "total_usd": "5,762,743",
+        "multiyear_usd": "2,000,000"
+      },
+      {
+        "rank": 48,
+        "donor": "Cameroon",
+        "total_usd": "5,113,369",
+        "multiyear_usd": "1,113,369"
+      },
+      {
+        "rank": 49,
+        "donor": "Lebanon",
+        "total_usd": "4,892,725",
+        "multiyear_usd": ""
+      },
+      {
+        "rank": 50,
+        "donor": "Global Partnership For Education",
+        "total_usd": "4,687,512",
+        "multiyear_usd": ""
+      },
+      {
+        "rank": 51,
+        "donor": "Jordan",
+        "total_usd": "4,595,832",
+        "multiyear_usd": ""
+      },
+      {
+        "rank": 52,
+        "donor": "Pakistan",
+        "total_usd": "3,924,708",
+        "multiyear_usd": "3,924,708"
+      },
+      {
+        "rank": 53,
+        "donor": "Guinea The Republic Of",
+        "total_usd": "3,635,440",
+        "multiyear_usd": "2,800,000"
+      },
+      {
+        "rank": 54,
+        "donor": "Sierra Leone The Republic Of",
+        "total_usd": "3,587,800",
+        "multiyear_usd": "48,827"
+      },
+      {
+        "rank": 55,
+        "donor": "Brazil",
+        "total_usd": "3,266,217",
+        "multiyear_usd": "3,148,017"
+      },
+      {
+        "rank": 56,
+        "donor": "Croatia",
+        "total_usd": "3,032,195",
+        "multiyear_usd": "3,032,195"
+      },
+      {
+        "rank": 57,
+        "donor": "Zimbabwe",
+        "total_usd": "2,911,194",
+        "multiyear_usd": ""
+      },
+      {
+        "rank": 58,
+        "donor": "Portugal",
+        "total_usd": "2,557,267",
+        "multiyear_usd": "2,557,267"
+      },
+      {
+        "rank": 59,
+        "donor": "Poland",
+        "total_usd": "2,373,954",
+        "multiyear_usd": "2,373,954"
+      },
+      {
+        "rank": 60,
+        "donor": "UN Peacebuilding Fund",
+        "total_usd": "2,300,236",
+        "multiyear_usd": "2,300,236"
+      },
+      {
+        "rank": 61,
+        "donor": "Uganda",
+        "total_usd": "2,282,080",
+        "multiyear_usd": ""
+      },
+      {
+        "rank": 62,
+        "donor": "India",
+        "total_usd": "2,262,706",
+        "multiyear_usd": "2,211,893"
+      },
+      {
+        "rank": 63,
+        "donor": "Cambodia",
+        "total_usd": "2,210,740",
+        "multiyear_usd": "910,740"
+      },
+      {
+        "rank": 64,
+        "donor": "Slovenia",
+        "total_usd": "2,207,973",
+        "multiyear_usd": "2,207,973"
+      },
+      {
+        "rank": 65,
+        "donor": "Czech Republic",
+        "total_usd": "2,164,904",
+        "multiyear_usd": "2,164,904"
+      },
+      {
+        "rank": 66,
+        "donor": "Kyrgyzstan",
+        "total_usd": "1,854,500",
+        "multiyear_usd": "1,854,500"
+      },
+      {
+        "rank": 67,
+        "donor": "OPEC Fund for International Development",
+        "total_usd": "1,700,000",
+        "multiyear_usd": "1,700,000"
+      },
+      {
+        "rank": 68,
+        "donor": "Monaco",
+        "total_usd": "1,682,668",
+        "multiyear_usd": "1,398,900"
+      },
+      {
+        "rank": 69,
+        "donor": "The Togolese Republic",
+        "total_usd": "1,649,437",
+        "multiyear_usd": ""
+      },
+      {
+        "rank": 70,
+        "donor": "Timor Leste",
+        "total_usd": "1,600,000",
+        "multiyear_usd": "1,600,000"
+      },
+      {
+        "rank": 71,
+        "donor": "UN COUNTRY BASED POOLED FUNDS",
+        "total_usd": "1,540,934",
+        "multiyear_usd": ""
+      },
+      {
+        "rank": 72,
+        "donor": "Cote D'Ivoire The Republic Of",
+        "total_usd": "1,531,224",
+        "multiyear_usd": "22,244"
+      },
+      {
+        "rank": 73,
+        "donor": "El Salvador",
+        "total_usd": "1,469,231",
+        "multiyear_usd": ""
+      },
+      {
+        "rank": 74,
+        "donor": "Malawi",
+        "total_usd": "1,449,667",
+        "multiyear_usd": ""
+      },
+      {
+        "rank": 75,
+        "donor": "Peru",
+        "total_usd": "1,264,637",
+        "multiyear_usd": "1,264,637"
+      },
+      {
+        "rank": 76,
+        "donor": "Bolivia",
+        "total_usd": "1,003,052",
+        "multiyear_usd": "325,850"
+      },
+      {
+        "rank": 77,
+        "donor": "Malaysia",
+        "total_usd": "1,000,000",
+        "multiyear_usd": "1,000,000"
+      },
+      {
+        "rank": 77,
+        "donor": "Nigeria",
+        "total_usd": "1,000,000",
+        "multiyear_usd": ""
+      },
+      {
+        "rank": 79,
+        "donor": "Madagascar",
+        "total_usd": "998,234",
+        "multiyear_usd": ""
+      },
+      {
+        "rank": 80,
+        "donor": "Republic of Zambia",
+        "total_usd": "931,000",
+        "multiyear_usd": ""
+      },
+      {
+        "rank": 81,
+        "donor": "Burkina Faso",
+        "total_usd": "857,718",
+        "multiyear_usd": ""
+      },
+      {
+        "rank": 82,
+        "donor": "Egypt",
+        "total_usd": "773,148",
+        "multiyear_usd": "773,148"
+      },
+      {
+        "rank": 83,
+        "donor": "Greece",
+        "total_usd": "769,806",
+        "multiyear_usd": "769,806"
+      },
+      {
+        "rank": 84,
+        "donor": "ECOWAS",
+        "total_usd": "721,209",
+        "multiyear_usd": ""
+      },
+      {
+        "rank": 85,
+        "donor": "Liechtenstein",
+        "total_usd": "696,841",
+        "multiyear_usd": "609,278"
+      },
+      {
+        "rank": 86,
+        "donor": "Dominican Republic",
+        "total_usd": "595,174",
+        "multiyear_usd": "595,174"
+      },
+      {
+        "rank": 87,
+        "donor": "Cyprus",
+        "total_usd": "535,719",
+        "multiyear_usd": "535,719"
+      },
+      {
+        "rank": 88,
+        "donor": "Rwanda",
+        "total_usd": "500,820",
+        "multiyear_usd": ""
+      },
+      {
+        "rank": 89,
+        "donor": "Singapore",
+        "total_usd": "500,000",
+        "multiyear_usd": "500,000"
+      },
+      {
+        "rank": 90,
+        "donor": "South Africa",
+        "total_usd": "375,388",
+        "multiyear_usd": "375,388"
+      },
+      {
+        "rank": 91,
+        "donor": "Inter American Dev Bank",
+        "total_usd": "350,000",
+        "multiyear_usd": ""
+      },
+      {
+        "rank": 92,
+        "donor": "Eurasian Development Bank",
+        "total_usd": "300,000",
+        "multiyear_usd": ""
+      },
+      {
+        "rank": 93,
+        "donor": "Ukraine",
+        "total_usd": "266,774",
+        "multiyear_usd": "266,774"
+      },
+      {
+        "rank": 94,
+        "donor": "Liberia",
+        "total_usd": "234,350",
+        "multiyear_usd": ""
+      },
+      {
+        "rank": 95,
+        "donor": "Armenia",
+        "total_usd": "222,053",
+        "multiyear_usd": ""
+      },
+      {
+        "rank": 96,
+        "donor": "Thailand",
+        "total_usd": "214,852",
+        "multiyear_usd": "214,852"
+      },
+      {
+        "rank": 97,
+        "donor": "Tanzania",
+        "total_usd": "189,479",
+        "multiyear_usd": "189,479"
+      },
+      {
+        "rank": 98,
+        "donor": "Panama",
+        "total_usd": "178,198",
+        "multiyear_usd": "178,198"
+      },
+      {
+        "rank": 99,
+        "donor": "Qatar",
+        "total_usd": "153,792",
+        "multiyear_usd": "153,792"
+      },
+      {
+        "rank": 100,
+        "donor": "Niger",
+        "total_usd": "142,644",
+        "multiyear_usd": ""
+      },
+      {
+        "rank": 101,
+        "donor": "Estonia",
+        "total_usd": "132,948",
+        "multiyear_usd": "132,948"
+      },
+      {
+        "rank": 102,
+        "donor": "Malta",
+        "total_usd": "114,496",
+        "multiyear_usd": "114,496"
+      },
+      {
+        "rank": 103,
+        "donor": "Philippines",
+        "total_usd": "100,000",
+        "multiyear_usd": "100,000"
+      },
+      {
+        "rank": 104,
+        "donor": "Lithuania",
+        "total_usd": "81,413",
+        "multiyear_usd": "58,685"
+      },
+      {
+        "rank": 105,
+        "donor": "The Republic Of Fiji",
+        "total_usd": "68,516",
+        "multiyear_usd": "68,516"
+      },
+      {
+        "rank": 106,
+        "donor": "Lesotho",
+        "total_usd": "56,316",
+        "multiyear_usd": "56,316"
+      },
+      {
+        "rank": 107,
+        "donor": "Romania",
+        "total_usd": "49,296",
+        "multiyear_usd": "49,296"
+      },
+      {
+        "rank": 108,
+        "donor": "Kazakhstan",
+        "total_usd": "40,000",
+        "multiyear_usd": "40,000"
+      },
+      {
+        "rank": 109,
+        "donor": "Andorra",
+        "total_usd": "34,762",
+        "multiyear_usd": "34,762"
+      },
+      {
+        "rank": 110,
+        "donor": "Bulgaria",
+        "total_usd": "34,682",
+        "multiyear_usd": "34,682"
+      },
+      {
+        "rank": 111,
+        "donor": "Chile",
+        "total_usd": "20,000",
+        "multiyear_usd": "20,000"
+      },
+      {
+        "rank": 111,
+        "donor": "Hungary",
+        "total_usd": "20,000",
+        "multiyear_usd": "20,000"
+      },
+      {
+        "rank": 113,
+        "donor": "Holy See",
+        "total_usd": "10,000",
+        "multiyear_usd": "10,000"
+      },
+      {
+        "rank": 114,
+        "donor": "Laos",
+        "total_usd": "8,643",
+        "multiyear_usd": "8,643"
+      },
+      {
+        "rank": 115,
+        "donor": "Sri Lanka",
+        "total_usd": "2,481",
+        "multiyear_usd": "2,481"
+      }
+    ]
+  },
+  "2024": {
+    "year": 2024,
+    "total_contributions_usd": "9,759,124,151",
+    "donors": [
+      {
+        "rank": 1,
+        "donor": "USA",
+        "total_usd": "4,447,536,309",
+        "multiyear_usd": "1,161,266,807"
+      },
+      {
+        "rank": 2,
+        "donor": "Germany",
+        "total_usd": "990,912,547",
+        "multiyear_usd": "416,990,276"
+      },
+      {
+        "rank": 3,
+        "donor": "United Kingdom",
+        "total_usd": "609,901,488",
+        "multiyear_usd": "162,723,028"
+      },
+      {
+        "rank": 4,
+        "donor": "European Commission",
+        "total_usd": "591,751,968",
+        "multiyear_usd": "333,951,067"
+      },
+      {
+        "rank": 5,
+        "donor": "Private Donors",
+        "total_usd": "335,633,625",
+        "multiyear_usd": "181,303,646"
+      },
+      {
+        "rank": 6,
+        "donor": "Pakistan",
+        "total_usd": "228,077,489",
+        "multiyear_usd": "968,610"
+      },
+      {
+        "rank": 7,
+        "donor": "Republic of Korea",
+        "total_usd": "203,149,489",
+        "multiyear_usd": "198,149,489"
+      },
+      {
+        "rank": 8,
+        "donor": "France",
+        "total_usd": "196,582,325",
+        "multiyear_usd": "21,022,509"
+      },
+      {
+        "rank": 9,
+        "donor": "Sweden",
+        "total_usd": "183,647,667",
+        "multiyear_usd": "136,997,506"
+      },
+      {
+        "rank": 10,
+        "donor": "Canada",
+        "total_usd": "166,813,498",
+        "multiyear_usd": "50,864,201"
+      },
+      {
+        "rank": 11,
+        "donor": "Norway",
+        "total_usd": "158,326,947",
+        "multiyear_usd": "70,321,844"
+      },
+      {
+        "rank": 12,
+        "donor": "Japan",
+        "total_usd": "155,478,405",
+        "multiyear_usd": "22,895,393"
+      },
+      {
+        "rank": 13,
+        "donor": "UN CERF",
+        "total_usd": "133,060,011",
+        "multiyear_usd": ""
+      },
+      {
+        "rank": 14,
+        "donor": "UN Other Funds and Agencies (excl. CERF)",
+        "total_usd": "120,426,762",
+        "multiyear_usd": "91,555,856"
+      },
+      {
+        "rank": 15,
+        "donor": "Switzerland",
+        "total_usd": "88,877,064",
+        "multiyear_usd": "79,720,773"
+      },
+      {
+        "rank": 16,
+        "donor": "Netherlands",
+        "total_usd": "87,604,937",
+        "multiyear_usd": "76,744,071"
+      },
+      {
+        "rank": 17,
+        "donor": "Denmark",
+        "total_usd": "82,611,965",
+        "multiyear_usd": "55,713,739"
+      },
+      {
+        "rank": 18,
+        "donor": "Chad",
+        "total_usd": "79,852,696",
+        "multiyear_usd": "27,852,696"
+      },
+      {
+        "rank": 19,
+        "donor": "Australia",
+        "total_usd": "74,885,077",
+        "multiyear_usd": "47,474,094"
+      },
+      {
+        "rank": 20,
+        "donor": "Saudi Arabia",
+        "total_usd": "68,541,361",
+        "multiyear_usd": ""
+      },
+      {
+        "rank": 21,
+        "donor": "World Bank",
+        "total_usd": "59,774,499",
+        "multiyear_usd": "56,000,000"
+      },
+      {
+        "rank": 22,
+        "donor": "United Arab Emirates",
+        "total_usd": "58,994,075",
+        "multiyear_usd": "23,930,536"
+      },
+      {
+        "rank": 23,
+        "donor": "Italy",
+        "total_usd": "56,906,954",
+        "multiyear_usd": "26,111,328"
+      },
+      {
+        "rank": 24,
+        "donor": "Somalia",
+        "total_usd": "51,046,153",
+        "multiyear_usd": ""
+      },
+      {
+        "rank": 25,
+        "donor": "Honduras",
+        "total_usd": "47,848,307",
+        "multiyear_usd": "46,002,258"
+      },
+      {
+        "rank": 26,
+        "donor": "Austria",
+        "total_usd": "43,207,616",
+        "multiyear_usd": "23,885,860"
+      },
+      {
+        "rank": 27,
+        "donor": "Russian Federation",
+        "total_usd": "40,000,000",
+        "multiyear_usd": "30,000,000"
+      },
+      {
+        "rank": 28,
+        "donor": "Ireland",
+        "total_usd": "37,838,206",
+        "multiyear_usd": "28,915,031"
+      },
+      {
+        "rank": 29,
+        "donor": "Finland",
+        "total_usd": "31,824,271",
+        "multiyear_usd": "18,872,876"
+      },
+      {
+        "rank": 30,
+        "donor": "Colombia",
+        "total_usd": "29,911,871",
+        "multiyear_usd": "100,000"
+      },
+      {
+        "rank": 31,
+        "donor": "Haiti",
+        "total_usd": "23,900,000",
+        "multiyear_usd": "23,900,000"
+      },
+      {
+        "rank": 32,
+        "donor": "Luxembourg",
+        "total_usd": "21,617,531",
+        "multiyear_usd": "19,026,074"
+      },
+      {
+        "rank": 33,
+        "donor": "Belgium",
+        "total_usd": "21,556,882",
+        "multiyear_usd": "14,122,962"
+      },
+      {
+        "rank": 34,
+        "donor": "Spain",
+        "total_usd": "20,644,189",
+        "multiyear_usd": "15,835,366"
+      },
+      {
+        "rank": 35,
+        "donor": "New Zealand",
+        "total_usd": "15,528,760",
+        "multiyear_usd": "7,213,414"
+      },
+      {
+        "rank": 36,
+        "donor": "Republic of Congo",
+        "total_usd": "13,001,083",
+        "multiyear_usd": ""
+      },
+      {
+        "rank": 37,
+        "donor": "UN COUNTRY BASED POOLED FUNDS",
+        "total_usd": "12,566,728",
+        "multiyear_usd": ""
+      },
+      {
+        "rank": 38,
+        "donor": "Burundi",
+        "total_usd": "12,323,441",
+        "multiyear_usd": "4,203,960"
+      },
+      {
+        "rank": 39,
+        "donor": "China",
+        "total_usd": "11,235,913",
+        "multiyear_usd": "5,034,365"
+      },
+      {
+        "rank": 40,
+        "donor": "The Central African Republic",
+        "total_usd": "11,188,492",
+        "multiyear_usd": ""
+      },
+      {
+        "rank": 41,
+        "donor": "Bangladesh",
+        "total_usd": "11,000,000",
+        "multiyear_usd": "11,000,000"
+      },
+      {
+        "rank": 42,
+        "donor": "GAFSP",
+        "total_usd": "10,558,500",
+        "multiyear_usd": "10,558,500"
+      },
+      {
+        "rank": 43,
+        "donor": "Guinea The Republic Of",
+        "total_usd": "8,450,000",
+        "multiyear_usd": ""
+      },
+      {
+        "rank": 44,
+        "donor": "Sierra Leone The Republic Of",
+        "total_usd": "7,453,429",
+        "multiyear_usd": "3,628,430"
+      },
+      {
+        "rank": 45,
+        "donor": "Ukraine",
+        "total_usd": "7,261,483",
+        "multiyear_usd": "4,672,134"
+      },
+      {
+        "rank": 46,
+        "donor": "Iceland",
+        "total_usd": "6,771,366",
+        "multiyear_usd": "6,021,366"
+      },
+      {
+        "rank": 47,
+        "donor": "Benin",
+        "total_usd": "6,663,542",
+        "multiyear_usd": ""
+      },
+      {
+        "rank": 48,
+        "donor": "Laos",
+        "total_usd": "5,765,482",
+        "multiyear_usd": "5,765,482"
+      },
+      {
+        "rank": 49,
+        "donor": "Qatar",
+        "total_usd": "5,179,371",
+        "multiyear_usd": ""
+      },
+      {
+        "rank": 50,
+        "donor": "Slovenia",
+        "total_usd": "5,094,135",
+        "multiyear_usd": "5,094,135"
+      },
+      {
+        "rank": 51,
+        "donor": "El Salvador",
+        "total_usd": "4,469,320",
+        "multiyear_usd": "3,000,000"
+      },
+      {
+        "rank": 52,
+        "donor": "UN Peacebuilding Fund",
+        "total_usd": "4,430,751",
+        "multiyear_usd": "4,430,751"
+      },
+      {
+        "rank": 53,
+        "donor": "Poland",
+        "total_usd": "4,249,280",
+        "multiyear_usd": "4,249,280"
+      },
+      {
+        "rank": 54,
+        "donor": "Gambia",
+        "total_usd": "3,692,290",
+        "multiyear_usd": "3,692,290"
+      },
+      {
+        "rank": 55,
+        "donor": "Brazil",
+        "total_usd": "3,361,739",
+        "multiyear_usd": "3,361,739"
+      },
+      {
+        "rank": 56,
+        "donor": "Ecuador",
+        "total_usd": "2,889,329",
+        "multiyear_usd": "2,889,329"
+      },
+      {
+        "rank": 57,
+        "donor": "Lesotho",
+        "total_usd": "2,381,000",
+        "multiyear_usd": ""
+      },
+      {
+        "rank": 58,
+        "donor": "Portugal",
+        "total_usd": "2,213,568",
+        "multiyear_usd": "2,213,568"
+      },
+      {
+        "rank": 59,
+        "donor": "Zimbabwe",
+        "total_usd": "2,163,316",
+        "multiyear_usd": "2,163,316"
+      },
+      {
+        "rank": 60,
+        "donor": "African Dev Bank",
+        "total_usd": "2,020,800",
+        "multiyear_usd": "20,800"
+      },
+      {
+        "rank": 61,
+        "donor": "Cote D'Ivoire The Republic Of",
+        "total_usd": "1,821,350",
+        "multiyear_usd": "373,571"
+      },
+      {
+        "rank": 62,
+        "donor": "Ghana",
+        "total_usd": "1,798,000",
+        "multiyear_usd": ""
+      },
+      {
+        "rank": 63,
+        "donor": "Republic of Zambia",
+        "total_usd": "1,650,565",
+        "multiyear_usd": "1,650,565"
+      },
+      {
+        "rank": 64,
+        "donor": "The Togolese Republic",
+        "total_usd": "1,639,409",
+        "multiyear_usd": "1,639,409"
+      },
+      {
+        "rank": 65,
+        "donor": "Liberia",
+        "total_usd": "1,575,000",
+        "multiyear_usd": ""
+      },
+      {
+        "rank": 66,
+        "donor": "Malawi",
+        "total_usd": "1,411,643",
+        "multiyear_usd": "1,411,643"
+      },
+      {
+        "rank": 67,
+        "donor": "ECOWAS",
+        "total_usd": "1,406,747",
+        "multiyear_usd": ""
+      },
+      {
+        "rank": 68,
+        "donor": "Monaco",
+        "total_usd": "1,268,520",
+        "multiyear_usd": "974,377"
+      },
+      {
+        "rank": 69,
+        "donor": "Czech Republic",
+        "total_usd": "1,259,179",
+        "multiyear_usd": "1,159,179"
+      },
+      {
+        "rank": 70,
+        "donor": "India",
+        "total_usd": "1,245,005",
+        "multiyear_usd": "1,245,005"
+      },
+      {
+        "rank": 71,
+        "donor": "Peru",
+        "total_usd": "1,242,297",
+        "multiyear_usd": "1,242,297"
+      },
+      {
+        "rank": 72,
+        "donor": "Cameroon",
+        "total_usd": "1,000,000",
+        "multiyear_usd": ""
+      },
+      {
+        "rank": 72,
+        "donor": "Islamic Development Bank",
+        "total_usd": "1,000,000",
+        "multiyear_usd": ""
+      },
+      {
+        "rank": 72,
+        "donor": "Malaysia",
+        "total_usd": "1,000,000",
+        "multiyear_usd": "1,000,000"
+      },
+      {
+        "rank": 72,
+        "donor": "Nigeria",
+        "total_usd": "1,000,000",
+        "multiyear_usd": ""
+      },
+      {
+        "rank": 76,
+        "donor": "Global Partnership For Education",
+        "total_usd": "1,000,000",
+        "multiyear_usd": "1,000,000"
+      },
+      {
+        "rank": 77,
+        "donor": "Croatia",
+        "total_usd": "795,515",
+        "multiyear_usd": "795,515"
+      },
+      {
+        "rank": 78,
+        "donor": "Assoc of SE Asian Nations",
+        "total_usd": "760,000",
+        "multiyear_usd": ""
+      },
+      {
+        "rank": 79,
+        "donor": "Liechtenstein",
+        "total_usd": "533,650",
+        "multiyear_usd": "336,772"
+      },
+      {
+        "rank": 80,
+        "donor": "Iraq",
+        "total_usd": "490,784",
+        "multiyear_usd": "490,784"
+      },
+      {
+        "rank": 81,
+        "donor": "The Intergovernmental Authority on Development in Eastern Africa",
+        "total_usd": "458,982",
+        "multiyear_usd": "458,982"
+      },
+      {
+        "rank": 82,
+        "donor": "South Sudan",
+        "total_usd": "400,000",
+        "multiyear_usd": ""
+      },
+      {
+        "rank": 83,
+        "donor": "Egypt",
+        "total_usd": "383,791",
+        "multiyear_usd": "383,791"
+      },
+      {
+        "rank": 84,
+        "donor": "The Kingdom Of Eswatini",
+        "total_usd": "283,240",
+        "multiyear_usd": ""
+      },
+      {
+        "rank": 85,
+        "donor": "Angola",
+        "total_usd": "267,970",
+        "multiyear_usd": "267,970"
+      },
+      {
+        "rank": 86,
+        "donor": "Slovakia",
+        "total_usd": "233,818",
+        "multiyear_usd": "233,818"
+      },
+      {
+        "rank": 87,
+        "donor": "Eurasian Development Bank",
+        "total_usd": "200,286",
+        "multiyear_usd": ""
+      },
+      {
+        "rank": 88,
+        "donor": "Estonia",
+        "total_usd": "195,404",
+        "multiyear_usd": "195,404"
+      },
+      {
+        "rank": 89,
+        "donor": "Intl Committee of The Red Cross",
+        "total_usd": "193,670",
+        "multiyear_usd": ""
+      },
+      {
+        "rank": 90,
+        "donor": "Philippines",
+        "total_usd": "188,058",
+        "multiyear_usd": "100,000"
+      },
+      {
+        "rank": 91,
+        "donor": "Panama",
+        "total_usd": "179,198",
+        "multiyear_usd": "179,198"
+      },
+      {
+        "rank": 92,
+        "donor": "Asian Development Bank",
+        "total_usd": "170,800",
+        "multiyear_usd": "170,800"
+      },
+      {
+        "rank": 93,
+        "donor": "South Africa",
+        "total_usd": "161,848",
+        "multiyear_usd": "161,848"
+      },
+      {
+        "rank": 94,
+        "donor": "Indonesia",
+        "total_usd": "150,688",
+        "multiyear_usd": "150,688"
+      },
+      {
+        "rank": 95,
+        "donor": "Faroe Islands",
+        "total_usd": "143,740",
+        "multiyear_usd": ""
+      },
+      {
+        "rank": 96,
+        "donor": "Thailand",
+        "total_usd": "132,223",
+        "multiyear_usd": "132,223"
+      },
+      {
+        "rank": 97,
+        "donor": "Latvia",
+        "total_usd": "118,998",
+        "multiyear_usd": "118,998"
+      },
+      {
+        "rank": 98,
+        "donor": "Greece",
+        "total_usd": "111,857",
+        "multiyear_usd": "111,857"
+      },
+      {
+        "rank": 98,
+        "donor": "Lithuania",
+        "total_usd": "111,857",
+        "multiyear_usd": "111,857"
+      },
+      {
+        "rank": 100,
+        "donor": "Malta",
+        "total_usd": "108,184",
+        "multiyear_usd": "64,800"
+      },
+      {
+        "rank": 101,
+        "donor": "Cyprus",
+        "total_usd": "74,763",
+        "multiyear_usd": "74,763"
+      },
+      {
+        "rank": 102,
+        "donor": "The Republic Of Fiji",
+        "total_usd": "65,934",
+        "multiyear_usd": "65,934"
+      },
+      {
+        "rank": 103,
+        "donor": "Dominican Republic",
+        "total_usd": "56,664",
+        "multiyear_usd": ""
+      },
+      {
+        "rank": 104,
+        "donor": "Bulgaria",
+        "total_usd": "32,538",
+        "multiyear_usd": "32,538"
+      },
+      {
+        "rank": 105,
+        "donor": "Andorra",
+        "total_usd": "31,250",
+        "multiyear_usd": "31,250"
+      },
+      {
+        "rank": 106,
+        "donor": "Kazakhstan",
+        "total_usd": "30,000",
+        "multiyear_usd": "30,000"
+      },
+      {
+        "rank": 107,
+        "donor": "Armenia",
+        "total_usd": "20,000",
+        "multiyear_usd": ""
+      },
+      {
+        "rank": 107,
+        "donor": "Chile",
+        "total_usd": "20,000",
+        "multiyear_usd": "20,000"
+      },
+      {
+        "rank": 107,
+        "donor": "Hungary",
+        "total_usd": "20,000",
+        "multiyear_usd": "20,000"
+      },
+      {
+        "rank": 110,
+        "donor": "T\u00fcrkiye",
+        "total_usd": "19,890",
+        "multiyear_usd": "19,890"
+      },
+      {
+        "rank": 111,
+        "donor": "Sri Lanka",
+        "total_usd": "2,587",
+        "multiyear_usd": "2,587"
+      },
+      {
+        "rank": 112,
+        "donor": "Moldova",
+        "total_usd": "2,000",
+        "multiyear_usd": "2,000"
+      },
+      {
+        "rank": 113,
+        "donor": "Mexico",
+        "total_usd": "949",
+        "multiyear_usd": "949"
+      }
+    ]
+  },
+  "2023": {
+    "year": 2023,
+    "total_contributions_usd": "8,277,504,410",
+    "donors": [
+      {
+        "rank": 1,
+        "donor": "USA",
+        "total_usd": "2,978,314,281",
+        "multiyear_usd": "1,639,933,746"
+      },
+      {
+        "rank": 2,
+        "donor": "Germany",
+        "total_usd": "1,329,133,734",
+        "multiyear_usd": "160,736,059"
+      },
+      {
+        "rank": 3,
+        "donor": "European Commission",
+        "total_usd": "504,672,551",
+        "multiyear_usd": "297,863,300"
+      },
+      {
+        "rank": 4,
+        "donor": "Canada",
+        "total_usd": "306,934,019",
+        "multiyear_usd": "95,566,090"
+      },
+      {
+        "rank": 5,
+        "donor": "United Kingdom",
+        "total_usd": "290,747,871",
+        "multiyear_usd": "9,364,726"
+      },
+      {
+        "rank": 6,
+        "donor": "Private Donors",
+        "total_usd": "270,121,482",
+        "multiyear_usd": "150,210,923"
+      },
+      {
+        "rank": 7,
+        "donor": "Norway",
+        "total_usd": "224,731,151",
+        "multiyear_usd": "87,937,008"
+      },
+      {
+        "rank": 8,
+        "donor": "Japan",
+        "total_usd": "209,043,381",
+        "multiyear_usd": "22,114,058"
+      },
+      {
+        "rank": 9,
+        "donor": "Sweden",
+        "total_usd": "199,223,703",
+        "multiyear_usd": "131,651,101"
+      },
+      {
+        "rank": 10,
+        "donor": "France",
+        "total_usd": "180,711,264",
+        "multiyear_usd": "45,274,693"
+      },
+      {
+        "rank": 11,
+        "donor": "UN CERF",
+        "total_usd": "165,939,454",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 12,
+        "donor": "UN Other Funds and Agencies (excl. CERF)",
+        "total_usd": "125,770,335",
+        "multiyear_usd": "106,383,647"
+      },
+      {
+        "rank": 13,
+        "donor": "Switzerland",
+        "total_usd": "122,046,717",
+        "multiyear_usd": "102,880,234"
+      },
+      {
+        "rank": 14,
+        "donor": "Benin",
+        "total_usd": "116,759,729",
+        "multiyear_usd": "116,759,729"
+      },
+      {
+        "rank": 15,
+        "donor": "Asian Development Bank",
+        "total_usd": "101,990,500",
+        "multiyear_usd": "99,979,200"
+      },
+      {
+        "rank": 16,
+        "donor": "Netherlands",
+        "total_usd": "88,932,670",
+        "multiyear_usd": "87,625,712"
+      },
+      {
+        "rank": 17,
+        "donor": "Republic of Korea",
+        "total_usd": "76,605,799",
+        "multiyear_usd": "69,971,741"
+      },
+      {
+        "rank": 18,
+        "donor": "Australia",
+        "total_usd": "72,713,016",
+        "multiyear_usd": "22,506,410"
+      },
+      {
+        "rank": 19,
+        "donor": "Russian Federation",
+        "total_usd": "71,490,000",
+        "multiyear_usd": "71,490,000"
+      },
+      {
+        "rank": 20,
+        "donor": "UN COUNTRY BASED POOLED FUNDS",
+        "total_usd": "56,442,742",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 21,
+        "donor": "Denmark",
+        "total_usd": "52,775,550",
+        "multiyear_usd": "36,171,736"
+      },
+      {
+        "rank": 22,
+        "donor": "Haiti",
+        "total_usd": "51,300,000",
+        "multiyear_usd": "51,300,000"
+      },
+      {
+        "rank": 23,
+        "donor": "Cameroon",
+        "total_usd": "44,841,107",
+        "multiyear_usd": "44,841,107"
+      },
+      {
+        "rank": 24,
+        "donor": "Honduras",
+        "total_usd": "43,287,089",
+        "multiyear_usd": "42,072,802"
+      },
+      {
+        "rank": 25,
+        "donor": "Madagascar",
+        "total_usd": "43,100,000",
+        "multiyear_usd": "40,000,000"
+      },
+      {
+        "rank": 26,
+        "donor": "Ireland",
+        "total_usd": "38,042,012",
+        "multiyear_usd": "25,169,220"
+      },
+      {
+        "rank": 27,
+        "donor": "Colombia",
+        "total_usd": "37,625,074",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 28,
+        "donor": "Austria",
+        "total_usd": "34,875,784",
+        "multiyear_usd": "6,397,808"
+      },
+      {
+        "rank": 29,
+        "donor": "Belgium",
+        "total_usd": "33,513,997",
+        "multiyear_usd": "5,364,807"
+      },
+      {
+        "rank": 30,
+        "donor": "Finland",
+        "total_usd": "31,068,236",
+        "multiyear_usd": "31,068,236"
+      },
+      {
+        "rank": 31,
+        "donor": "Burundi",
+        "total_usd": "27,803,987",
+        "multiyear_usd": "8,248,335"
+      },
+      {
+        "rank": 32,
+        "donor": "Spain",
+        "total_usd": "26,331,084",
+        "multiyear_usd": "6,778,322"
+      },
+      {
+        "rank": 33,
+        "donor": "World Bank",
+        "total_usd": "25,457,892",
+        "multiyear_usd": "20,157,892"
+      },
+      {
+        "rank": 34,
+        "donor": "Italy",
+        "total_usd": "24,784,026",
+        "multiyear_usd": "19,678,379"
+      },
+      {
+        "rank": 35,
+        "donor": "Guinea The Republic Of",
+        "total_usd": "20,000,000",
+        "multiyear_usd": "20,000,000"
+      },
+      {
+        "rank": 36,
+        "donor": "Kuwait",
+        "total_usd": "18,761,000",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 37,
+        "donor": "New Zealand",
+        "total_usd": "17,825,433",
+        "multiyear_usd": "11,363,728"
+      },
+      {
+        "rank": 38,
+        "donor": "United Arab Emirates",
+        "total_usd": "17,158,453",
+        "multiyear_usd": "11,850,093"
+      },
+      {
+        "rank": 39,
+        "donor": "Luxembourg",
+        "total_usd": "16,734,688",
+        "multiyear_usd": "4,441,782"
+      },
+      {
+        "rank": 40,
+        "donor": "Saudi Arabia",
+        "total_usd": "15,277,994",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 41,
+        "donor": "South Sudan",
+        "total_usd": "15,000,000",
+        "multiyear_usd": "15,000,000"
+      },
+      {
+        "rank": 42,
+        "donor": "China",
+        "total_usd": "13,740,852",
+        "multiyear_usd": "7,240,852"
+      },
+      {
+        "rank": 43,
+        "donor": "Laos",
+        "total_usd": "10,727,000",
+        "multiyear_usd": "10,727,000"
+      },
+      {
+        "rank": 44,
+        "donor": "Gaza/W.Bank",
+        "total_usd": "10,000,000",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 45,
+        "donor": "Green Climate Fund",
+        "total_usd": "9,764,870",
+        "multiyear_usd": "9,764,870"
+      },
+      {
+        "rank": 46,
+        "donor": "Somalia",
+        "total_usd": "8,240,000",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 47,
+        "donor": "India",
+        "total_usd": "7,990,485",
+        "multiyear_usd": "2,878,540"
+      },
+      {
+        "rank": 48,
+        "donor": "Guinea Bissau",
+        "total_usd": "6,996,118",
+        "multiyear_usd": "6,704,203"
+      },
+      {
+        "rank": 49,
+        "donor": "Iceland",
+        "total_usd": "6,591,078",
+        "multiyear_usd": "6,291,078"
+      },
+      {
+        "rank": 50,
+        "donor": "Ukraine",
+        "total_usd": "6,147,000",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 51,
+        "donor": "Portugal",
+        "total_usd": "5,889,180",
+        "multiyear_usd": "5,889,180"
+      },
+      {
+        "rank": 52,
+        "donor": "Qatar",
+        "total_usd": "5,401,749",
+        "multiyear_usd": "5,000,000"
+      },
+      {
+        "rank": 53,
+        "donor": "UN Peacebuilding Fund",
+        "total_usd": "3,800,000",
+        "multiyear_usd": "3,800,000"
+      },
+      {
+        "rank": 54,
+        "donor": "Malawi",
+        "total_usd": "3,537,192",
+        "multiyear_usd": "3,537,192"
+      },
+      {
+        "rank": 55,
+        "donor": "Nepal",
+        "total_usd": "3,378,089",
+        "multiyear_usd": "3,378,089"
+      },
+      {
+        "rank": 56,
+        "donor": "Islamic Development Bank",
+        "total_usd": "3,221,985",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 57,
+        "donor": "Pakistan",
+        "total_usd": "3,162,436",
+        "multiyear_usd": "1,390,913"
+      },
+      {
+        "rank": 58,
+        "donor": "Congo D.R.",
+        "total_usd": "3,135,023",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 59,
+        "donor": "Burkina Faso",
+        "total_usd": "3,000,000",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 60,
+        "donor": "Sierra Leone The Republic Of",
+        "total_usd": "2,890,562",
+        "multiyear_usd": "190,562"
+      },
+      {
+        "rank": 61,
+        "donor": "Bhutan",
+        "total_usd": "2,605,069",
+        "multiyear_usd": "2,605,069"
+      },
+      {
+        "rank": 62,
+        "donor": "The Togolese Republic",
+        "total_usd": "2,016,360",
+        "multiyear_usd": "2,016,360"
+      },
+      {
+        "rank": 63,
+        "donor": "Slovenia",
+        "total_usd": "2,001,979",
+        "multiyear_usd": "2,001,979"
+      },
+      {
+        "rank": 64,
+        "donor": "Poland",
+        "total_usd": "1,801,476",
+        "multiyear_usd": "1,801,476"
+      },
+      {
+        "rank": 65,
+        "donor": "Assoc of SE Asian Nations",
+        "total_usd": "1,746,685",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 66,
+        "donor": "Monaco",
+        "total_usd": "1,682,372",
+        "multiyear_usd": "874,253"
+      },
+      {
+        "rank": 67,
+        "donor": "Cote D'Ivoire The Republic Of",
+        "total_usd": "1,645,690",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 68,
+        "donor": "Czech Republic",
+        "total_usd": "1,644,340",
+        "multiyear_usd": "1,544,340"
+      },
+      {
+        "rank": 69,
+        "donor": "Kyrgyzstan",
+        "total_usd": "1,600,000",
+        "multiyear_usd": "1,600,000"
+      },
+      {
+        "rank": 70,
+        "donor": "Brazil",
+        "total_usd": "1,572,192",
+        "multiyear_usd": "1,572,192"
+      },
+      {
+        "rank": 71,
+        "donor": "Croatia",
+        "total_usd": "1,482,770",
+        "multiyear_usd": "1,482,770"
+      },
+      {
+        "rank": 72,
+        "donor": "Peru",
+        "total_usd": "1,249,646",
+        "multiyear_usd": "1,249,646"
+      },
+      {
+        "rank": 73,
+        "donor": "ECOWAS",
+        "total_usd": "1,000,000",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 73,
+        "donor": "Malaysia",
+        "total_usd": "1,000,000",
+        "multiyear_usd": "1,000,000"
+      },
+      {
+        "rank": 73,
+        "donor": "Mongolia",
+        "total_usd": "1,000,000",
+        "multiyear_usd": "1,000,000"
+      },
+      {
+        "rank": 76,
+        "donor": "Philippines",
+        "total_usd": "927,888",
+        "multiyear_usd": "927,888"
+      },
+      {
+        "rank": 77,
+        "donor": "Zimbabwe",
+        "total_usd": "848,629",
+        "multiyear_usd": "848,629"
+      },
+      {
+        "rank": 78,
+        "donor": "Liechtenstein",
+        "total_usd": "666,371",
+        "multiyear_usd": "666,371"
+      },
+      {
+        "rank": 79,
+        "donor": "Cyprus",
+        "total_usd": "588,595",
+        "multiyear_usd": "512,259"
+      },
+      {
+        "rank": 80,
+        "donor": "Nicaragua",
+        "total_usd": "586,470",
+        "multiyear_usd": "586,470"
+      },
+      {
+        "rank": 81,
+        "donor": "Arab Bank for Economic Development in Africa",
+        "total_usd": "500,000",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 81,
+        "donor": "OPEC Fund for International Development",
+        "total_usd": "500,000",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 83,
+        "donor": "Egypt",
+        "total_usd": "387,197",
+        "multiyear_usd": "387,197"
+      },
+      {
+        "rank": 84,
+        "donor": "Panama",
+        "total_usd": "376,198",
+        "multiyear_usd": "376,198"
+      },
+      {
+        "rank": 85,
+        "donor": "Romania",
+        "total_usd": "300,798",
+        "multiyear_usd": "35,728"
+      },
+      {
+        "rank": 86,
+        "donor": "South Africa",
+        "total_usd": "233,072",
+        "multiyear_usd": "233,072"
+      },
+      {
+        "rank": 87,
+        "donor": "Greece",
+        "total_usd": "222,332",
+        "multiyear_usd": "222,332"
+      },
+      {
+        "rank": 88,
+        "donor": "Libya",
+        "total_usd": "197,251",
+        "multiyear_usd": "197,251"
+      },
+      {
+        "rank": 89,
+        "donor": "Estonia",
+        "total_usd": "174,596",
+        "multiyear_usd": "174,596"
+      },
+      {
+        "rank": 90,
+        "donor": "Tanzania",
+        "total_usd": "156,000",
+        "multiyear_usd": "156,000"
+      },
+      {
+        "rank": 91,
+        "donor": "Chad",
+        "total_usd": "150,000",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 91,
+        "donor": "Indonesia",
+        "total_usd": "150,000",
+        "multiyear_usd": "150,000"
+      },
+      {
+        "rank": 93,
+        "donor": "Angola",
+        "total_usd": "141,039",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 94,
+        "donor": "Thailand",
+        "total_usd": "138,496",
+        "multiyear_usd": "138,496"
+      },
+      {
+        "rank": 95,
+        "donor": "Malta",
+        "total_usd": "128,071",
+        "multiyear_usd": "95,709"
+      },
+      {
+        "rank": 96,
+        "donor": "Slovakia",
+        "total_usd": "121,724",
+        "multiyear_usd": "121,724"
+      },
+      {
+        "rank": 97,
+        "donor": "Bulgaria",
+        "total_usd": "108,186",
+        "multiyear_usd": "108,186"
+      },
+      {
+        "rank": 98,
+        "donor": "Lithuania",
+        "total_usd": "76,754",
+        "multiyear_usd": "76,754"
+      },
+      {
+        "rank": 99,
+        "donor": "Argentina",
+        "total_usd": "70,103",
+        "multiyear_usd": "70,103"
+      },
+      {
+        "rank": 100,
+        "donor": "Korea Dpr",
+        "total_usd": "62,484",
+        "multiyear_usd": "62,484"
+      },
+      {
+        "rank": 101,
+        "donor": "Hungary",
+        "total_usd": "41,160",
+        "multiyear_usd": "41,160"
+      },
+      {
+        "rank": 102,
+        "donor": "Latvia",
+        "total_usd": "21,345",
+        "multiyear_usd": "21,345"
+      },
+      {
+        "rank": 103,
+        "donor": "Armenia",
+        "total_usd": "20,000",
+        "multiyear_usd": "20,000"
+      },
+      {
+        "rank": 103,
+        "donor": "Chile",
+        "total_usd": "20,000",
+        "multiyear_usd": "20,000"
+      },
+      {
+        "rank": 105,
+        "donor": "Tajikistan Government of the Republic of",
+        "total_usd": "18,325",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 106,
+        "donor": "Andorra",
+        "total_usd": "17,260",
+        "multiyear_usd": "17,260"
+      },
+      {
+        "rank": 107,
+        "donor": "Sri Lanka",
+        "total_usd": "4,063",
+        "multiyear_usd": "4,063"
+      }
+    ]
+  },
+  "2022": {
+    "year": 2022,
+    "total_contributions_usd": "14,180,991,443",
+    "donors": [
+      {
+        "rank": 1,
+        "donor": "USA",
+        "total_usd": "7,249,621,803",
+        "multiyear_usd": "3,522,188,207"
+      },
+      {
+        "rank": 2,
+        "donor": "Germany",
+        "total_usd": "1,783,695,930",
+        "multiyear_usd": "182,583,367"
+      },
+      {
+        "rank": 3,
+        "donor": "European Commission",
+        "total_usd": "698,232,580",
+        "multiyear_usd": "297,018,689"
+      },
+      {
+        "rank": 4,
+        "donor": "Private Donors",
+        "total_usd": "539,411,790",
+        "multiyear_usd": "366,045,773"
+      },
+      {
+        "rank": 5,
+        "donor": "Canada",
+        "total_usd": "442,819,354",
+        "multiyear_usd": "151,976,796"
+      },
+      {
+        "rank": 6,
+        "donor": "United Kingdom",
+        "total_usd": "417,170,960",
+        "multiyear_usd": "29,593,445"
+      },
+      {
+        "rank": 7,
+        "donor": "Japan",
+        "total_usd": "265,549,746",
+        "multiyear_usd": "39,410,231"
+      },
+      {
+        "rank": 8,
+        "donor": "Sweden",
+        "total_usd": "258,278,603",
+        "multiyear_usd": "197,585,341"
+      },
+      {
+        "rank": 9,
+        "donor": "UN CERF",
+        "total_usd": "176,976,011",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 10,
+        "donor": "Norway",
+        "total_usd": "172,222,165",
+        "multiyear_usd": "64,078,696"
+      },
+      {
+        "rank": 11,
+        "donor": "UN Other Funds and Agencies (excl. CERF)",
+        "total_usd": "170,994,084",
+        "multiyear_usd": "113,434,787"
+      },
+      {
+        "rank": 12,
+        "donor": "France",
+        "total_usd": "166,746,187",
+        "multiyear_usd": "53,467,997"
+      },
+      {
+        "rank": 13,
+        "donor": "Somalia",
+        "total_usd": "135,314,468",
+        "multiyear_usd": "135,314,468"
+      },
+      {
+        "rank": 14,
+        "donor": "Asian Development Bank",
+        "total_usd": "135,100,000",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 15,
+        "donor": "World Bank",
+        "total_usd": "126,293,620",
+        "multiyear_usd": "26,243,620"
+      },
+      {
+        "rank": 16,
+        "donor": "Republic of Korea",
+        "total_usd": "114,931,096",
+        "multiyear_usd": "103,111,440"
+      },
+      {
+        "rank": 17,
+        "donor": "Netherlands",
+        "total_usd": "113,005,455",
+        "multiyear_usd": "35,368,424"
+      },
+      {
+        "rank": 18,
+        "donor": "Australia",
+        "total_usd": "112,996,699",
+        "multiyear_usd": "36,492,346"
+      },
+      {
+        "rank": 19,
+        "donor": "Switzerland",
+        "total_usd": "109,682,167",
+        "multiyear_usd": "28,577,287"
+      },
+      {
+        "rank": 20,
+        "donor": "United Arab Emirates",
+        "total_usd": "93,712,569",
+        "multiyear_usd": "6,822,793"
+      },
+      {
+        "rank": 21,
+        "donor": "UN COUNTRY BASED POOLED FUNDS",
+        "total_usd": "86,597,520",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 22,
+        "donor": "African Dev Bank",
+        "total_usd": "76,127,426",
+        "multiyear_usd": "76,127,426"
+      },
+      {
+        "rank": 23,
+        "donor": "Ethiopia",
+        "total_usd": "65,000,000",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 24,
+        "donor": "Italy",
+        "total_usd": "64,412,540",
+        "multiyear_usd": "36,317,715"
+      },
+      {
+        "rank": 25,
+        "donor": "Denmark",
+        "total_usd": "62,410,059",
+        "multiyear_usd": "47,079,196"
+      },
+      {
+        "rank": 26,
+        "donor": "Haiti",
+        "total_usd": "41,900,000",
+        "multiyear_usd": "41,900,000"
+      },
+      {
+        "rank": 27,
+        "donor": "Finland",
+        "total_usd": "35,312,652",
+        "multiyear_usd": "35,312,652"
+      },
+      {
+        "rank": 28,
+        "donor": "Ireland",
+        "total_usd": "33,988,879",
+        "multiyear_usd": "29,685,413"
+      },
+      {
+        "rank": 29,
+        "donor": "Saudi Arabia",
+        "total_usd": "33,177,558",
+        "multiyear_usd": "25,412,315"
+      },
+      {
+        "rank": 30,
+        "donor": "Russian Federation",
+        "total_usd": "30,560,006",
+        "multiyear_usd": "24,460,000"
+      },
+      {
+        "rank": 31,
+        "donor": "Bangladesh",
+        "total_usd": "30,000,000",
+        "multiyear_usd": "30,000,000"
+      },
+      {
+        "rank": 32,
+        "donor": "Belgium",
+        "total_usd": "26,815,989",
+        "multiyear_usd": "2,572,016"
+      },
+      {
+        "rank": 33,
+        "donor": "Honduras",
+        "total_usd": "25,656,216",
+        "multiyear_usd": "24,656,216"
+      },
+      {
+        "rank": 34,
+        "donor": "Chad",
+        "total_usd": "23,006,188",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 35,
+        "donor": "India",
+        "total_usd": "20,748,521",
+        "multiyear_usd": "20,748,521"
+      },
+      {
+        "rank": 36,
+        "donor": "Burkina Faso",
+        "total_usd": "20,000,000",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 37,
+        "donor": "Luxembourg",
+        "total_usd": "19,952,618",
+        "multiyear_usd": "4,609,417"
+      },
+      {
+        "rank": 38,
+        "donor": "Spain",
+        "total_usd": "15,387,693",
+        "multiyear_usd": "7,076,496"
+      },
+      {
+        "rank": 39,
+        "donor": "Colombia",
+        "total_usd": "15,221,498",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 40,
+        "donor": "Ukraine",
+        "total_usd": "14,875,000",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 41,
+        "donor": "Pakistan",
+        "total_usd": "14,801,942",
+        "multiyear_usd": "13,974,896"
+      },
+      {
+        "rank": 42,
+        "donor": "Congo D.R.",
+        "total_usd": "14,364,977",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 43,
+        "donor": "Austria",
+        "total_usd": "13,877,767",
+        "multiyear_usd": "4,357,518"
+      },
+      {
+        "rank": 44,
+        "donor": "New Zealand",
+        "total_usd": "13,060,710",
+        "multiyear_usd": "6,536,491"
+      },
+      {
+        "rank": 45,
+        "donor": "China",
+        "total_usd": "11,960,181",
+        "multiyear_usd": "6,949,098"
+      },
+      {
+        "rank": 46,
+        "donor": "Gambia",
+        "total_usd": "7,483,256",
+        "multiyear_usd": "7,483,256"
+      },
+      {
+        "rank": 47,
+        "donor": "Burundi",
+        "total_usd": "6,377,814",
+        "multiyear_usd": "4,000,000"
+      },
+      {
+        "rank": 48,
+        "donor": "Qatar",
+        "total_usd": "5,205,353",
+        "multiyear_usd": "5,000,000"
+      },
+      {
+        "rank": 49,
+        "donor": "Iceland",
+        "total_usd": "4,912,142",
+        "multiyear_usd": "4,412,142"
+      },
+      {
+        "rank": 50,
+        "donor": "Peru",
+        "total_usd": "4,750,348",
+        "multiyear_usd": "4,750,348"
+      },
+      {
+        "rank": 51,
+        "donor": "Madagascar",
+        "total_usd": "4,750,000",
+        "multiyear_usd": "3,250,000"
+      },
+      {
+        "rank": 52,
+        "donor": "Sierra Leone The Republic Of",
+        "total_usd": "4,494,501",
+        "multiyear_usd": "1,335,478"
+      },
+      {
+        "rank": 53,
+        "donor": "The Central African Republic",
+        "total_usd": "4,100,000",
+        "multiyear_usd": "4,100,000"
+      },
+      {
+        "rank": 54,
+        "donor": "Hungary",
+        "total_usd": "3,520,000",
+        "multiyear_usd": "3,520,000"
+      },
+      {
+        "rank": 55,
+        "donor": "Malawi",
+        "total_usd": "3,396,606",
+        "multiyear_usd": "1,325,000"
+      },
+      {
+        "rank": 56,
+        "donor": "Czech Republic",
+        "total_usd": "2,642,446",
+        "multiyear_usd": "2,287,416"
+      },
+      {
+        "rank": 57,
+        "donor": "UN Peacebuilding Fund",
+        "total_usd": "2,269,371",
+        "multiyear_usd": "2,269,371"
+      },
+      {
+        "rank": 58,
+        "donor": "Ghana",
+        "total_usd": "2,191,000",
+        "multiyear_usd": "2,191,000"
+      },
+      {
+        "rank": 59,
+        "donor": "Philippines",
+        "total_usd": "2,050,000",
+        "multiyear_usd": "50,000"
+      },
+      {
+        "rank": 60,
+        "donor": "Nicaragua",
+        "total_usd": "2,019,000",
+        "multiyear_usd": "19,000"
+      },
+      {
+        "rank": 61,
+        "donor": "Kuwait",
+        "total_usd": "2,000,000",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 62,
+        "donor": "Lesotho",
+        "total_usd": "1,787,931",
+        "multiyear_usd": "1,787,931"
+      },
+      {
+        "rank": 63,
+        "donor": "Cambodia",
+        "total_usd": "1,754,907",
+        "multiyear_usd": "1,754,907"
+      },
+      {
+        "rank": 64,
+        "donor": "Cote D'Ivoire The Republic Of",
+        "total_usd": "1,699,347",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 65,
+        "donor": "Poland",
+        "total_usd": "1,624,811",
+        "multiyear_usd": "1,624,811"
+      },
+      {
+        "rank": 66,
+        "donor": "Slovenia",
+        "total_usd": "1,530,397",
+        "multiyear_usd": "1,530,397"
+      },
+      {
+        "rank": 67,
+        "donor": "Brazil",
+        "total_usd": "1,505,665",
+        "multiyear_usd": "1,289,449"
+      },
+      {
+        "rank": 68,
+        "donor": "Timor Leste",
+        "total_usd": "1,500,000",
+        "multiyear_usd": "1,500,000"
+      },
+      {
+        "rank": 69,
+        "donor": "Monaco",
+        "total_usd": "1,442,648",
+        "multiyear_usd": "850,155"
+      },
+      {
+        "rank": 70,
+        "donor": "Ecuador",
+        "total_usd": "1,377,178",
+        "multiyear_usd": "1,377,178"
+      },
+      {
+        "rank": 71,
+        "donor": "El Salvador",
+        "total_usd": "1,335,900",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 72,
+        "donor": "Indonesia",
+        "total_usd": "1,174,011",
+        "multiyear_usd": "1,083,809"
+      },
+      {
+        "rank": 73,
+        "donor": "Malaysia",
+        "total_usd": "1,000,000",
+        "multiyear_usd": "1,000,000"
+      },
+      {
+        "rank": 74,
+        "donor": "Bolivia",
+        "total_usd": "972,834",
+        "multiyear_usd": "972,834"
+      },
+      {
+        "rank": 75,
+        "donor": "Zimbabwe",
+        "total_usd": "825,718",
+        "multiyear_usd": "825,718"
+      },
+      {
+        "rank": 76,
+        "donor": "Nepal",
+        "total_usd": "793,883",
+        "multiyear_usd": "793,883"
+      },
+      {
+        "rank": 77,
+        "donor": "Kyrgyzstan",
+        "total_usd": "786,000",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 78,
+        "donor": "The Togolese Republic",
+        "total_usd": "751,089",
+        "multiyear_usd": "751,089"
+      },
+      {
+        "rank": 79,
+        "donor": "Liechtenstein",
+        "total_usd": "493,787",
+        "multiyear_usd": "287,743"
+      },
+      {
+        "rank": 80,
+        "donor": "Tajikistan Government of the Republic of",
+        "total_usd": "444,560",
+        "multiyear_usd": "444,560"
+      },
+      {
+        "rank": 81,
+        "donor": "Guinea Bissau",
+        "total_usd": "410,950",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 82,
+        "donor": "Egypt",
+        "total_usd": "384,484",
+        "multiyear_usd": "384,484"
+      },
+      {
+        "rank": 83,
+        "donor": "Greece",
+        "total_usd": "355,122",
+        "multiyear_usd": "355,122"
+      },
+      {
+        "rank": 84,
+        "donor": "Namibia",
+        "total_usd": "342,994",
+        "multiyear_usd": "288,251"
+      },
+      {
+        "rank": 85,
+        "donor": "African Export-Import Bank",
+        "total_usd": "300,000",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 86,
+        "donor": "Slovakia",
+        "total_usd": "233,574",
+        "multiyear_usd": "233,574"
+      },
+      {
+        "rank": 87,
+        "donor": "Portugal",
+        "total_usd": "216,825",
+        "multiyear_usd": "216,825"
+      },
+      {
+        "rank": 88,
+        "donor": "Panama",
+        "total_usd": "179,198",
+        "multiyear_usd": "1,000"
+      },
+      {
+        "rank": 89,
+        "donor": "Bulgaria",
+        "total_usd": "160,937",
+        "multiyear_usd": "102,797"
+      },
+      {
+        "rank": 90,
+        "donor": "Tanzania",
+        "total_usd": "156,000",
+        "multiyear_usd": "156,000"
+      },
+      {
+        "rank": 91,
+        "donor": "Cyprus",
+        "total_usd": "150,354",
+        "multiyear_usd": "150,354"
+      },
+      {
+        "rank": 92,
+        "donor": "Israel",
+        "total_usd": "150,063",
+        "multiyear_usd": "25,000"
+      },
+      {
+        "rank": 93,
+        "donor": "Thailand",
+        "total_usd": "135,138",
+        "multiyear_usd": "135,138"
+      },
+      {
+        "rank": 94,
+        "donor": "Guinea The Republic Of",
+        "total_usd": "127,659",
+        "multiyear_usd": "44,300"
+      },
+      {
+        "rank": 95,
+        "donor": "Republic of Serbia",
+        "total_usd": "106,610",
+        "multiyear_usd": "106,610"
+      },
+      {
+        "rank": 96,
+        "donor": "Croatia",
+        "total_usd": "100,000",
+        "multiyear_usd": "100,000"
+      },
+      {
+        "rank": 96,
+        "donor": "Micronesia Federated States",
+        "total_usd": "100,000",
+        "multiyear_usd": "100,000"
+      },
+      {
+        "rank": 98,
+        "donor": "Argentina",
+        "total_usd": "66,574",
+        "multiyear_usd": "66,574"
+      },
+      {
+        "rank": 99,
+        "donor": "Estonia",
+        "total_usd": "56,306",
+        "multiyear_usd": "56,306"
+      },
+      {
+        "rank": 100,
+        "donor": "Republic of Congo",
+        "total_usd": "55,943",
+        "multiyear_usd": "55,943"
+      },
+      {
+        "rank": 101,
+        "donor": "Andorra",
+        "total_usd": "53,305",
+        "multiyear_usd": "53,305"
+      },
+      {
+        "rank": 102,
+        "donor": "Kazakhstan",
+        "total_usd": "30,000",
+        "multiyear_usd": "30,000"
+      },
+      {
+        "rank": 103,
+        "donor": "Malta",
+        "total_usd": "26,399",
+        "multiyear_usd": "26,399"
+      },
+      {
+        "rank": 104,
+        "donor": "Mauritius",
+        "total_usd": "25,000",
+        "multiyear_usd": "25,000"
+      },
+      {
+        "rank": 105,
+        "donor": "The Kingdom Of Eswatini",
+        "total_usd": "24,731",
+        "multiyear_usd": "24,731"
+      },
+      {
+        "rank": 106,
+        "donor": "Development Bank of Latin America",
+        "total_usd": "24,000",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 107,
+        "donor": "Armenia",
+        "total_usd": "20,000",
+        "multiyear_usd": "20,000"
+      },
+      {
+        "rank": 107,
+        "donor": "Chile",
+        "total_usd": "20,000",
+        "multiyear_usd": "20,000"
+      },
+      {
+        "rank": 109,
+        "donor": "Green Climate Fund",
+        "total_usd": "19,913",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 110,
+        "donor": "The Republic Of Fiji",
+        "total_usd": "11,436",
+        "multiyear_usd": "11,436"
+      },
+      {
+        "rank": 111,
+        "donor": "Mexico",
+        "total_usd": "5,805",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 112,
+        "donor": "Bhutan",
+        "total_usd": "4,946",
+        "multiyear_usd": "4,946"
+      },
+      {
+        "rank": 113,
+        "donor": "Sri Lanka",
+        "total_usd": "3,447",
+        "multiyear_usd": "3,447"
+      }
+    ]
+  },
+  "2021": {
+    "year": 2021,
+    "total_contributions_usd": "9,565,417,670",
+    "donors": [
+      {
+        "rank": 1,
+        "donor": "USA",
+        "total_usd": "3,809,476,344",
+        "multiyear_usd": "998,808,394"
+      },
+      {
+        "rank": 2,
+        "donor": "Germany",
+        "total_usd": "1,414,017,666",
+        "multiyear_usd": "130,173,975"
+      },
+      {
+        "rank": 3,
+        "donor": "European Commission",
+        "total_usd": "497,937,005",
+        "multiyear_usd": "176,537,260"
+      },
+      {
+        "rank": 4,
+        "donor": "United Kingdom",
+        "total_usd": "376,260,054",
+        "multiyear_usd": "115,593,607"
+      },
+      {
+        "rank": 5,
+        "donor": "Canada",
+        "total_usd": "314,404,109",
+        "multiyear_usd": "87,877,751"
+      },
+      {
+        "rank": 6,
+        "donor": "World Bank",
+        "total_usd": "272,581,274",
+        "multiyear_usd": "88,850,000"
+      },
+      {
+        "rank": 7,
+        "donor": "Saudi Arabia",
+        "total_usd": "259,000,081",
+        "multiyear_usd": "240,470"
+      },
+      {
+        "rank": 8,
+        "donor": "Japan",
+        "total_usd": "226,493,228",
+        "multiyear_usd": "27,080,015"
+      },
+      {
+        "rank": 9,
+        "donor": "Private Donors",
+        "total_usd": "205,274,794",
+        "multiyear_usd": "121,005,951"
+      },
+      {
+        "rank": 10,
+        "donor": "Pakistan",
+        "total_usd": "204,123,733",
+        "multiyear_usd": "203,404,826"
+      },
+      {
+        "rank": 11,
+        "donor": "Sweden",
+        "total_usd": "173,422,938",
+        "multiyear_usd": "105,272,049"
+      },
+      {
+        "rank": 12,
+        "donor": "Norway",
+        "total_usd": "163,394,925",
+        "multiyear_usd": "112,154,413"
+      },
+      {
+        "rank": 13,
+        "donor": "United Arab Emirates",
+        "total_usd": "162,510,317",
+        "multiyear_usd": "6,500,317"
+      },
+      {
+        "rank": 14,
+        "donor": "Somalia",
+        "total_usd": "158,694,834",
+        "multiyear_usd": "158,694,834"
+      },
+      {
+        "rank": 15,
+        "donor": "UN CERF",
+        "total_usd": "115,224,117",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 16,
+        "donor": "Switzerland",
+        "total_usd": "110,398,196",
+        "multiyear_usd": "50,596,599"
+      },
+      {
+        "rank": 17,
+        "donor": "UN Other Funds and Agencies (excl. CERF)",
+        "total_usd": "107,878,943",
+        "multiyear_usd": "57,795,075"
+      },
+      {
+        "rank": 18,
+        "donor": "Australia",
+        "total_usd": "105,337,156",
+        "multiyear_usd": "23,770,120"
+      },
+      {
+        "rank": 19,
+        "donor": "Qatar",
+        "total_usd": "90,000,000",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 20,
+        "donor": "France",
+        "total_usd": "83,889,361",
+        "multiyear_usd": "48,265,092"
+      },
+      {
+        "rank": 21,
+        "donor": "Republic of Korea",
+        "total_usd": "83,240,891",
+        "multiyear_usd": "70,046,085"
+      },
+      {
+        "rank": 22,
+        "donor": "Russian Federation",
+        "total_usd": "62,590,000",
+        "multiyear_usd": "62,590,000"
+      },
+      {
+        "rank": 23,
+        "donor": "Italy",
+        "total_usd": "58,680,116",
+        "multiyear_usd": "22,702,476"
+      },
+      {
+        "rank": 24,
+        "donor": "Denmark",
+        "total_usd": "56,053,817",
+        "multiyear_usd": "53,108,710"
+      },
+      {
+        "rank": 25,
+        "donor": "Netherlands",
+        "total_usd": "53,958,609",
+        "multiyear_usd": "11,240,081"
+      },
+      {
+        "rank": 26,
+        "donor": "Ireland",
+        "total_usd": "45,392,786",
+        "multiyear_usd": "37,129,551"
+      },
+      {
+        "rank": 27,
+        "donor": "UN COUNTRY BASED POOLED FUNDS",
+        "total_usd": "32,348,325",
+        "multiyear_usd": "3,786,616"
+      },
+      {
+        "rank": 28,
+        "donor": "Finland",
+        "total_usd": "31,336,168",
+        "multiyear_usd": "31,336,168"
+      },
+      {
+        "rank": 29,
+        "donor": "Belgium",
+        "total_usd": "30,736,714",
+        "multiyear_usd": "6,243,654"
+      },
+      {
+        "rank": 30,
+        "donor": "Green Climate Fund",
+        "total_usd": "28,952,600",
+        "multiyear_usd": "28,952,600"
+      },
+      {
+        "rank": 31,
+        "donor": "China",
+        "total_usd": "26,671,490",
+        "multiyear_usd": "10,668,800"
+      },
+      {
+        "rank": 32,
+        "donor": "Haiti",
+        "total_usd": "23,945,127",
+        "multiyear_usd": "23,945,127"
+      },
+      {
+        "rank": 33,
+        "donor": "Colombia",
+        "total_usd": "21,913,612",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 34,
+        "donor": "Austria",
+        "total_usd": "17,910,458",
+        "multiyear_usd": "4,571,091"
+      },
+      {
+        "rank": 35,
+        "donor": "Luxembourg",
+        "total_usd": "16,783,104",
+        "multiyear_usd": "1,791,997"
+      },
+      {
+        "rank": 36,
+        "donor": "Mali",
+        "total_usd": "11,495,510",
+        "multiyear_usd": "11,495,510"
+      },
+      {
+        "rank": 37,
+        "donor": "New Zealand",
+        "total_usd": "9,605,789",
+        "multiyear_usd": "5,364,784"
+      },
+      {
+        "rank": 38,
+        "donor": "Benin",
+        "total_usd": "8,833,442",
+        "multiyear_usd": "8,833,442"
+      },
+      {
+        "rank": 39,
+        "donor": "Mozambique",
+        "total_usd": "8,000,000",
+        "multiyear_usd": "8,000,000"
+      },
+      {
+        "rank": 40,
+        "donor": "Guinea Bissau",
+        "total_usd": "6,765,343",
+        "multiyear_usd": "6,682,328"
+      },
+      {
+        "rank": 41,
+        "donor": "Spain",
+        "total_usd": "6,654,836",
+        "multiyear_usd": "1,795,381"
+      },
+      {
+        "rank": 42,
+        "donor": "Burundi",
+        "total_usd": "5,943,941",
+        "multiyear_usd": "3,500,000"
+      },
+      {
+        "rank": 43,
+        "donor": "Dominican Republic",
+        "total_usd": "5,285,412",
+        "multiyear_usd": "5,285,412"
+      },
+      {
+        "rank": 44,
+        "donor": "Burkina Faso",
+        "total_usd": "5,036,220",
+        "multiyear_usd": "1,876,695"
+      },
+      {
+        "rank": 45,
+        "donor": "Nicaragua",
+        "total_usd": "5,019,000",
+        "multiyear_usd": "19,000"
+      },
+      {
+        "rank": 46,
+        "donor": "UN Peacebuilding Fund",
+        "total_usd": "4,856,236",
+        "multiyear_usd": "4,518,615"
+      },
+      {
+        "rank": 47,
+        "donor": "Lebanon",
+        "total_usd": "3,787,416",
+        "multiyear_usd": "3,787,416"
+      },
+      {
+        "rank": 48,
+        "donor": "The Central African Republic",
+        "total_usd": "3,500,000",
+        "multiyear_usd": "3,500,000"
+      },
+      {
+        "rank": 49,
+        "donor": "Bangladesh",
+        "total_usd": "3,417,542",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 50,
+        "donor": "Gambia",
+        "total_usd": "3,118,797",
+        "multiyear_usd": "3,118,797"
+      },
+      {
+        "rank": 51,
+        "donor": "Niger",
+        "total_usd": "2,646,770",
+        "multiyear_usd": "2,646,770"
+      },
+      {
+        "rank": 52,
+        "donor": "Mauritania",
+        "total_usd": "2,391,304",
+        "multiyear_usd": "2,391,304"
+      },
+      {
+        "rank": 53,
+        "donor": "Iceland",
+        "total_usd": "2,243,426",
+        "multiyear_usd": "1,784,367"
+      },
+      {
+        "rank": 54,
+        "donor": "Chad",
+        "total_usd": "2,209,663",
+        "multiyear_usd": "2,209,663"
+      },
+      {
+        "rank": 55,
+        "donor": "Cote D'Ivoire The Republic Of",
+        "total_usd": "1,661,001",
+        "multiyear_usd": "80,500"
+      },
+      {
+        "rank": 56,
+        "donor": "UN Expanded Window for Delivery as One",
+        "total_usd": "1,631,612",
+        "multiyear_usd": "141,795"
+      },
+      {
+        "rank": 57,
+        "donor": "Ghana",
+        "total_usd": "1,500,000",
+        "multiyear_usd": "1,500,000"
+      },
+      {
+        "rank": 58,
+        "donor": "Monaco",
+        "total_usd": "1,491,986",
+        "multiyear_usd": "681,340"
+      },
+      {
+        "rank": 59,
+        "donor": "Senegal",
+        "total_usd": "1,339,406",
+        "multiyear_usd": "1,339,406"
+      },
+      {
+        "rank": 60,
+        "donor": "India",
+        "total_usd": "1,205,089",
+        "multiyear_usd": "1,205,089"
+      },
+      {
+        "rank": 61,
+        "donor": "Indonesia",
+        "total_usd": "1,198,061",
+        "multiyear_usd": "1,198,061"
+      },
+      {
+        "rank": 62,
+        "donor": "Peru",
+        "total_usd": "1,130,255",
+        "multiyear_usd": "1,130,255"
+      },
+      {
+        "rank": 63,
+        "donor": "The Togolese Republic",
+        "total_usd": "1,080,038",
+        "multiyear_usd": "1,080,038"
+      },
+      {
+        "rank": 64,
+        "donor": "Malaysia",
+        "total_usd": "1,000,000",
+        "multiyear_usd": "1,000,000"
+      },
+      {
+        "rank": 64,
+        "donor": "Nigeria",
+        "total_usd": "1,000,000",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 66,
+        "donor": "El Salvador",
+        "total_usd": "910,000",
+        "multiyear_usd": "600,000"
+      },
+      {
+        "rank": 67,
+        "donor": "Nepal",
+        "total_usd": "739,227",
+        "multiyear_usd": "739,227"
+      },
+      {
+        "rank": 68,
+        "donor": "Czech Republic",
+        "total_usd": "722,874",
+        "multiyear_usd": "722,874"
+      },
+      {
+        "rank": 69,
+        "donor": "African Dev Bank",
+        "total_usd": "686,000",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 70,
+        "donor": "Poland",
+        "total_usd": "548,550",
+        "multiyear_usd": "548,550"
+      },
+      {
+        "rank": 71,
+        "donor": "Estonia",
+        "total_usd": "445,889",
+        "multiyear_usd": "326,415"
+      },
+      {
+        "rank": 72,
+        "donor": "Egypt",
+        "total_usd": "388,633",
+        "multiyear_usd": "388,633"
+      },
+      {
+        "rank": 73,
+        "donor": "ECOWAS",
+        "total_usd": "355,200",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 74,
+        "donor": "Bolivia",
+        "total_usd": "325,850",
+        "multiyear_usd": "325,850"
+      },
+      {
+        "rank": 75,
+        "donor": "Slovenia",
+        "total_usd": "325,327",
+        "multiyear_usd": "325,327"
+      },
+      {
+        "rank": 76,
+        "donor": "Tanzania",
+        "total_usd": "312,778",
+        "multiyear_usd": "312,778"
+      },
+      {
+        "rank": 77,
+        "donor": "Faroe Islands",
+        "total_usd": "309,153",
+        "multiyear_usd": "309,153"
+      },
+      {
+        "rank": 78,
+        "donor": "Romania",
+        "total_usd": "291,134",
+        "multiyear_usd": "233,794"
+      },
+      {
+        "rank": 79,
+        "donor": "Liechtenstein",
+        "total_usd": "279,159",
+        "multiyear_usd": "168,539"
+      },
+      {
+        "rank": 80,
+        "donor": "Thailand",
+        "total_usd": "269,840",
+        "multiyear_usd": "269,840"
+      },
+      {
+        "rank": 81,
+        "donor": "South Africa",
+        "total_usd": "247,577",
+        "multiyear_usd": "247,577"
+      },
+      {
+        "rank": 82,
+        "donor": "Brazil",
+        "total_usd": "215,765",
+        "multiyear_usd": "215,765"
+      },
+      {
+        "rank": 83,
+        "donor": "Portugal",
+        "total_usd": "201,441",
+        "multiyear_usd": "201,441"
+      },
+      {
+        "rank": 84,
+        "donor": "Croatia",
+        "total_usd": "200,000",
+        "multiyear_usd": "100,000"
+      },
+      {
+        "rank": 84,
+        "donor": "Kuwait",
+        "total_usd": "200,000",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 84,
+        "donor": "Org Int Francophonie",
+        "total_usd": "200,000",
+        "multiyear_usd": "200,000"
+      },
+      {
+        "rank": 87,
+        "donor": "Panama",
+        "total_usd": "178,198",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 88,
+        "donor": "Bulgaria",
+        "total_usd": "162,073",
+        "multiyear_usd": "162,073"
+      },
+      {
+        "rank": 89,
+        "donor": "Sao Tome And Principe",
+        "total_usd": "148,559",
+        "multiyear_usd": "148,559"
+      },
+      {
+        "rank": 90,
+        "donor": "Greece",
+        "total_usd": "116,550",
+        "multiyear_usd": "116,550"
+      },
+      {
+        "rank": 91,
+        "donor": "Lithuania",
+        "total_usd": "116,279",
+        "multiyear_usd": "116,279"
+      },
+      {
+        "rank": 92,
+        "donor": "Timor Leste",
+        "total_usd": "100,000",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 93,
+        "donor": "Armenia",
+        "total_usd": "89,567",
+        "multiyear_usd": "89,567"
+      },
+      {
+        "rank": 94,
+        "donor": "Cyprus",
+        "total_usd": "82,888",
+        "multiyear_usd": "82,888"
+      },
+      {
+        "rank": 95,
+        "donor": "Andorra",
+        "total_usd": "61,846",
+        "multiyear_usd": "61,846"
+      },
+      {
+        "rank": 96,
+        "donor": "Mauritius",
+        "total_usd": "50,000",
+        "multiyear_usd": "50,000"
+      },
+      {
+        "rank": 96,
+        "donor": "Philippines",
+        "total_usd": "50,000",
+        "multiyear_usd": "50,000"
+      },
+      {
+        "rank": 98,
+        "donor": "Malta",
+        "total_usd": "42,157",
+        "multiyear_usd": "11,891"
+      },
+      {
+        "rank": 99,
+        "donor": "Israel",
+        "total_usd": "38,000",
+        "multiyear_usd": "38,000"
+      },
+      {
+        "rank": 100,
+        "donor": "The Republic Of Fiji",
+        "total_usd": "25,959",
+        "multiyear_usd": "25,959"
+      },
+      {
+        "rank": 101,
+        "donor": "Chile",
+        "total_usd": "20,000",
+        "multiyear_usd": "20,000"
+      },
+      {
+        "rank": 101,
+        "donor": "Hungary",
+        "total_usd": "20,000",
+        "multiyear_usd": "20,000"
+      },
+      {
+        "rank": 103,
+        "donor": "The Kingdom Of Eswatini",
+        "total_usd": "15,756",
+        "multiyear_usd": "15,756"
+      },
+      {
+        "rank": 104,
+        "donor": "Slovakia",
+        "total_usd": "15,000",
+        "multiyear_usd": "15,000"
+      },
+      {
+        "rank": 105,
+        "donor": "ICRISAT",
+        "total_usd": "7,000",
+        "multiyear_usd": "7,000"
+      },
+      {
+        "rank": 105,
+        "donor": "Kazakhstan",
+        "total_usd": "7,000",
+        "multiyear_usd": "7,000"
+      },
+      {
+        "rank": 107,
+        "donor": "Sri Lanka",
+        "total_usd": "6,282",
+        "multiyear_usd": "6,282"
+      },
+      {
+        "rank": 108,
+        "donor": "Honduras",
+        "total_usd": "4,810",
+        "multiyear_usd": "4,810"
+      },
+      {
+        "rank": 109,
+        "donor": "Republic of Zambia",
+        "total_usd": "4,361",
+        "multiyear_usd": "4,361"
+      }
+    ]
+  },
+  "2020": {
+    "year": 2020,
+    "total_contributions_usd": "8,424,229,980",
+    "donors": [
+      {
+        "rank": 1,
+        "donor": "USA",
+        "total_usd": "3,645,317,356",
+        "multiyear_usd": "1,337,360,628"
+      },
+      {
+        "rank": 2,
+        "donor": "Germany",
+        "total_usd": "1,179,877,067",
+        "multiyear_usd": "156,562,519"
+      },
+      {
+        "rank": 3,
+        "donor": "United Kingdom",
+        "total_usd": "548,971,792",
+        "multiyear_usd": "197,779,382"
+      },
+      {
+        "rank": 4,
+        "donor": "European Commission",
+        "total_usd": "537,354,124",
+        "multiyear_usd": "266,087,977"
+      },
+      {
+        "rank": 5,
+        "donor": "Canada",
+        "total_usd": "244,020,238",
+        "multiyear_usd": "110,636,176"
+      },
+      {
+        "rank": 6,
+        "donor": "UN CERF",
+        "total_usd": "243,514,113",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 7,
+        "donor": "Sweden",
+        "total_usd": "195,066,566",
+        "multiyear_usd": "154,801,960"
+      },
+      {
+        "rank": 8,
+        "donor": "Japan",
+        "total_usd": "193,657,449",
+        "multiyear_usd": "24,472,004"
+      },
+      {
+        "rank": 9,
+        "donor": "Private Donors",
+        "total_usd": "160,664,795",
+        "multiyear_usd": "86,292,804"
+      },
+      {
+        "rank": 10,
+        "donor": "UN Other Funds and Agencies (excl. CERF)",
+        "total_usd": "151,552,908",
+        "multiyear_usd": "102,754,022"
+      },
+      {
+        "rank": 11,
+        "donor": "Saudi Arabia",
+        "total_usd": "150,005,814",
+        "multiyear_usd": "8,587,209"
+      },
+      {
+        "rank": 12,
+        "donor": "Norway",
+        "total_usd": "98,375,104",
+        "multiyear_usd": "43,038,776"
+      },
+      {
+        "rank": 13,
+        "donor": "Switzerland",
+        "total_usd": "94,269,749",
+        "multiyear_usd": "67,434,412"
+      },
+      {
+        "rank": 14,
+        "donor": "Somalia",
+        "total_usd": "92,000,000",
+        "multiyear_usd": "92,000,000"
+      },
+      {
+        "rank": 15,
+        "donor": "Republic of Korea",
+        "total_usd": "88,505,590",
+        "multiyear_usd": "68,353,582"
+      },
+      {
+        "rank": 16,
+        "donor": "Russian Federation",
+        "total_usd": "72,655,611",
+        "multiyear_usd": "56,655,611"
+      },
+      {
+        "rank": 17,
+        "donor": "Netherlands",
+        "total_usd": "66,265,789",
+        "multiyear_usd": "52,409,411"
+      },
+      {
+        "rank": 18,
+        "donor": "Haiti",
+        "total_usd": "60,202,519",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 19,
+        "donor": "Denmark",
+        "total_usd": "55,968,631",
+        "multiyear_usd": "43,966,593"
+      },
+      {
+        "rank": 20,
+        "donor": "Australia",
+        "total_usd": "53,202,279",
+        "multiyear_usd": "13,119,266"
+      },
+      {
+        "rank": 21,
+        "donor": "Bangladesh",
+        "total_usd": "43,219,008",
+        "multiyear_usd": "32,925,000"
+      },
+      {
+        "rank": 22,
+        "donor": "UN COUNTRY BASED POOLED FUNDS",
+        "total_usd": "42,464,050",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 23,
+        "donor": "Italy",
+        "total_usd": "37,145,901",
+        "multiyear_usd": "17,655,862"
+      },
+      {
+        "rank": 24,
+        "donor": "Ireland",
+        "total_usd": "35,870,557",
+        "multiyear_usd": "32,031,650"
+      },
+      {
+        "rank": 25,
+        "donor": "Belgium",
+        "total_usd": "32,614,613",
+        "multiyear_usd": "3,280,165"
+      },
+      {
+        "rank": 26,
+        "donor": "France",
+        "total_usd": "32,555,704",
+        "multiyear_usd": "20,103,350"
+      },
+      {
+        "rank": 27,
+        "donor": "Liberia",
+        "total_usd": "30,000,000",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 28,
+        "donor": "Finland",
+        "total_usd": "28,523,703",
+        "multiyear_usd": "28,523,703"
+      },
+      {
+        "rank": 29,
+        "donor": "Chad",
+        "total_usd": "22,000,000",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 30,
+        "donor": "Green Climate Fund",
+        "total_usd": "20,755,776",
+        "multiyear_usd": "20,755,776"
+      },
+      {
+        "rank": 31,
+        "donor": "Colombia",
+        "total_usd": "13,720,868",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 32,
+        "donor": "Pakistan",
+        "total_usd": "13,606,005",
+        "multiyear_usd": "12,758,178"
+      },
+      {
+        "rank": 33,
+        "donor": "Benin",
+        "total_usd": "13,204,033",
+        "multiyear_usd": "13,204,033"
+      },
+      {
+        "rank": 34,
+        "donor": "Mali",
+        "total_usd": "12,500,000",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 35,
+        "donor": "Luxembourg",
+        "total_usd": "12,148,957",
+        "multiyear_usd": "328,995"
+      },
+      {
+        "rank": 36,
+        "donor": "Mozambique",
+        "total_usd": "11,804,354",
+        "multiyear_usd": "8,000,000"
+      },
+      {
+        "rank": 37,
+        "donor": "China",
+        "total_usd": "11,649,031",
+        "multiyear_usd": "7,622,406"
+      },
+      {
+        "rank": 38,
+        "donor": "New Zealand",
+        "total_usd": "7,607,612",
+        "multiyear_usd": "3,448,276"
+      },
+      {
+        "rank": 39,
+        "donor": "Spain",
+        "total_usd": "6,793,673",
+        "multiyear_usd": "597,372"
+      },
+      {
+        "rank": 40,
+        "donor": "Brazil",
+        "total_usd": "5,792,960",
+        "multiyear_usd": "5,792,960"
+      },
+      {
+        "rank": 41,
+        "donor": "UN Peacebuilding Fund",
+        "total_usd": "5,480,425",
+        "multiyear_usd": "3,708,596"
+      },
+      {
+        "rank": 42,
+        "donor": "Austria",
+        "total_usd": "4,454,244",
+        "multiyear_usd": "2,630,198"
+      },
+      {
+        "rank": 43,
+        "donor": "United Arab Emirates",
+        "total_usd": "4,266,468",
+        "multiyear_usd": "4,266,468"
+      },
+      {
+        "rank": 44,
+        "donor": "World Bank",
+        "total_usd": "3,403,547",
+        "multiyear_usd": "3,070,200"
+      },
+      {
+        "rank": 45,
+        "donor": "Philippines",
+        "total_usd": "3,233,821",
+        "multiyear_usd": "3,233,821"
+      },
+      {
+        "rank": 46,
+        "donor": "Egypt",
+        "total_usd": "3,057,926",
+        "multiyear_usd": "3,057,926"
+      },
+      {
+        "rank": 47,
+        "donor": "Congo D.R.",
+        "total_usd": "3,000,000",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 48,
+        "donor": "Angola",
+        "total_usd": "2,734,116",
+        "multiyear_usd": "2,734,116"
+      },
+      {
+        "rank": 49,
+        "donor": "Burundi",
+        "total_usd": "2,520,726",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 50,
+        "donor": "Iceland",
+        "total_usd": "2,384,281",
+        "multiyear_usd": "2,188,855"
+      },
+      {
+        "rank": 51,
+        "donor": "Cameroon",
+        "total_usd": "1,620,198",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 52,
+        "donor": "Monaco",
+        "total_usd": "1,536,609",
+        "multiyear_usd": "1,082,652"
+      },
+      {
+        "rank": 53,
+        "donor": "Cote D'Ivoire The Republic Of",
+        "total_usd": "1,500,000",
+        "multiyear_usd": "1,500,000"
+      },
+      {
+        "rank": 54,
+        "donor": "El Salvador",
+        "total_usd": "1,438,000",
+        "multiyear_usd": "1,438,000"
+      },
+      {
+        "rank": 55,
+        "donor": "Gambia",
+        "total_usd": "1,344,303",
+        "multiyear_usd": "1,344,303"
+      },
+      {
+        "rank": 56,
+        "donor": "UN Expanded Window for Delivery as One",
+        "total_usd": "1,163,447",
+        "multiyear_usd": "1,102,826"
+      },
+      {
+        "rank": 57,
+        "donor": "Guinea The Republic Of",
+        "total_usd": "1,135,987",
+        "multiyear_usd": "1,135,987"
+      },
+      {
+        "rank": 58,
+        "donor": "Nigeria",
+        "total_usd": "1,131,649",
+        "multiyear_usd": "1,131,649"
+      },
+      {
+        "rank": 59,
+        "donor": "Sierra Leone The Republic Of",
+        "total_usd": "1,128,100",
+        "multiyear_usd": "1,128,100"
+      },
+      {
+        "rank": 60,
+        "donor": "Senegal",
+        "total_usd": "1,003,111",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 61,
+        "donor": "Malaysia",
+        "total_usd": "1,000,000",
+        "multiyear_usd": "1,000,000"
+      },
+      {
+        "rank": 62,
+        "donor": "India",
+        "total_usd": "999,662",
+        "multiyear_usd": "999,662"
+      },
+      {
+        "rank": 63,
+        "donor": "Bolivia",
+        "total_usd": "946,928",
+        "multiyear_usd": "446,928"
+      },
+      {
+        "rank": 64,
+        "donor": "Dominican Republic",
+        "total_usd": "919,012",
+        "multiyear_usd": "919,012"
+      },
+      {
+        "rank": 65,
+        "donor": "Czech Republic",
+        "total_usd": "747,789",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 66,
+        "donor": "Nepal",
+        "total_usd": "620,146",
+        "multiyear_usd": "620,146"
+      },
+      {
+        "rank": 67,
+        "donor": "Liechtenstein",
+        "total_usd": "535,585",
+        "multiyear_usd": "322,282"
+      },
+      {
+        "rank": 68,
+        "donor": "Tunisia",
+        "total_usd": "493,091",
+        "multiyear_usd": "493,091"
+      },
+      {
+        "rank": 69,
+        "donor": "The Kingdom Of Eswatini",
+        "total_usd": "463,880",
+        "multiyear_usd": "463,880"
+      },
+      {
+        "rank": 70,
+        "donor": "Namibia",
+        "total_usd": "405,746",
+        "multiyear_usd": "405,746"
+      },
+      {
+        "rank": 71,
+        "donor": "Poland",
+        "total_usd": "383,248",
+        "multiyear_usd": "117,078"
+      },
+      {
+        "rank": 72,
+        "donor": "Honduras",
+        "total_usd": "342,460",
+        "multiyear_usd": "134,905"
+      },
+      {
+        "rank": 73,
+        "donor": "Ghana",
+        "total_usd": "300,000",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 74,
+        "donor": "Malawi",
+        "total_usd": "295,000",
+        "multiyear_usd": "295,000"
+      },
+      {
+        "rank": 75,
+        "donor": "Peru",
+        "total_usd": "293,627",
+        "multiyear_usd": "293,627"
+      },
+      {
+        "rank": 76,
+        "donor": "Portugal",
+        "total_usd": "278,610",
+        "multiyear_usd": "65,804"
+      },
+      {
+        "rank": 77,
+        "donor": "Republic of Congo",
+        "total_usd": "208,771",
+        "multiyear_usd": "208,771"
+      },
+      {
+        "rank": 78,
+        "donor": "South Africa",
+        "total_usd": "182,142",
+        "multiyear_usd": "182,142"
+      },
+      {
+        "rank": 79,
+        "donor": "Panama",
+        "total_usd": "179,198",
+        "multiyear_usd": "1,000"
+      },
+      {
+        "rank": 80,
+        "donor": "Israel",
+        "total_usd": "170,000",
+        "multiyear_usd": "70,000"
+      },
+      {
+        "rank": 81,
+        "donor": "Thailand",
+        "total_usd": "162,024",
+        "multiyear_usd": "162,024"
+      },
+      {
+        "rank": 82,
+        "donor": "Timor Leste",
+        "total_usd": "121,786",
+        "multiyear_usd": "1,786"
+      },
+      {
+        "rank": 83,
+        "donor": "Hungary",
+        "total_usd": "120,000",
+        "multiyear_usd": "120,000"
+      },
+      {
+        "rank": 84,
+        "donor": "Romania",
+        "total_usd": "119,474",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 85,
+        "donor": "Nicaragua",
+        "total_usd": "119,388",
+        "multiyear_usd": "119,388"
+      },
+      {
+        "rank": 86,
+        "donor": "Croatia",
+        "total_usd": "117,371",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 87,
+        "donor": "Kuwait",
+        "total_usd": "100,000",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 88,
+        "donor": "Slovenia",
+        "total_usd": "85,708",
+        "multiyear_usd": "52,632"
+      },
+      {
+        "rank": 89,
+        "donor": "Cyprus",
+        "total_usd": "79,140",
+        "multiyear_usd": "79,140"
+      },
+      {
+        "rank": 90,
+        "donor": "Malta",
+        "total_usd": "70,146",
+        "multiyear_usd": "70,146"
+      },
+      {
+        "rank": 91,
+        "donor": "Bulgaria",
+        "total_usd": "65,336",
+        "multiyear_usd": "59,737"
+      },
+      {
+        "rank": 92,
+        "donor": "Estonia",
+        "total_usd": "59,737",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 93,
+        "donor": "The Republic Of Fiji",
+        "total_usd": "43,932",
+        "multiyear_usd": "43,932"
+      },
+      {
+        "rank": 94,
+        "donor": "Andorra",
+        "total_usd": "41,525",
+        "multiyear_usd": "41,525"
+      },
+      {
+        "rank": 95,
+        "donor": "Armenia",
+        "total_usd": "40,672",
+        "multiyear_usd": "40,672"
+      },
+      {
+        "rank": 96,
+        "donor": "Greece",
+        "total_usd": "35,842",
+        "multiyear_usd": "35,842"
+      },
+      {
+        "rank": 97,
+        "donor": "Holy See",
+        "total_usd": "27,996",
+        "multiyear_usd": "27,996"
+      },
+      {
+        "rank": 97,
+        "donor": "Lithuania",
+        "total_usd": "27,996",
+        "multiyear_usd": "27,996"
+      },
+      {
+        "rank": 99,
+        "donor": "Chile",
+        "total_usd": "20,000",
+        "multiyear_usd": "20,000"
+      },
+      {
+        "rank": 99,
+        "donor": "Kazakhstan",
+        "total_usd": "20,000",
+        "multiyear_usd": "20,000"
+      },
+      {
+        "rank": 101,
+        "donor": "Slovakia",
+        "total_usd": "15,000",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 102,
+        "donor": "Sri Lanka",
+        "total_usd": "6,756",
+        "multiyear_usd": "6,756"
+      },
+      {
+        "rank": 103,
+        "donor": "Bhutan",
+        "total_usd": "4,000",
+        "multiyear_usd": "4,000"
+      }
+    ]
+  },
+  "2019": {
+    "year": 2019,
+    "total_contributions_usd": "8,050,982,643",
+    "donors": [
+      {
+        "rank": 1,
+        "donor": "USA",
+        "total_usd": "3,368,436,441",
+        "multiyear_usd": "1,130,772,150"
+      },
+      {
+        "rank": 2,
+        "donor": "Germany",
+        "total_usd": "886,653,999",
+        "multiyear_usd": "52,280,283"
+      },
+      {
+        "rank": 3,
+        "donor": "United Kingdom",
+        "total_usd": "696,351,579",
+        "multiyear_usd": "340,520,977"
+      },
+      {
+        "rank": 4,
+        "donor": "European Commission",
+        "total_usd": "685,890,294",
+        "multiyear_usd": "518,089,172"
+      },
+      {
+        "rank": 5,
+        "donor": "Saudi Arabia",
+        "total_usd": "386,661,344",
+        "multiyear_usd": "8,594,949"
+      },
+      {
+        "rank": 6,
+        "donor": "United Arab Emirates",
+        "total_usd": "272,012,640",
+        "multiyear_usd": "101,785,657"
+      },
+      {
+        "rank": 7,
+        "donor": "Canada",
+        "total_usd": "189,743,634",
+        "multiyear_usd": "107,919,954"
+      },
+      {
+        "rank": 8,
+        "donor": "Sweden",
+        "total_usd": "158,727,777",
+        "multiyear_usd": "124,715,687"
+      },
+      {
+        "rank": 9,
+        "donor": "Japan",
+        "total_usd": "157,578,035",
+        "multiyear_usd": "31,924,356"
+      },
+      {
+        "rank": 10,
+        "donor": "UN CERF",
+        "total_usd": "148,646,783",
+        "multiyear_usd": "32,666,644"
+      },
+      {
+        "rank": 11,
+        "donor": "UN Other Funds and Agencies (excl. CERF)",
+        "total_usd": "127,972,184",
+        "multiyear_usd": "61,216,619"
+      },
+      {
+        "rank": 12,
+        "donor": "Private Donors",
+        "total_usd": "100,757,543",
+        "multiyear_usd": "63,845,232"
+      },
+      {
+        "rank": 13,
+        "donor": "Norway",
+        "total_usd": "88,677,480",
+        "multiyear_usd": "39,031,385"
+      },
+      {
+        "rank": 14,
+        "donor": "Switzerland",
+        "total_usd": "79,604,267",
+        "multiyear_usd": "58,534,453"
+      },
+      {
+        "rank": 15,
+        "donor": "Republic of Korea",
+        "total_usd": "74,955,057",
+        "multiyear_usd": "27,181,493"
+      },
+      {
+        "rank": 16,
+        "donor": "Australia",
+        "total_usd": "72,693,507",
+        "multiyear_usd": "31,084,013"
+      },
+      {
+        "rank": 17,
+        "donor": "Denmark",
+        "total_usd": "69,379,943",
+        "multiyear_usd": "67,618,468"
+      },
+      {
+        "rank": 18,
+        "donor": "Netherlands",
+        "total_usd": "59,158,654",
+        "multiyear_usd": "57,824,262"
+      },
+      {
+        "rank": 19,
+        "donor": "Russian Federation",
+        "total_usd": "36,943,000",
+        "multiyear_usd": "36,870,000"
+      },
+      {
+        "rank": 20,
+        "donor": "Ireland",
+        "total_usd": "34,183,610",
+        "multiyear_usd": "27,120,401"
+      },
+      {
+        "rank": 21,
+        "donor": "Kuwait",
+        "total_usd": "31,375,084",
+        "multiyear_usd": "31,000,000"
+      },
+      {
+        "rank": 22,
+        "donor": "Colombia",
+        "total_usd": "31,148,489",
+        "multiyear_usd": "28,845,781"
+      },
+      {
+        "rank": 23,
+        "donor": "Italy",
+        "total_usd": "30,852,938",
+        "multiyear_usd": "17,838,607"
+      },
+      {
+        "rank": 24,
+        "donor": "China",
+        "total_usd": "30,544,781",
+        "multiyear_usd": "6,128,806"
+      },
+      {
+        "rank": 25,
+        "donor": "Belgium",
+        "total_usd": "24,336,131",
+        "multiyear_usd": "8,757,739"
+      },
+      {
+        "rank": 26,
+        "donor": "France",
+        "total_usd": "21,687,830",
+        "multiyear_usd": "11,283,063"
+      },
+      {
+        "rank": 27,
+        "donor": "UN COUNTRY BASED POOLED FUNDS",
+        "total_usd": "21,350,191",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 28,
+        "donor": "Honduras",
+        "total_usd": "19,672,789",
+        "multiyear_usd": "19,672,789"
+      },
+      {
+        "rank": 29,
+        "donor": "Benin",
+        "total_usd": "18,823,293",
+        "multiyear_usd": "18,823,293"
+      },
+      {
+        "rank": 30,
+        "donor": "Mozambique",
+        "total_usd": "16,000,000",
+        "multiyear_usd": "16,000,000"
+      },
+      {
+        "rank": 31,
+        "donor": "Finland",
+        "total_usd": "15,472,960",
+        "multiyear_usd": "12,105,957"
+      },
+      {
+        "rank": 32,
+        "donor": "Luxembourg",
+        "total_usd": "11,124,225",
+        "multiyear_usd": "9,467,675"
+      },
+      {
+        "rank": 33,
+        "donor": "UN Peacebuilding Fund",
+        "total_usd": "7,267,948",
+        "multiyear_usd": "6,385,658"
+      },
+      {
+        "rank": 34,
+        "donor": "Spain",
+        "total_usd": "6,378,680",
+        "multiyear_usd": "696,743"
+      },
+      {
+        "rank": 35,
+        "donor": "New Zealand",
+        "total_usd": "5,398,751",
+        "multiyear_usd": "4,098,361"
+      },
+      {
+        "rank": 36,
+        "donor": "Pakistan",
+        "total_usd": "5,323,326",
+        "multiyear_usd": "5,323,326"
+      },
+      {
+        "rank": 37,
+        "donor": "Congo D.R.",
+        "total_usd": "5,146,451",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 38,
+        "donor": "Sierra Leone The Republic Of",
+        "total_usd": "4,891,304",
+        "multiyear_usd": "4,891,304"
+      },
+      {
+        "rank": 39,
+        "donor": "Burundi",
+        "total_usd": "4,833,492",
+        "multiyear_usd": "4,833,492"
+      },
+      {
+        "rank": 40,
+        "donor": "Austria",
+        "total_usd": "4,830,322",
+        "multiyear_usd": "1,112,347"
+      },
+      {
+        "rank": 41,
+        "donor": "Philippines",
+        "total_usd": "3,926,740",
+        "multiyear_usd": "3,926,740"
+      },
+      {
+        "rank": 42,
+        "donor": "Bangladesh",
+        "total_usd": "3,914,540",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 43,
+        "donor": "Qatar",
+        "total_usd": "3,363,050",
+        "multiyear_usd": "742,000"
+      },
+      {
+        "rank": 44,
+        "donor": "Cambodia",
+        "total_usd": "3,335,500",
+        "multiyear_usd": "3,335,500"
+      },
+      {
+        "rank": 45,
+        "donor": "Uganda",
+        "total_usd": "2,753,412",
+        "multiyear_usd": "2,753,412"
+      },
+      {
+        "rank": 46,
+        "donor": "India",
+        "total_usd": "2,002,111",
+        "multiyear_usd": "2,002,111"
+      },
+      {
+        "rank": 47,
+        "donor": "Iceland",
+        "total_usd": "1,852,473",
+        "multiyear_usd": "1,852,473"
+      },
+      {
+        "rank": 48,
+        "donor": "Gambia",
+        "total_usd": "1,840,000",
+        "multiyear_usd": "1,840,000"
+      },
+      {
+        "rank": 49,
+        "donor": "UN Expanded Window for Delivery as One",
+        "total_usd": "1,767,743",
+        "multiyear_usd": "997,863"
+      },
+      {
+        "rank": 50,
+        "donor": "Cote D'Ivoire The Republic Of",
+        "total_usd": "1,500,000",
+        "multiyear_usd": "1,500,000"
+      },
+      {
+        "rank": 51,
+        "donor": "Mali",
+        "total_usd": "1,316,790",
+        "multiyear_usd": "1,316,790"
+      },
+      {
+        "rank": 52,
+        "donor": "Niger",
+        "total_usd": "1,108,255",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 53,
+        "donor": "South Africa",
+        "total_usd": "1,076,040",
+        "multiyear_usd": "717,360"
+      },
+      {
+        "rank": 54,
+        "donor": "Malaysia",
+        "total_usd": "1,000,000",
+        "multiyear_usd": "1,000,000"
+      },
+      {
+        "rank": 55,
+        "donor": "Nepal",
+        "total_usd": "936,056",
+        "multiyear_usd": "936,056"
+      },
+      {
+        "rank": 56,
+        "donor": "Afghanistan",
+        "total_usd": "903,177",
+        "multiyear_usd": "903,177"
+      },
+      {
+        "rank": 57,
+        "donor": "Monaco",
+        "total_usd": "888,421",
+        "multiyear_usd": "711,534"
+      },
+      {
+        "rank": 58,
+        "donor": "El Salvador",
+        "total_usd": "752,476",
+        "multiyear_usd": "752,476"
+      },
+      {
+        "rank": 59,
+        "donor": "Czech Republic",
+        "total_usd": "607,013",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 60,
+        "donor": "Peru",
+        "total_usd": "602,188",
+        "multiyear_usd": "602,188"
+      },
+      {
+        "rank": 61,
+        "donor": "African Union",
+        "total_usd": "440,000",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 62,
+        "donor": "Brazil",
+        "total_usd": "427,279",
+        "multiyear_usd": "382,746"
+      },
+      {
+        "rank": 63,
+        "donor": "Tanzania",
+        "total_usd": "396,422",
+        "multiyear_usd": "396,422"
+      },
+      {
+        "rank": 64,
+        "donor": "Egypt",
+        "total_usd": "386,000",
+        "multiyear_usd": "386,000"
+      },
+      {
+        "rank": 65,
+        "donor": "Liechtenstein",
+        "total_usd": "352,217",
+        "multiyear_usd": "201,613"
+      },
+      {
+        "rank": 66,
+        "donor": "Thailand",
+        "total_usd": "274,164",
+        "multiyear_usd": "274,164"
+      },
+      {
+        "rank": 67,
+        "donor": "World Bank",
+        "total_usd": "270,000",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 68,
+        "donor": "Poland",
+        "total_usd": "249,095",
+        "multiyear_usd": "184,256"
+      },
+      {
+        "rank": 69,
+        "donor": "Panama",
+        "total_usd": "179,199",
+        "multiyear_usd": "1,000"
+      },
+      {
+        "rank": 70,
+        "donor": "Estonia",
+        "total_usd": "167,630",
+        "multiyear_usd": "112,624"
+      },
+      {
+        "rank": 71,
+        "donor": "Guatemala",
+        "total_usd": "149,932",
+        "multiyear_usd": "149,932"
+      },
+      {
+        "rank": 72,
+        "donor": "Portugal",
+        "total_usd": "121,888",
+        "multiyear_usd": "65,006"
+      },
+      {
+        "rank": 73,
+        "donor": "Pa\u00edses De L\u00edngua Portuguesa",
+        "total_usd": "112,000",
+        "multiyear_usd": "112,000"
+      },
+      {
+        "rank": 74,
+        "donor": "Nicaragua",
+        "total_usd": "107,032",
+        "multiyear_usd": "20,000"
+      },
+      {
+        "rank": 75,
+        "donor": "Andorra",
+        "total_usd": "62,532",
+        "multiyear_usd": "21,882"
+      },
+      {
+        "rank": 76,
+        "donor": "Bulgaria",
+        "total_usd": "61,422",
+        "multiyear_usd": "5,681"
+      },
+      {
+        "rank": 77,
+        "donor": "Slovenia",
+        "total_usd": "56,117",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 78,
+        "donor": "Viet Nam",
+        "total_usd": "50,000",
+        "multiyear_usd": "50,000"
+      },
+      {
+        "rank": 79,
+        "donor": "Armenia",
+        "total_usd": "44,506",
+        "multiyear_usd": "44,506"
+      },
+      {
+        "rank": 80,
+        "donor": "Croatia",
+        "total_usd": "25,000",
+        "multiyear_usd": "25,000"
+      },
+      {
+        "rank": 81,
+        "donor": "Malta",
+        "total_usd": "22,548",
+        "multiyear_usd": "22,548"
+      },
+      {
+        "rank": 82,
+        "donor": "Israel",
+        "total_usd": "20,000",
+        "multiyear_usd": "20,000"
+      },
+      {
+        "rank": 83,
+        "donor": "Republic of Congo",
+        "total_usd": "18,049",
+        "multiyear_usd": "18,049"
+      },
+      {
+        "rank": 84,
+        "donor": "Slovakia",
+        "total_usd": "15,000",
+        "multiyear_usd": "15,000"
+      },
+      {
+        "rank": 85,
+        "donor": "Greece",
+        "total_usd": "10,516",
+        "multiyear_usd": "10,516"
+      },
+      {
+        "rank": 86,
+        "donor": "Hungary",
+        "total_usd": "10,000",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 87,
+        "donor": "Bhutan",
+        "total_usd": "9,958",
+        "multiyear_usd": "9,958"
+      },
+      {
+        "rank": 88,
+        "donor": "Sri Lanka",
+        "total_usd": "6,889",
+        "multiyear_usd": "6,889"
+      },
+      {
+        "rank": 89,
+        "donor": "Cyprus",
+        "total_usd": "4,510",
+        "multiyear_usd": "4,510"
+      }
+    ]
+  },
+  "2018": {
+    "year": 2018,
+    "total_contributions_usd": "7,354,117,575",
+    "donors": [
+      {
+        "rank": 1,
+        "donor": "USA",
+        "total_usd": "2,534,393,471",
+        "multiyear_usd": "1,148,472,754"
+      },
+      {
+        "rank": 2,
+        "donor": "European Commission",
+        "total_usd": "1,111,318,572",
+        "multiyear_usd": "890,153,146"
+      },
+      {
+        "rank": 3,
+        "donor": "Germany",
+        "total_usd": "849,087,647",
+        "multiyear_usd": "54,379,232"
+      },
+      {
+        "rank": 4,
+        "donor": "United Kingdom",
+        "total_usd": "615,431,020",
+        "multiyear_usd": "69,055,859"
+      },
+      {
+        "rank": 5,
+        "donor": "Saudi Arabia",
+        "total_usd": "247,907,959",
+        "multiyear_usd": "8,467,644"
+      },
+      {
+        "rank": 6,
+        "donor": "United Arab Emirates",
+        "total_usd": "226,215,581",
+        "multiyear_usd": "4,817,266"
+      },
+      {
+        "rank": 7,
+        "donor": "Canada",
+        "total_usd": "218,317,147",
+        "multiyear_usd": "149,478,284"
+      },
+      {
+        "rank": 8,
+        "donor": "Sweden",
+        "total_usd": "145,389,632",
+        "multiyear_usd": "108,349,875"
+      },
+      {
+        "rank": 9,
+        "donor": "UN CERF",
+        "total_usd": "138,632,047",
+        "multiyear_usd": "1,500,492"
+      },
+      {
+        "rank": 10,
+        "donor": "Japan",
+        "total_usd": "130,057,648",
+        "multiyear_usd": "16,382,220"
+      },
+      {
+        "rank": 11,
+        "donor": "Norway",
+        "total_usd": "90,103,024",
+        "multiyear_usd": "42,368,604"
+      },
+      {
+        "rank": 12,
+        "donor": "UN Other Funds and Agencies (excl. CERF)",
+        "total_usd": "83,551,424",
+        "multiyear_usd": "62,075,142"
+      },
+      {
+        "rank": 13,
+        "donor": "Private Donors",
+        "total_usd": "83,512,455",
+        "multiyear_usd": "39,987,852"
+      },
+      {
+        "rank": 14,
+        "donor": "Switzerland",
+        "total_usd": "80,225,737",
+        "multiyear_usd": "74,580,406"
+      },
+      {
+        "rank": 15,
+        "donor": "Australia",
+        "total_usd": "71,018,161",
+        "multiyear_usd": "42,805,378"
+      },
+      {
+        "rank": 16,
+        "donor": "Netherlands",
+        "total_usd": "69,895,502",
+        "multiyear_usd": "11,640,761"
+      },
+      {
+        "rank": 17,
+        "donor": "Republic of Korea",
+        "total_usd": "68,071,925",
+        "multiyear_usd": "23,528,199"
+      },
+      {
+        "rank": 18,
+        "donor": "UN COUNTRY BASED POOLED FUNDS",
+        "total_usd": "64,403,497",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 19,
+        "donor": "Denmark",
+        "total_usd": "56,201,038",
+        "multiyear_usd": "52,389,481"
+      },
+      {
+        "rank": 20,
+        "donor": "Kuwait",
+        "total_usd": "51,000,000",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 21,
+        "donor": "Russian Federation",
+        "total_usd": "44,882,539",
+        "multiyear_usd": "44,882,539"
+      },
+      {
+        "rank": 22,
+        "donor": "African Dev Bank",
+        "total_usd": "43,400,944",
+        "multiyear_usd": "43,400,944"
+      },
+      {
+        "rank": 23,
+        "donor": "Benin",
+        "total_usd": "37,914,617",
+        "multiyear_usd": "35,652,274"
+      },
+      {
+        "rank": 24,
+        "donor": "Italy",
+        "total_usd": "35,565,478",
+        "multiyear_usd": "26,247,766"
+      },
+      {
+        "rank": 25,
+        "donor": "China",
+        "total_usd": "32,644,030",
+        "multiyear_usd": "6,244,030"
+      },
+      {
+        "rank": 26,
+        "donor": "Ireland",
+        "total_usd": "28,191,994",
+        "multiyear_usd": "4,022,460"
+      },
+      {
+        "rank": 27,
+        "donor": "France",
+        "total_usd": "27,121,738",
+        "multiyear_usd": "26,901,295"
+      },
+      {
+        "rank": 28,
+        "donor": "Honduras",
+        "total_usd": "26,853,243",
+        "multiyear_usd": "26,853,243"
+      },
+      {
+        "rank": 29,
+        "donor": "Afghanistan",
+        "total_usd": "17,096,948",
+        "multiyear_usd": "17,096,948"
+      },
+      {
+        "rank": 30,
+        "donor": "Finland",
+        "total_usd": "16,127,967",
+        "multiyear_usd": "16,127,967"
+      },
+      {
+        "rank": 31,
+        "donor": "Belgium",
+        "total_usd": "16,053,224",
+        "multiyear_usd": "5,952,381"
+      },
+      {
+        "rank": 32,
+        "donor": "Pakistan",
+        "total_usd": "15,624,259",
+        "multiyear_usd": "14,424,259"
+      },
+      {
+        "rank": 33,
+        "donor": "Luxembourg",
+        "total_usd": "11,318,615",
+        "multiyear_usd": "3,189,254"
+      },
+      {
+        "rank": 34,
+        "donor": "Burundi",
+        "total_usd": "8,476,285",
+        "multiyear_usd": "7,000,000"
+      },
+      {
+        "rank": 35,
+        "donor": "Spain",
+        "total_usd": "6,010,271",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 36,
+        "donor": "Lesotho",
+        "total_usd": "5,920,306",
+        "multiyear_usd": "5,920,306"
+      },
+      {
+        "rank": 37,
+        "donor": "New Zealand",
+        "total_usd": "5,661,439",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 38,
+        "donor": "Ghana",
+        "total_usd": "5,323,737",
+        "multiyear_usd": "5,323,737"
+      },
+      {
+        "rank": 39,
+        "donor": "South Sudan",
+        "total_usd": "5,066,242",
+        "multiyear_usd": "5,066,242"
+      },
+      {
+        "rank": 40,
+        "donor": "Qatar",
+        "total_usd": "3,242,000",
+        "multiyear_usd": "242,000"
+      },
+      {
+        "rank": 41,
+        "donor": "Niger",
+        "total_usd": "2,516,992",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 42,
+        "donor": "Dominican Republic",
+        "total_usd": "2,087,225",
+        "multiyear_usd": "2,087,225"
+      },
+      {
+        "rank": 43,
+        "donor": "Austria",
+        "total_usd": "1,875,541",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 44,
+        "donor": "UN Peacebuilding Fund",
+        "total_usd": "1,867,300",
+        "multiyear_usd": "898,800"
+      },
+      {
+        "rank": 45,
+        "donor": "UN Expanded Window for Delivery as One",
+        "total_usd": "1,613,072",
+        "multiyear_usd": "786,860"
+      },
+      {
+        "rank": 46,
+        "donor": "Iceland",
+        "total_usd": "1,544,686",
+        "multiyear_usd": "1,544,686"
+      },
+      {
+        "rank": 47,
+        "donor": "Cambodia",
+        "total_usd": "1,227,000",
+        "multiyear_usd": "1,227,000"
+      },
+      {
+        "rank": 48,
+        "donor": "Sierra Leone The Republic Of",
+        "total_usd": "1,103,769",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 49,
+        "donor": "India",
+        "total_usd": "1,006,389",
+        "multiyear_usd": "1,006,389"
+      },
+      {
+        "rank": 50,
+        "donor": "Malaysia",
+        "total_usd": "1,000,000",
+        "multiyear_usd": "1,000,000"
+      },
+      {
+        "rank": 51,
+        "donor": "Nigeria",
+        "total_usd": "784,835",
+        "multiyear_usd": "784,835"
+      },
+      {
+        "rank": 52,
+        "donor": "Monaco",
+        "total_usd": "719,693",
+        "multiyear_usd": "486,162"
+      },
+      {
+        "rank": 53,
+        "donor": "South Africa",
+        "total_usd": "584,307",
+        "multiyear_usd": "584,307"
+      },
+      {
+        "rank": 54,
+        "donor": "OPEC Fund for International Development",
+        "total_usd": "535,561",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 55,
+        "donor": "Namibia",
+        "total_usd": "499,876",
+        "multiyear_usd": "499,876"
+      },
+      {
+        "rank": 56,
+        "donor": "Peru",
+        "total_usd": "494,603",
+        "multiyear_usd": "494,603"
+      },
+      {
+        "rank": 57,
+        "donor": "Colombia",
+        "total_usd": "462,123",
+        "multiyear_usd": "337,606"
+      },
+      {
+        "rank": 58,
+        "donor": "Laos",
+        "total_usd": "447,880",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 59,
+        "donor": "Nepal",
+        "total_usd": "445,049",
+        "multiyear_usd": "445,049"
+      },
+      {
+        "rank": 60,
+        "donor": "Brazil",
+        "total_usd": "444,977",
+        "multiyear_usd": "444,977"
+      },
+      {
+        "rank": 61,
+        "donor": "Liechtenstein",
+        "total_usd": "401,242",
+        "multiyear_usd": "200,813"
+      },
+      {
+        "rank": 62,
+        "donor": "Poland",
+        "total_usd": "397,709",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 63,
+        "donor": "Madagascar",
+        "total_usd": "394,661",
+        "multiyear_usd": "394,661"
+      },
+      {
+        "rank": 64,
+        "donor": "Korea Dpr",
+        "total_usd": "370,105",
+        "multiyear_usd": "370,105"
+      },
+      {
+        "rank": 65,
+        "donor": "Guinea The Republic Of",
+        "total_usd": "367,294",
+        "multiyear_usd": "367,294"
+      },
+      {
+        "rank": 66,
+        "donor": "World Bank",
+        "total_usd": "299,729",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 67,
+        "donor": "Republic of Zambia",
+        "total_usd": "273,128",
+        "multiyear_usd": "273,128"
+      },
+      {
+        "rank": 68,
+        "donor": "Guinea Bissau",
+        "total_usd": "264,232",
+        "multiyear_usd": "264,232"
+      },
+      {
+        "rank": 69,
+        "donor": "Slovakia",
+        "total_usd": "261,914",
+        "multiyear_usd": "261,914"
+      },
+      {
+        "rank": 70,
+        "donor": "Djibouti",
+        "total_usd": "217,000",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 71,
+        "donor": "Timor Leste",
+        "total_usd": "210,000",
+        "multiyear_usd": "210,000"
+      },
+      {
+        "rank": 72,
+        "donor": "Bolivia",
+        "total_usd": "200,000",
+        "multiyear_usd": "200,000"
+      },
+      {
+        "rank": 73,
+        "donor": "Nicaragua",
+        "total_usd": "195,087",
+        "multiyear_usd": "195,087"
+      },
+      {
+        "rank": 74,
+        "donor": "Czech Republic",
+        "total_usd": "189,573",
+        "multiyear_usd": "189,573"
+      },
+      {
+        "rank": 75,
+        "donor": "Panama",
+        "total_usd": "179,199",
+        "multiyear_usd": "179,199"
+      },
+      {
+        "rank": 76,
+        "donor": "Kenya",
+        "total_usd": "178,518",
+        "multiyear_usd": "178,518"
+      },
+      {
+        "rank": 77,
+        "donor": "Bangladesh",
+        "total_usd": "154,027",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 78,
+        "donor": "Estonia",
+        "total_usd": "151,564",
+        "multiyear_usd": "151,564"
+      },
+      {
+        "rank": 79,
+        "donor": "Guatemala",
+        "total_usd": "151,187",
+        "multiyear_usd": "151,187"
+      },
+      {
+        "rank": 80,
+        "donor": "T\u00fcrkiye",
+        "total_usd": "106,647",
+        "multiyear_usd": "106,647"
+      },
+      {
+        "rank": 81,
+        "donor": "Thailand",
+        "total_usd": "101,165",
+        "multiyear_usd": "101,165"
+      },
+      {
+        "rank": 82,
+        "donor": "Armenia",
+        "total_usd": "95,135",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 83,
+        "donor": "Portugal",
+        "total_usd": "69,737",
+        "multiyear_usd": "10,000"
+      },
+      {
+        "rank": 84,
+        "donor": "Romania",
+        "total_usd": "60,386",
+        "multiyear_usd": "60,386"
+      },
+      {
+        "rank": 85,
+        "donor": "Andorra",
+        "total_usd": "58,766",
+        "multiyear_usd": "58,766"
+      },
+      {
+        "rank": 86,
+        "donor": "Slovenia",
+        "total_usd": "57,248",
+        "multiyear_usd": "22,962"
+      },
+      {
+        "rank": 87,
+        "donor": "Croatia",
+        "total_usd": "50,000",
+        "multiyear_usd": "50,000"
+      },
+      {
+        "rank": 88,
+        "donor": "Philippines",
+        "total_usd": "36,911",
+        "multiyear_usd": "28,998"
+      },
+      {
+        "rank": 89,
+        "donor": "Lithuania",
+        "total_usd": "35,088",
+        "multiyear_usd": "35,088"
+      },
+      {
+        "rank": 90,
+        "donor": "Malta",
+        "total_usd": "28,409",
+        "multiyear_usd": "28,409"
+      },
+      {
+        "rank": 91,
+        "donor": "Chile",
+        "total_usd": "20,000",
+        "multiyear_usd": "20,000"
+      },
+      {
+        "rank": 91,
+        "donor": "Israel",
+        "total_usd": "20,000",
+        "multiyear_usd": "20,000"
+      },
+      {
+        "rank": 93,
+        "donor": "Hungary",
+        "total_usd": "10,000",
+        "multiyear_usd": "10,000"
+      },
+      {
+        "rank": 93,
+        "donor": "Kazakhstan",
+        "total_usd": "10,000",
+        "multiyear_usd": "10,000"
+      },
+      {
+        "rank": 95,
+        "donor": "Sri Lanka",
+        "total_usd": "6,954",
+        "multiyear_usd": "6,954"
+      },
+      {
+        "rank": 96,
+        "donor": "Cyprus",
+        "total_usd": "4,717",
+        "multiyear_usd": "4,717"
+      }
+    ]
+  },
+  "2017": {
+    "year": 2017,
+    "total_contributions_usd": "6,059,430,079",
+    "donors": [
+      {
+        "rank": 1,
+        "donor": "USA",
+        "total_usd": "2,509,840,729",
+        "multiyear_usd": "1,282,923,602"
+      },
+      {
+        "rank": 2,
+        "donor": "Germany",
+        "total_usd": "916,664,496",
+        "multiyear_usd": "37,776,840"
+      },
+      {
+        "rank": 3,
+        "donor": "United Kingdom",
+        "total_usd": "587,703,048",
+        "multiyear_usd": "55,021,079"
+      },
+      {
+        "rank": 4,
+        "donor": "European Commission",
+        "total_usd": "376,781,794",
+        "multiyear_usd": "45,963,080"
+      },
+      {
+        "rank": 5,
+        "donor": "Canada",
+        "total_usd": "195,771,336",
+        "multiyear_usd": "193,811,680"
+      },
+      {
+        "rank": 6,
+        "donor": "Japan",
+        "total_usd": "175,670,017",
+        "multiyear_usd": "19,712,981"
+      },
+      {
+        "rank": 7,
+        "donor": "UN CERF",
+        "total_usd": "143,190,918",
+        "multiyear_usd": "2,562,314"
+      },
+      {
+        "rank": 8,
+        "donor": "Sweden",
+        "total_usd": "115,834,702",
+        "multiyear_usd": "86,098,706"
+      },
+      {
+        "rank": 9,
+        "donor": "Norway",
+        "total_usd": "99,940,123",
+        "multiyear_usd": "98,093,376"
+      },
+      {
+        "rank": 10,
+        "donor": "Private Donors",
+        "total_usd": "84,019,349",
+        "multiyear_usd": "43,351,525"
+      },
+      {
+        "rank": 11,
+        "donor": "Netherlands",
+        "total_usd": "80,325,978",
+        "multiyear_usd": "17,296,206"
+      },
+      {
+        "rank": 12,
+        "donor": "China",
+        "total_usd": "73,906,705",
+        "multiyear_usd": "6,556,603"
+      },
+      {
+        "rank": 13,
+        "donor": "Switzerland",
+        "total_usd": "69,401,318",
+        "multiyear_usd": "68,600,491"
+      },
+      {
+        "rank": 14,
+        "donor": "Denmark",
+        "total_usd": "68,309,978",
+        "multiyear_usd": "60,502,795"
+      },
+      {
+        "rank": 15,
+        "donor": "Australia",
+        "total_usd": "65,137,854",
+        "multiyear_usd": "48,434,750"
+      },
+      {
+        "rank": 16,
+        "donor": "UN Other Funds and Agencies (excl. CERF)",
+        "total_usd": "48,487,428",
+        "multiyear_usd": "18,340,631"
+      },
+      {
+        "rank": 17,
+        "donor": "Italy",
+        "total_usd": "35,509,512",
+        "multiyear_usd": "35,509,512"
+      },
+      {
+        "rank": 18,
+        "donor": "Republic of Korea",
+        "total_usd": "33,839,341",
+        "multiyear_usd": "28,846,468"
+      },
+      {
+        "rank": 19,
+        "donor": "Russian Federation",
+        "total_usd": "33,700,000",
+        "multiyear_usd": "28,400,000"
+      },
+      {
+        "rank": 20,
+        "donor": "UN COUNTRY BASED POOLED FUNDS",
+        "total_usd": "33,207,061",
+        "multiyear_usd": "561,293"
+      },
+      {
+        "rank": 21,
+        "donor": "France",
+        "total_usd": "32,799,882",
+        "multiyear_usd": "32,328,074"
+      },
+      {
+        "rank": 22,
+        "donor": "Ireland",
+        "total_usd": "32,430,259",
+        "multiyear_usd": "1,396,259"
+      },
+      {
+        "rank": 23,
+        "donor": "South Sudan",
+        "total_usd": "25,750,000",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 24,
+        "donor": "Finland",
+        "total_usd": "24,988,609",
+        "multiyear_usd": "24,988,609"
+      },
+      {
+        "rank": 25,
+        "donor": "Belgium",
+        "total_usd": "23,135,920",
+        "multiyear_usd": "8,778,798"
+      },
+      {
+        "rank": 26,
+        "donor": "Colombia",
+        "total_usd": "20,476,922",
+        "multiyear_usd": "18,344,216"
+      },
+      {
+        "rank": 27,
+        "donor": "Pakistan",
+        "total_usd": "19,625,573",
+        "multiyear_usd": "19,625,573"
+      },
+      {
+        "rank": 28,
+        "donor": "Mozambique",
+        "total_usd": "12,140,000",
+        "multiyear_usd": "8,000,000"
+      },
+      {
+        "rank": 29,
+        "donor": "Brazil",
+        "total_usd": "10,731,112",
+        "multiyear_usd": "10,731,112"
+      },
+      {
+        "rank": 30,
+        "donor": "Luxembourg",
+        "total_usd": "9,125,818",
+        "multiyear_usd": "1,264,276"
+      },
+      {
+        "rank": 31,
+        "donor": "Saudi Arabia",
+        "total_usd": "8,300,087",
+        "multiyear_usd": "8,300,087"
+      },
+      {
+        "rank": 32,
+        "donor": "New Zealand",
+        "total_usd": "7,540,879",
+        "multiyear_usd": "4,008,016"
+      },
+      {
+        "rank": 33,
+        "donor": "Benin",
+        "total_usd": "5,899,081",
+        "multiyear_usd": "5,899,081"
+      },
+      {
+        "rank": 34,
+        "donor": "Nigeria",
+        "total_usd": "5,622,496",
+        "multiyear_usd": "5,520,329"
+      },
+      {
+        "rank": 35,
+        "donor": "Kuwait",
+        "total_usd": "5,500,000",
+        "multiyear_usd": "5,000,000"
+      },
+      {
+        "rank": 36,
+        "donor": "United Arab Emirates",
+        "total_usd": "5,114,296",
+        "multiyear_usd": "5,114,296"
+      },
+      {
+        "rank": 37,
+        "donor": "Spain",
+        "total_usd": "4,703,247",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 38,
+        "donor": "Malawi",
+        "total_usd": "4,629,723",
+        "multiyear_usd": "4,629,723"
+      },
+      {
+        "rank": 39,
+        "donor": "Bangladesh",
+        "total_usd": "4,370,704",
+        "multiyear_usd": "1,722,791"
+      },
+      {
+        "rank": 40,
+        "donor": "Honduras",
+        "total_usd": "4,223,965",
+        "multiyear_usd": "4,083,683"
+      },
+      {
+        "rank": 41,
+        "donor": "South Africa",
+        "total_usd": "3,690,329",
+        "multiyear_usd": "3,690,329"
+      },
+      {
+        "rank": 42,
+        "donor": "Niger",
+        "total_usd": "3,512,081",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 43,
+        "donor": "World Bank",
+        "total_usd": "3,150,000",
+        "multiyear_usd": "3,150,000"
+      },
+      {
+        "rank": 44,
+        "donor": "African Dev Bank",
+        "total_usd": "3,000,000",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 45,
+        "donor": "Mali",
+        "total_usd": "2,732,281",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 46,
+        "donor": "UN Expanded Window for Delivery as One",
+        "total_usd": "2,719,706",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 47,
+        "donor": "Iceland",
+        "total_usd": "2,634,361",
+        "multiyear_usd": "2,464,361"
+      },
+      {
+        "rank": 48,
+        "donor": "Qatar",
+        "total_usd": "2,505,973",
+        "multiyear_usd": "505,973"
+      },
+      {
+        "rank": 49,
+        "donor": "Burundi",
+        "total_usd": "1,517,660",
+        "multiyear_usd": "1,517,660"
+      },
+      {
+        "rank": 50,
+        "donor": "Cambodia",
+        "total_usd": "1,227,000",
+        "multiyear_usd": "1,227,000"
+      },
+      {
+        "rank": 51,
+        "donor": "Hungary",
+        "total_usd": "1,147,656",
+        "multiyear_usd": "1,147,656"
+      },
+      {
+        "rank": 52,
+        "donor": "UN Peacebuilding Fund",
+        "total_usd": "1,136,465",
+        "multiyear_usd": "775,965"
+      },
+      {
+        "rank": 53,
+        "donor": "Republic of Zambia",
+        "total_usd": "1,124,466",
+        "multiyear_usd": "1,124,466"
+      },
+      {
+        "rank": 54,
+        "donor": "OPEC Fund for International Development",
+        "total_usd": "1,100,000",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 55,
+        "donor": "Poland",
+        "total_usd": "1,095,065",
+        "multiyear_usd": "1,095,065"
+      },
+      {
+        "rank": 56,
+        "donor": "India",
+        "total_usd": "1,006,389",
+        "multiyear_usd": "1,006,389"
+      },
+      {
+        "rank": 57,
+        "donor": "Malaysia",
+        "total_usd": "1,000,000",
+        "multiyear_usd": "1,000,000"
+      },
+      {
+        "rank": 57,
+        "donor": "Mexico",
+        "total_usd": "1,000,000",
+        "multiyear_usd": "1,000,000"
+      },
+      {
+        "rank": 59,
+        "donor": "Monaco",
+        "total_usd": "911,412",
+        "multiyear_usd": "803,070"
+      },
+      {
+        "rank": 60,
+        "donor": "Madagascar",
+        "total_usd": "800,000",
+        "multiyear_usd": "800,000"
+      },
+      {
+        "rank": 61,
+        "donor": "Ethiopia",
+        "total_usd": "742,359",
+        "multiyear_usd": "742,359"
+      },
+      {
+        "rank": 62,
+        "donor": "Intl Committee of The Red Cross",
+        "total_usd": "582,537",
+        "multiyear_usd": "582,537"
+      },
+      {
+        "rank": 63,
+        "donor": "ECOWAS",
+        "total_usd": "565,000",
+        "multiyear_usd": "565,000"
+      },
+      {
+        "rank": 64,
+        "donor": "Nepal",
+        "total_usd": "538,800",
+        "multiyear_usd": "538,800"
+      },
+      {
+        "rank": 65,
+        "donor": "Austria",
+        "total_usd": "533,618",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 66,
+        "donor": "Sierra Leone The Republic Of",
+        "total_usd": "526,210",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 67,
+        "donor": "Liechtenstein",
+        "total_usd": "401,879",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 68,
+        "donor": "Egypt",
+        "total_usd": "386,958",
+        "multiyear_usd": "386,958"
+      },
+      {
+        "rank": 69,
+        "donor": "Czech Republic",
+        "total_usd": "381,632",
+        "multiyear_usd": "381,632"
+      },
+      {
+        "rank": 70,
+        "donor": "Tanzania",
+        "total_usd": "360,378",
+        "multiyear_usd": "360,378"
+      },
+      {
+        "rank": 71,
+        "donor": "El Salvador",
+        "total_usd": "331,644",
+        "multiyear_usd": "331,644"
+      },
+      {
+        "rank": 72,
+        "donor": "Portugal",
+        "total_usd": "263,651",
+        "multiyear_usd": "263,651"
+      },
+      {
+        "rank": 73,
+        "donor": "Cote D'Ivoire The Republic Of",
+        "total_usd": "248,202",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 74,
+        "donor": "Guinea Bissau",
+        "total_usd": "240,339",
+        "multiyear_usd": "240,339"
+      },
+      {
+        "rank": 75,
+        "donor": "Estonia",
+        "total_usd": "230,541",
+        "multiyear_usd": "230,541"
+      },
+      {
+        "rank": 76,
+        "donor": "Thailand",
+        "total_usd": "205,871",
+        "multiyear_usd": "205,871"
+      },
+      {
+        "rank": 77,
+        "donor": "Faroe Islands",
+        "total_usd": "200,000",
+        "multiyear_usd": "200,000"
+      },
+      {
+        "rank": 78,
+        "donor": "Sudan",
+        "total_usd": "180,000",
+        "multiyear_usd": "180,000"
+      },
+      {
+        "rank": 79,
+        "donor": "Guatemala",
+        "total_usd": "150,045",
+        "multiyear_usd": "150,045"
+      },
+      {
+        "rank": 80,
+        "donor": "Republic of Congo",
+        "total_usd": "140,790",
+        "multiyear_usd": "140,790"
+      },
+      {
+        "rank": 81,
+        "donor": "Panama",
+        "total_usd": "135,750",
+        "multiyear_usd": "135,750"
+      },
+      {
+        "rank": 82,
+        "donor": "Slovenia",
+        "total_usd": "102,734",
+        "multiyear_usd": "102,734"
+      },
+      {
+        "rank": 83,
+        "donor": "Armenia",
+        "total_usd": "101,996",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 84,
+        "donor": "Inter American Dev Bank",
+        "total_usd": "100,000",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 85,
+        "donor": "Gambia",
+        "total_usd": "91,517",
+        "multiyear_usd": "91,517"
+      },
+      {
+        "rank": 86,
+        "donor": "Bulgaria",
+        "total_usd": "59,032",
+        "multiyear_usd": "59,032"
+      },
+      {
+        "rank": 87,
+        "donor": "Lithuania",
+        "total_usd": "50,113",
+        "multiyear_usd": "50,113"
+      },
+      {
+        "rank": 88,
+        "donor": "Argentina",
+        "total_usd": "50,000",
+        "multiyear_usd": "50,000"
+      },
+      {
+        "rank": 89,
+        "donor": "Andorra",
+        "total_usd": "48,655",
+        "multiyear_usd": "40,650"
+      },
+      {
+        "rank": 90,
+        "donor": "Chile",
+        "total_usd": "20,000",
+        "multiyear_usd": "20,000"
+      },
+      {
+        "rank": 90,
+        "donor": "Israel",
+        "total_usd": "20,000",
+        "multiyear_usd": "20,000"
+      },
+      {
+        "rank": 90,
+        "donor": "Nicaragua",
+        "total_usd": "20,000",
+        "multiyear_usd": "20,000"
+      },
+      {
+        "rank": 93,
+        "donor": "Slovakia",
+        "total_usd": "15,000",
+        "multiyear_usd": "15,000"
+      },
+      {
+        "rank": 94,
+        "donor": "Kazakhstan",
+        "total_usd": "10,000",
+        "multiyear_usd": "10,000"
+      },
+      {
+        "rank": 94,
+        "donor": "Philippines",
+        "total_usd": "10,000",
+        "multiyear_usd": "10,000"
+      },
+      {
+        "rank": 96,
+        "donor": "Sri Lanka",
+        "total_usd": "8,151",
+        "multiyear_usd": "8,151"
+      },
+      {
+        "rank": 97,
+        "donor": "Kenya",
+        "total_usd": "6,246",
+        "multiyear_usd": "6,246"
+      },
+      {
+        "rank": 98,
+        "donor": "Bhutan",
+        "total_usd": "5,056",
+        "multiyear_usd": "5,056"
+      },
+      {
+        "rank": 99,
+        "donor": "Cyprus",
+        "total_usd": "4,269",
+        "multiyear_usd": "4,269"
+      }
+    ]
+  },
+  "2016": {
+    "year": 2016,
+    "total_contributions_usd": "5,918,567,489",
+    "donors": [
+      {
+        "rank": 1,
+        "donor": "USA",
+        "total_usd": "2,014,320,588",
+        "multiyear_usd": "1,457,620,771"
+      },
+      {
+        "rank": 2,
+        "donor": "European Commission",
+        "total_usd": "891,810,680",
+        "multiyear_usd": "182,941,959"
+      },
+      {
+        "rank": 3,
+        "donor": "Germany",
+        "total_usd": "884,734,913",
+        "multiyear_usd": "833,584"
+      },
+      {
+        "rank": 4,
+        "donor": "United Kingdom",
+        "total_usd": "355,982,023",
+        "multiyear_usd": "69,654,936"
+      },
+      {
+        "rank": 5,
+        "donor": "Canada",
+        "total_usd": "211,004,816",
+        "multiyear_usd": "211,004,816"
+      },
+      {
+        "rank": 6,
+        "donor": "Japan",
+        "total_usd": "208,827,165",
+        "multiyear_usd": "14,482,192"
+      },
+      {
+        "rank": 7,
+        "donor": "UN CERF",
+        "total_usd": "122,092,323",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 8,
+        "donor": "Sweden",
+        "total_usd": "121,402,910",
+        "multiyear_usd": "103,165,407"
+      },
+      {
+        "rank": 9,
+        "donor": "Malawi",
+        "total_usd": "112,154,210",
+        "multiyear_usd": "69,654,210"
+      },
+      {
+        "rank": 10,
+        "donor": "Australia",
+        "total_usd": "83,384,344",
+        "multiyear_usd": "81,494,631"
+      },
+      {
+        "rank": 11,
+        "donor": "Private Donors",
+        "total_usd": "77,846,155",
+        "multiyear_usd": "39,712,545"
+      },
+      {
+        "rank": 12,
+        "donor": "Norway",
+        "total_usd": "68,525,154",
+        "multiyear_usd": "57,300,911"
+      },
+      {
+        "rank": 13,
+        "donor": "Switzerland",
+        "total_usd": "67,224,715",
+        "multiyear_usd": "44,079,971"
+      },
+      {
+        "rank": 14,
+        "donor": "Netherlands",
+        "total_usd": "66,753,951",
+        "multiyear_usd": "46,598,483"
+      },
+      {
+        "rank": 15,
+        "donor": "UN Other Funds and Agencies (excl. CERF)",
+        "total_usd": "66,670,381",
+        "multiyear_usd": "28,765,042"
+      },
+      {
+        "rank": 16,
+        "donor": "Pakistan",
+        "total_usd": "55,614,046",
+        "multiyear_usd": "55,614,046"
+      },
+      {
+        "rank": 17,
+        "donor": "Denmark",
+        "total_usd": "46,412,135",
+        "multiyear_usd": "46,412,135"
+      },
+      {
+        "rank": 18,
+        "donor": "Republic of Korea",
+        "total_usd": "39,398,114",
+        "multiyear_usd": "30,453,435"
+      },
+      {
+        "rank": 19,
+        "donor": "Russian Federation",
+        "total_usd": "37,000,000",
+        "multiyear_usd": "19,009,484"
+      },
+      {
+        "rank": 20,
+        "donor": "Saudi Arabia",
+        "total_usd": "35,724,885",
+        "multiyear_usd": "8,364,885"
+      },
+      {
+        "rank": 21,
+        "donor": "Belgium",
+        "total_usd": "33,917,217",
+        "multiyear_usd": "26,113,426"
+      },
+      {
+        "rank": 22,
+        "donor": "Finland",
+        "total_usd": "33,327,929",
+        "multiyear_usd": "27,416,994"
+      },
+      {
+        "rank": 23,
+        "donor": "France",
+        "total_usd": "32,133,266",
+        "multiyear_usd": "32,133,266"
+      },
+      {
+        "rank": 24,
+        "donor": "UN Expanded Window for Delivery as One",
+        "total_usd": "30,886,292",
+        "multiyear_usd": "27,740,915"
+      },
+      {
+        "rank": 25,
+        "donor": "Honduras",
+        "total_usd": "25,001,657",
+        "multiyear_usd": "25,001,657"
+      },
+      {
+        "rank": 26,
+        "donor": "Italy",
+        "total_usd": "22,531,715",
+        "multiyear_usd": "22,531,715"
+      },
+      {
+        "rank": 27,
+        "donor": "Ireland",
+        "total_usd": "22,384,461",
+        "multiyear_usd": "15,410,069"
+      },
+      {
+        "rank": 28,
+        "donor": "China",
+        "total_usd": "18,358,997",
+        "multiyear_usd": "18,358,997"
+      },
+      {
+        "rank": 29,
+        "donor": "UN Common Humanitarian Fund",
+        "total_usd": "18,357,958",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 30,
+        "donor": "UN Humanitarian Response Fund",
+        "total_usd": "12,548,341",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 31,
+        "donor": "Luxembourg",
+        "total_usd": "9,151,427",
+        "multiyear_usd": "9,151,427"
+      },
+      {
+        "rank": 32,
+        "donor": "Kuwait",
+        "total_usd": "9,000,000",
+        "multiyear_usd": "9,000,000"
+      },
+      {
+        "rank": 33,
+        "donor": "Lesotho",
+        "total_usd": "8,803,438",
+        "multiyear_usd": "8,803,438"
+      },
+      {
+        "rank": 34,
+        "donor": "Austria",
+        "total_usd": "6,584,272",
+        "multiyear_usd": "5,629,877"
+      },
+      {
+        "rank": 35,
+        "donor": "World Bank",
+        "total_usd": "6,365,000",
+        "multiyear_usd": "6,300,000"
+      },
+      {
+        "rank": 36,
+        "donor": "United Arab Emirates",
+        "total_usd": "6,097,008",
+        "multiyear_usd": "97,008"
+      },
+      {
+        "rank": 37,
+        "donor": "Spain",
+        "total_usd": "5,298,013",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 38,
+        "donor": "New Zealand",
+        "total_usd": "4,008,016",
+        "multiyear_usd": "4,008,016"
+      },
+      {
+        "rank": 39,
+        "donor": "Bangladesh",
+        "total_usd": "3,745,046",
+        "multiyear_usd": "3,745,046"
+      },
+      {
+        "rank": 40,
+        "donor": "Zimbabwe",
+        "total_usd": "3,195,095",
+        "multiyear_usd": "3,195,095"
+      },
+      {
+        "rank": 41,
+        "donor": "Sierra Leone The Republic Of",
+        "total_usd": "3,137,620",
+        "multiyear_usd": "3,137,620"
+      },
+      {
+        "rank": 42,
+        "donor": "Madagascar",
+        "total_usd": "2,993,000",
+        "multiyear_usd": "2,295,000"
+      },
+      {
+        "rank": 43,
+        "donor": "Niger",
+        "total_usd": "2,285,639",
+        "multiyear_usd": "2,285,639"
+      },
+      {
+        "rank": 44,
+        "donor": "Liberia",
+        "total_usd": "2,232,374",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 45,
+        "donor": "India",
+        "total_usd": "2,005,181",
+        "multiyear_usd": "1,005,181"
+      },
+      {
+        "rank": 46,
+        "donor": "Mexico",
+        "total_usd": "2,000,000",
+        "multiyear_usd": "2,000,000"
+      },
+      {
+        "rank": 47,
+        "donor": "El Salvador",
+        "total_usd": "1,800,000",
+        "multiyear_usd": "300,000"
+      },
+      {
+        "rank": 48,
+        "donor": "Burundi",
+        "total_usd": "1,661,436",
+        "multiyear_usd": "1,661,436"
+      },
+      {
+        "rank": 49,
+        "donor": "Ethiopia",
+        "total_usd": "1,491,248",
+        "multiyear_usd": "1,491,248"
+      },
+      {
+        "rank": 50,
+        "donor": "Egypt",
+        "total_usd": "1,388,247",
+        "multiyear_usd": "1,388,247"
+      },
+      {
+        "rank": 51,
+        "donor": "Nicaragua",
+        "total_usd": "1,327,013",
+        "multiyear_usd": "725,622"
+      },
+      {
+        "rank": 52,
+        "donor": "Haiti",
+        "total_usd": "1,311,457",
+        "multiyear_usd": "1,311,457"
+      },
+      {
+        "rank": 53,
+        "donor": "Cambodia",
+        "total_usd": "1,227,000",
+        "multiyear_usd": "1,227,000"
+      },
+      {
+        "rank": 54,
+        "donor": "Poland",
+        "total_usd": "1,197,433",
+        "multiyear_usd": "1,197,433"
+      },
+      {
+        "rank": 55,
+        "donor": "Uganda",
+        "total_usd": "1,083,407",
+        "multiyear_usd": "1,083,407"
+      },
+      {
+        "rank": 56,
+        "donor": "African Dev Bank",
+        "total_usd": "1,000,000",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 56,
+        "donor": "Malaysia",
+        "total_usd": "1,000,000",
+        "multiyear_usd": "1,000,000"
+      },
+      {
+        "rank": 58,
+        "donor": "Peru",
+        "total_usd": "956,172",
+        "multiyear_usd": "956,172"
+      },
+      {
+        "rank": 59,
+        "donor": "Sri Lanka",
+        "total_usd": "784,809",
+        "multiyear_usd": "784,809"
+      },
+      {
+        "rank": 60,
+        "donor": "Colombia",
+        "total_usd": "764,612",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 61,
+        "donor": "Iceland",
+        "total_usd": "723,041",
+        "multiyear_usd": "323,041"
+      },
+      {
+        "rank": 62,
+        "donor": "Republic of Zambia",
+        "total_usd": "680,640",
+        "multiyear_usd": "680,640"
+      },
+      {
+        "rank": 63,
+        "donor": "Brazil",
+        "total_usd": "599,599",
+        "multiyear_usd": "599,599"
+      },
+      {
+        "rank": 64,
+        "donor": "Nepal",
+        "total_usd": "592,800",
+        "multiyear_usd": "592,800"
+      },
+      {
+        "rank": 65,
+        "donor": "Kenya",
+        "total_usd": "581,421",
+        "multiyear_usd": "581,421"
+      },
+      {
+        "rank": 66,
+        "donor": "Panama",
+        "total_usd": "544,590",
+        "multiyear_usd": "544,590"
+      },
+      {
+        "rank": 67,
+        "donor": "Qatar",
+        "total_usd": "532,650",
+        "multiyear_usd": "532,650"
+      },
+      {
+        "rank": 68,
+        "donor": "Indonesia",
+        "total_usd": "516,224",
+        "multiyear_usd": "516,224"
+      },
+      {
+        "rank": 69,
+        "donor": "The Kingdom Of Eswatini",
+        "total_usd": "514,139",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 70,
+        "donor": "UN Peacebuilding Fund",
+        "total_usd": "350,000",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 71,
+        "donor": "Liechtenstein",
+        "total_usd": "349,776",
+        "multiyear_usd": "200,452"
+      },
+      {
+        "rank": 72,
+        "donor": "Slovakia",
+        "total_usd": "340,136",
+        "multiyear_usd": "340,136"
+      },
+      {
+        "rank": 73,
+        "donor": "Monaco",
+        "total_usd": "303,043",
+        "multiyear_usd": "167,349"
+      },
+      {
+        "rank": 74,
+        "donor": "Estonia",
+        "total_usd": "241,473",
+        "multiyear_usd": "241,473"
+      },
+      {
+        "rank": 75,
+        "donor": "UN Emergency Response Fund",
+        "total_usd": "200,257",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 76,
+        "donor": "Guatemala",
+        "total_usd": "148,909",
+        "multiyear_usd": "148,909"
+      },
+      {
+        "rank": 77,
+        "donor": "Korea Dpr",
+        "total_usd": "132,842",
+        "multiyear_usd": "132,842"
+      },
+      {
+        "rank": 78,
+        "donor": "Czech Republic",
+        "total_usd": "121,261",
+        "multiyear_usd": "121,261"
+      },
+      {
+        "rank": 79,
+        "donor": "Slovenia",
+        "total_usd": "117,519",
+        "multiyear_usd": "117,519"
+      },
+      {
+        "rank": 80,
+        "donor": "Romania",
+        "total_usd": "113,250",
+        "multiyear_usd": "113,250"
+      },
+      {
+        "rank": 81,
+        "donor": "Bulgaria",
+        "total_usd": "110,988",
+        "multiyear_usd": "110,988"
+      },
+      {
+        "rank": 82,
+        "donor": "Thailand",
+        "total_usd": "107,021",
+        "multiyear_usd": "107,021"
+      },
+      {
+        "rank": 83,
+        "donor": "Armenia",
+        "total_usd": "100,417",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 84,
+        "donor": "OPEC Fund for International Development",
+        "total_usd": "100,000",
+        "multiyear_usd": "100,000"
+      },
+      {
+        "rank": 85,
+        "donor": "Andorra",
+        "total_usd": "61,375",
+        "multiyear_usd": "61,375"
+      },
+      {
+        "rank": 86,
+        "donor": "Lithuania",
+        "total_usd": "44,759",
+        "multiyear_usd": "44,759"
+      },
+      {
+        "rank": 87,
+        "donor": "Chile",
+        "total_usd": "20,000",
+        "multiyear_usd": "20,000"
+      },
+      {
+        "rank": 87,
+        "donor": "Israel",
+        "total_usd": "20,000",
+        "multiyear_usd": "20,000"
+      },
+      {
+        "rank": 89,
+        "donor": "Azerbaijan",
+        "total_usd": "18,312",
+        "multiyear_usd": "18,312"
+      },
+      {
+        "rank": 90,
+        "donor": "Algeria",
+        "total_usd": "10,000",
+        "multiyear_usd": "10,000"
+      },
+      {
+        "rank": 90,
+        "donor": "Hungary",
+        "total_usd": "10,000",
+        "multiyear_usd": "10,000"
+      },
+      {
+        "rank": 90,
+        "donor": "Kazakhstan",
+        "total_usd": "10,000",
+        "multiyear_usd": "10,000"
+      },
+      {
+        "rank": 90,
+        "donor": "Portugal",
+        "total_usd": "10,000",
+        "multiyear_usd": "10,000"
+      },
+      {
+        "rank": 94,
+        "donor": "Ecuador",
+        "total_usd": "5,000",
+        "multiyear_usd": "5,000"
+      },
+      {
+        "rank": 95,
+        "donor": "Cyprus",
+        "total_usd": "4,338",
+        "multiyear_usd": "4,338"
+      },
+      {
+        "rank": 96,
+        "donor": "Bhutan",
+        "total_usd": "3,050",
+        "multiyear_usd": "3,050"
+      },
+      {
+        "rank": 97,
+        "donor": "Bosnia &amp; Herzegovina",
+        "total_usd": "3,000",
+        "multiyear_usd": "3,000"
+      },
+      {
+        "rank": 98,
+        "donor": "Intl Committee of The Red Cross",
+        "total_usd": "357",
+        "multiyear_usd": "357"
+      },
+      {
+        "rank": 99,
+        "donor": "Bolivia",
+        "total_usd": "0",
+        "multiyear_usd": "0"
+      }
+    ]
+  },
+  "2015": {
+    "year": 2015,
+    "total_contributions_usd": "5,043,972,079",
+    "donors": [
+      {
+        "rank": 1,
+        "donor": "USA",
+        "total_usd": "2,008,159,048",
+        "multiyear_usd": "1,622,836,804"
+      },
+      {
+        "rank": 2,
+        "donor": "United Kingdom",
+        "total_usd": "456,763,493",
+        "multiyear_usd": "64,472,281"
+      },
+      {
+        "rank": 3,
+        "donor": "Germany",
+        "total_usd": "329,258,331",
+        "multiyear_usd": "581,827"
+      },
+      {
+        "rank": 4,
+        "donor": "Canada",
+        "total_usd": "261,645,796",
+        "multiyear_usd": "178,917,203"
+      },
+      {
+        "rank": 5,
+        "donor": "European Commission",
+        "total_usd": "247,871,772",
+        "multiyear_usd": "11,892,223"
+      },
+      {
+        "rank": 6,
+        "donor": "Japan",
+        "total_usd": "197,607,916",
+        "multiyear_usd": "21,689,691"
+      },
+      {
+        "rank": 7,
+        "donor": "UN CERF",
+        "total_usd": "159,928,948",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 8,
+        "donor": "Saudi Arabia",
+        "total_usd": "151,249,675",
+        "multiyear_usd": "151,249,675"
+      },
+      {
+        "rank": 9,
+        "donor": "Netherlands",
+        "total_usd": "101,441,861",
+        "multiyear_usd": "61,269,960"
+      },
+      {
+        "rank": 10,
+        "donor": "Private Donors",
+        "total_usd": "99,067,044",
+        "multiyear_usd": "63,703,031"
+      },
+      {
+        "rank": 11,
+        "donor": "Norway",
+        "total_usd": "92,580,419",
+        "multiyear_usd": "91,254,124"
+      },
+      {
+        "rank": 12,
+        "donor": "Sweden",
+        "total_usd": "91,490,856",
+        "multiyear_usd": "75,605,848"
+      },
+      {
+        "rank": 13,
+        "donor": "Switzerland",
+        "total_usd": "84,965,034",
+        "multiyear_usd": "36,434,741"
+      },
+      {
+        "rank": 14,
+        "donor": "Pakistan",
+        "total_usd": "80,626,872",
+        "multiyear_usd": "80,626,872"
+      },
+      {
+        "rank": 15,
+        "donor": "Australia",
+        "total_usd": "72,481,915",
+        "multiyear_usd": "70,184,825"
+      },
+      {
+        "rank": 16,
+        "donor": "Denmark",
+        "total_usd": "57,256,988",
+        "multiyear_usd": "47,391,822"
+      },
+      {
+        "rank": 17,
+        "donor": "Russian Federation",
+        "total_usd": "48,722,936",
+        "multiyear_usd": "25,722,936"
+      },
+      {
+        "rank": 18,
+        "donor": "Kuwait",
+        "total_usd": "45,000,000",
+        "multiyear_usd": "45,000,000"
+      },
+      {
+        "rank": 19,
+        "donor": "France",
+        "total_usd": "40,799,310",
+        "multiyear_usd": "40,011,076"
+      },
+      {
+        "rank": 20,
+        "donor": "Republic of Korea",
+        "total_usd": "37,316,848",
+        "multiyear_usd": "28,968,404"
+      },
+      {
+        "rank": 21,
+        "donor": "Finland",
+        "total_usd": "34,743,874",
+        "multiyear_usd": "23,454,474"
+      },
+      {
+        "rank": 22,
+        "donor": "Ethiopia",
+        "total_usd": "34,625,625",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 23,
+        "donor": "UN Other Funds and Agencies (excl. CERF)",
+        "total_usd": "32,963,854",
+        "multiyear_usd": "21,543,331"
+      },
+      {
+        "rank": 24,
+        "donor": "Ireland",
+        "total_usd": "29,647,274",
+        "multiyear_usd": "25,813,843"
+      },
+      {
+        "rank": 25,
+        "donor": "UN Common Humanitarian Fund",
+        "total_usd": "27,393,988",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 26,
+        "donor": "Italy",
+        "total_usd": "26,065,239",
+        "multiyear_usd": "22,222,987"
+      },
+      {
+        "rank": 27,
+        "donor": "Honduras",
+        "total_usd": "24,170,423",
+        "multiyear_usd": "24,170,423"
+      },
+      {
+        "rank": 28,
+        "donor": "Malawi",
+        "total_usd": "17,772,373",
+        "multiyear_usd": "17,772,373"
+      },
+      {
+        "rank": 29,
+        "donor": "Belgium",
+        "total_usd": "17,254,471",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 30,
+        "donor": "Luxembourg",
+        "total_usd": "11,409,124",
+        "multiyear_usd": "6,635,228"
+      },
+      {
+        "rank": 31,
+        "donor": "UN Expanded Window for Delivery as One",
+        "total_usd": "11,407,397",
+        "multiyear_usd": "40,810"
+      },
+      {
+        "rank": 32,
+        "donor": "China",
+        "total_usd": "10,466,354",
+        "multiyear_usd": "5,466,354"
+      },
+      {
+        "rank": 33,
+        "donor": "Spain",
+        "total_usd": "7,257,415",
+        "multiyear_usd": "3,002,690"
+      },
+      {
+        "rank": 34,
+        "donor": "Chad",
+        "total_usd": "7,220,613",
+        "multiyear_usd": "223,118"
+      },
+      {
+        "rank": 35,
+        "donor": "Brazil",
+        "total_usd": "6,093,082",
+        "multiyear_usd": "6,093,082"
+      },
+      {
+        "rank": 36,
+        "donor": "Austria",
+        "total_usd": "6,075,074",
+        "multiyear_usd": "5,343,915"
+      },
+      {
+        "rank": 37,
+        "donor": "Sierra Leone The Republic Of",
+        "total_usd": "6,000,000",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 38,
+        "donor": "Guatemala",
+        "total_usd": "5,214,560",
+        "multiyear_usd": "5,214,560"
+      },
+      {
+        "rank": 39,
+        "donor": "New Zealand",
+        "total_usd": "4,822,867",
+        "multiyear_usd": "4,822,867"
+      },
+      {
+        "rank": 40,
+        "donor": "Bangladesh",
+        "total_usd": "4,127,568",
+        "multiyear_usd": "4,127,568"
+      },
+      {
+        "rank": 41,
+        "donor": "Burundi",
+        "total_usd": "3,865,731",
+        "multiyear_usd": "1,938,949"
+      },
+      {
+        "rank": 42,
+        "donor": "Guinea The Republic Of",
+        "total_usd": "3,712,564",
+        "multiyear_usd": "1,284,654"
+      },
+      {
+        "rank": 43,
+        "donor": "Lesotho",
+        "total_usd": "3,664,902",
+        "multiyear_usd": "3,664,902"
+      },
+      {
+        "rank": 44,
+        "donor": "Republic of Congo",
+        "total_usd": "2,880,074",
+        "multiyear_usd": "2,880,074"
+      },
+      {
+        "rank": 45,
+        "donor": "South Sudan",
+        "total_usd": "2,609,566",
+        "multiyear_usd": "1,109,566"
+      },
+      {
+        "rank": 46,
+        "donor": "Colombia",
+        "total_usd": "2,446,074",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 47,
+        "donor": "Liberia",
+        "total_usd": "2,430,000",
+        "multiyear_usd": "2,430,000"
+      },
+      {
+        "rank": 48,
+        "donor": "UN Emergency Response Fund",
+        "total_usd": "2,364,184",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 49,
+        "donor": "UN Humanitarian Response Fund",
+        "total_usd": "2,239,380",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 50,
+        "donor": "United Arab Emirates",
+        "total_usd": "2,163,343",
+        "multiyear_usd": "152,955"
+      },
+      {
+        "rank": 51,
+        "donor": "The Kingdom Of Eswatini",
+        "total_usd": "2,096,470",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 52,
+        "donor": "African Dev Bank",
+        "total_usd": "2,000,000",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 53,
+        "donor": "Republic of Zambia",
+        "total_usd": "1,506,864",
+        "multiyear_usd": "1,506,864"
+      },
+      {
+        "rank": 54,
+        "donor": "India",
+        "total_usd": "1,361,457",
+        "multiyear_usd": "1,361,457"
+      },
+      {
+        "rank": 55,
+        "donor": "Namibia",
+        "total_usd": "1,258,203",
+        "multiyear_usd": "1,258,203"
+      },
+      {
+        "rank": 56,
+        "donor": "Qatar",
+        "total_usd": "1,255,249",
+        "multiyear_usd": "255,249"
+      },
+      {
+        "rank": 57,
+        "donor": "Zimbabwe",
+        "total_usd": "1,246,409",
+        "multiyear_usd": "1,246,409"
+      },
+      {
+        "rank": 58,
+        "donor": "Cambodia",
+        "total_usd": "1,227,000",
+        "multiyear_usd": "1,227,000"
+      },
+      {
+        "rank": 59,
+        "donor": "Iceland",
+        "total_usd": "1,161,809",
+        "multiyear_usd": "1,161,809"
+      },
+      {
+        "rank": 60,
+        "donor": "Czech Republic",
+        "total_usd": "1,127,690",
+        "multiyear_usd": "1,127,690"
+      },
+      {
+        "rank": 61,
+        "donor": "Malaysia",
+        "total_usd": "1,000,000",
+        "multiyear_usd": "1,000,000"
+      },
+      {
+        "rank": 61,
+        "donor": "T\u00fcrkiye",
+        "total_usd": "1,000,000",
+        "multiyear_usd": "1,000,000"
+      },
+      {
+        "rank": 63,
+        "donor": "Poland",
+        "total_usd": "991,301",
+        "multiyear_usd": "991,301"
+      },
+      {
+        "rank": 64,
+        "donor": "Cameroon",
+        "total_usd": "912,300",
+        "multiyear_usd": "912,300"
+      },
+      {
+        "rank": 65,
+        "donor": "Madagascar",
+        "total_usd": "781,388",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 66,
+        "donor": "Kenya",
+        "total_usd": "613,402",
+        "multiyear_usd": "613,402"
+      },
+      {
+        "rank": 67,
+        "donor": "UN Peacebuilding Fund",
+        "total_usd": "600,000",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 68,
+        "donor": "Iraq",
+        "total_usd": "592,900",
+        "multiyear_usd": "592,900"
+      },
+      {
+        "rank": 69,
+        "donor": "Guinea Bissau",
+        "total_usd": "402,290",
+        "multiyear_usd": "39,500"
+      },
+      {
+        "rank": 70,
+        "donor": "Liechtenstein",
+        "total_usd": "401,383",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 71,
+        "donor": "El Salvador",
+        "total_usd": "400,000",
+        "multiyear_usd": "400,000"
+      },
+      {
+        "rank": 72,
+        "donor": "Egypt",
+        "total_usd": "384,576",
+        "multiyear_usd": "384,576"
+      },
+      {
+        "rank": 73,
+        "donor": "Panama",
+        "total_usd": "375,750",
+        "multiyear_usd": "135,750"
+      },
+      {
+        "rank": 74,
+        "donor": "Hungary",
+        "total_usd": "338,947",
+        "multiyear_usd": "338,947"
+      },
+      {
+        "rank": 75,
+        "donor": "Tanzania",
+        "total_usd": "336,922",
+        "multiyear_usd": "336,922"
+      },
+      {
+        "rank": 76,
+        "donor": "Slovakia",
+        "total_usd": "328,947",
+        "multiyear_usd": "328,947"
+      },
+      {
+        "rank": 77,
+        "donor": "Bolivia",
+        "total_usd": "323,025",
+        "multiyear_usd": "323,025"
+      },
+      {
+        "rank": 78,
+        "donor": "Djibouti",
+        "total_usd": "317,919",
+        "multiyear_usd": "317,919"
+      },
+      {
+        "rank": 79,
+        "donor": "Chile",
+        "total_usd": "316,020",
+        "multiyear_usd": "216,020"
+      },
+      {
+        "rank": 80,
+        "donor": "Peru",
+        "total_usd": "287,876",
+        "multiyear_usd": "262,043"
+      },
+      {
+        "rank": 81,
+        "donor": "Estonia",
+        "total_usd": "265,312",
+        "multiyear_usd": "265,312"
+      },
+      {
+        "rank": 82,
+        "donor": "Monaco",
+        "total_usd": "206,267",
+        "multiyear_usd": "130,427"
+      },
+      {
+        "rank": 83,
+        "donor": "Portugal",
+        "total_usd": "147,661",
+        "multiyear_usd": "147,661"
+      },
+      {
+        "rank": 84,
+        "donor": "Thailand",
+        "total_usd": "136,148",
+        "multiyear_usd": "136,148"
+      },
+      {
+        "rank": 85,
+        "donor": "Bulgaria",
+        "total_usd": "113,122",
+        "multiyear_usd": "113,122"
+      },
+      {
+        "rank": 86,
+        "donor": "Romania",
+        "total_usd": "109,649",
+        "multiyear_usd": "109,649"
+      },
+      {
+        "rank": 87,
+        "donor": "Armenia",
+        "total_usd": "100,681",
+        "multiyear_usd": "-"
+      },
+      {
+        "rank": 88,
+        "donor": "Jordan",
+        "total_usd": "93,150",
+        "multiyear_usd": "93,150"
+      },
+      {
+        "rank": 89,
+        "donor": "Malta",
+        "total_usd": "78,563",
+        "multiyear_usd": "78,563"
+      },
+      {
+        "rank": 90,
+        "donor": "Lithuania",
+        "total_usd": "78,554",
+        "multiyear_usd": "78,554"
+      },
+      {
+        "rank": 91,
+        "donor": "Slovenia",
+        "total_usd": "65,483",
+        "multiyear_usd": "65,483"
+      },
+      {
+        "rank": 92,
+        "donor": "Latvia",
+        "total_usd": "56,117",
+        "multiyear_usd": "56,117"
+      },
+      {
+        "rank": 93,
+        "donor": "Argentina",
+        "total_usd": "55,300",
+        "multiyear_usd": "55,300"
+      },
+      {
+        "rank": 94,
+        "donor": "Andorra",
+        "total_usd": "47,554",
+        "multiyear_usd": "47,554"
+      },
+      {
+        "rank": 95,
+        "donor": "Kazakhstan",
+        "total_usd": "29,699",
+        "multiyear_usd": "29,699"
+      },
+      {
+        "rank": 96,
+        "donor": "Cyprus",
+        "total_usd": "26,350",
+        "multiyear_usd": "26,350"
+      },
+      {
+        "rank": 97,
+        "donor": "Israel",
+        "total_usd": "20,000",
+        "multiyear_usd": "20,000"
+      },
+      {
+        "rank": 97,
+        "donor": "Nicaragua",
+        "total_usd": "20,000",
+        "multiyear_usd": "20,000"
+      },
+      {
+        "rank": 99,
+        "donor": "Sri Lanka",
+        "total_usd": "17,713",
+        "multiyear_usd": "17,713"
+      },
+      {
+        "rank": 100,
+        "donor": "The Togolese Republic",
+        "total_usd": "16,606",
+        "multiyear_usd": "-"
+      }
+    ]
+  }
+}
