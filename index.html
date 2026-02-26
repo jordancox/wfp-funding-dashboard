@@ -5,50 +5,59 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>WFP Funding Dashboard</title>
 <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.7/dist/chart.umd.min.js"></script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Source+Sans+3:wght@400;600;700&display=swap" rel="stylesheet">
 <style>
 :root {
-  --bg: #0f1117;
-  --card: #1a1d2e;
-  --border: #2a2d3e;
-  --text: #e0e0e0;
-  --muted: #888;
-  --accent: #3b82f6;
-  --accent2: #10b981;
-  --accent3: #f59e0b;
-  --danger: #ef4444;
+  --bg: #fff1e5;
+  --card-bg: #fff1e5;
+  --border: #e0cdb8;
+  --rule: #a8917a;
+  --text: #33302e;
+  --muted: #807973;
+  --accent: #0d7680;
+  --accent2: #0f5499;
+  --accent3: #c0392b;
+  --danger: #c0392b;
+  --highlight: #f2dfce;
 }
 * { margin:0; padding:0; box-sizing:border-box; }
-body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background:var(--bg); color:var(--text); padding:20px; }
-h1 { font-size:1.8rem; margin-bottom:4px; }
-.subtitle { color:var(--muted); margin-bottom:24px; font-size:0.95rem; }
-.stats-row { display:grid; grid-template-columns: repeat(auto-fit, minmax(200px,1fr)); gap:16px; margin-bottom:24px; }
-.stat-card { background:var(--card); border:1px solid var(--border); border-radius:12px; padding:20px; }
-.stat-card .label { color:var(--muted); font-size:0.8rem; text-transform:uppercase; letter-spacing:0.5px; }
-.stat-card .value { font-size:1.6rem; font-weight:700; margin-top:4px; }
-.stat-card .detail { color:var(--muted); font-size:0.8rem; margin-top:4px; }
-.grid { display:grid; grid-template-columns: 1fr 1fr; gap:20px; margin-bottom:24px; }
-.card { background:var(--card); border:1px solid var(--border); border-radius:12px; padding:20px; }
-.card h2 { font-size:1.1rem; margin-bottom:16px; }
+body { font-family: 'Source Sans 3', 'Segoe UI', sans-serif; background:var(--bg); color:var(--text); padding:32px 40px; max-width:1200px; margin:0 auto; font-size:16px; line-height:1.5; }
+h1 { font-family: 'Playfair Display', Georgia, serif; font-size:2.2rem; font-weight:700; margin-bottom:2px; color:var(--text); letter-spacing:-0.5px; }
+.subtitle { color:var(--muted); margin-bottom:28px; font-size:0.9rem; border-bottom:1px solid var(--rule); padding-bottom:16px; }
+.subtitle a { color:var(--accent); text-decoration:none; border-bottom:1px solid var(--accent); }
+.subtitle a:hover { color:var(--accent2); }
+.stats-row { display:grid; grid-template-columns: repeat(auto-fit, minmax(190px,1fr)); gap:0; margin-bottom:28px; border-top:3px solid var(--text); border-bottom:1px solid var(--rule); }
+.stat-card { padding:14px 16px 14px 0; border-right:1px solid var(--border); }
+.stat-card:last-child { border-right:none; }
+.stat-card .label { color:var(--muted); font-size:0.7rem; text-transform:uppercase; letter-spacing:0.8px; font-weight:600; }
+.stat-card .value { font-size:1.5rem; font-weight:700; margin-top:2px; font-family:'Source Sans 3', sans-serif; }
+.stat-card .detail { color:var(--muted); font-size:0.78rem; margin-top:2px; }
+.grid { display:grid; grid-template-columns: 1fr 1fr; gap:32px; margin-bottom:32px; }
+.card { padding:20px 0; border-top:3px solid var(--text); }
+.card h2 { font-family: 'Source Sans 3', sans-serif; font-size:1rem; font-weight:700; margin-bottom:14px; text-transform:uppercase; letter-spacing:0.5px; font-size:0.85rem; }
+.card h2 span { text-transform:none; font-weight:400; letter-spacing:0; }
 .card.full { grid-column: 1 / -1; }
-select, input { background:#252838; color:var(--text); border:1px solid var(--border); border-radius:8px; padding:8px 12px; font-size:0.9rem; outline:none; }
+select, input { background:#fff; color:var(--text); border:1px solid var(--border); border-radius:2px; padding:7px 10px; font-size:0.85rem; font-family:'Source Sans 3', sans-serif; outline:none; }
 select:focus, input:focus { border-color:var(--accent); }
-.donor-controls { display:flex; gap:12px; align-items:center; margin-bottom:16px; flex-wrap:wrap; }
-.donor-stats { display:grid; grid-template-columns: repeat(auto-fit, minmax(140px,1fr)); gap:12px; margin-bottom:16px; }
-.donor-stat { background:#252838; border-radius:8px; padding:12px; }
-.donor-stat .ds-label { font-size:0.75rem; color:var(--muted); text-transform:uppercase; }
-.donor-stat .ds-value { font-size:1.1rem; font-weight:600; margin-top:2px; }
-table { width:100%; border-collapse:collapse; font-size:0.85rem; }
-th, td { padding:8px 12px; text-align:left; border-bottom:1px solid var(--border); }
-th { color:var(--muted); font-size:0.75rem; text-transform:uppercase; letter-spacing:0.5px; }
-tr:hover { background:#252838; }
-.trend-up { color:var(--accent2); }
-.trend-down { color:var(--danger); }
-.badge { display:inline-block; padding:2px 8px; border-radius:99px; font-size:0.75rem; font-weight:600; }
-.badge-green { background:rgba(16,185,129,0.15); color:var(--accent2); }
-.badge-red { background:rgba(239,68,68,0.15); color:var(--danger); }
-.badge-blue { background:rgba(59,130,246,0.15); color:var(--accent); }
+.donor-controls { display:flex; gap:12px; align-items:center; margin-bottom:14px; flex-wrap:wrap; }
+.donor-stats { display:grid; grid-template-columns: repeat(auto-fit, minmax(140px,1fr)); gap:0; margin-bottom:14px; border-top:1px solid var(--border); border-bottom:1px solid var(--border); }
+.donor-stat { padding:10px 14px 10px 0; border-right:1px solid var(--border); }
+.donor-stat:last-child { border-right:none; }
+.donor-stat .ds-label { font-size:0.68rem; color:var(--muted); text-transform:uppercase; letter-spacing:0.5px; font-weight:600; }
+.donor-stat .ds-value { font-size:1rem; font-weight:700; margin-top:1px; }
+table { width:100%; border-collapse:collapse; font-size:0.82rem; }
+th, td { padding:7px 12px; text-align:left; border-bottom:1px solid var(--border); }
+th { color:var(--muted); font-size:0.7rem; text-transform:uppercase; letter-spacing:0.8px; font-weight:600; border-bottom:2px solid var(--rule); }
+tr:hover { background:var(--highlight); }
+.trend-up { color:#0d7680; font-weight:600; }
+.trend-down { color:var(--danger); font-weight:600; }
+.badge { display:inline-block; padding:2px 8px; border-radius:2px; font-size:0.72rem; font-weight:700; text-transform:uppercase; letter-spacing:0.5px; }
+.badge-green { background:rgba(13,118,128,0.12); color:var(--accent); }
+.badge-red { background:rgba(192,57,43,0.1); color:var(--danger); }
+.badge-blue { background:rgba(15,84,153,0.1); color:var(--accent2); }
 canvas { max-height: 350px; }
-@media (max-width:900px) { .grid { grid-template-columns:1fr; } }
+@media (max-width:900px) { .grid { grid-template-columns:1fr; } body { padding:20px 16px; } }
 .chart-wrap { position:relative; }
 </style>
 </head>
@@ -109,7 +118,11 @@ canvas { max-height: 350px; }
 </div>
 
 <script>
-const COLORS = ['#3b82f6','#10b981','#f59e0b','#ef4444','#8b5cf6','#ec4899','#06b6d4','#84cc16','#f97316','#6366f1','#14b8a6','#e11d48','#a855f7','#0ea5e9','#d946ef'];
+const COLORS = ['#0d7680','#0f5499','#c0392b','#f2a93b','#6b3fa0','#3a7d44','#c77a2b','#2b6cb0','#8b572a','#9b2948','#1a6e5e','#d35400','#5b4a8a','#b8860b','#2e4057'];
+Chart.defaults.font.family = "'Source Sans 3', sans-serif";
+Chart.defaults.font.size = 12;
+Chart.defaults.color = '#807973';
+Chart.defaults.borderColor = '#e0cdb8';
 
 function parseNum(s) { return parseInt(String(s).replace(/[^0-9]/g,''),10) || 0; }
 function fmt(n) { if(n>=1e9) return '$'+( n/1e9).toFixed(1)+'B'; if(n>=1e6) return '$'+(n/1e6).toFixed(0)+'M'; if(n>=1e3) return '$'+(n/1e3).toFixed(0)+'K'; return '$'+n; }
@@ -153,17 +166,17 @@ fetch('data.json').then(r=>r.json()).then(raw => {
     data:{
       labels:years.map(String),
       datasets:[
-        {label:'Total Contributions',data:years.map(y=>data[y].total),backgroundColor:'rgba(59,130,246,0.6)',borderColor:'#3b82f6',borderWidth:1,borderRadius:6,order:2},
-        {label:'YoY Change %',data:yoyData,type:'line',borderColor:'#f59e0b',backgroundColor:'transparent',pointBackgroundColor:'#f59e0b',yAxisID:'y1',tension:0.3,order:1}
+        {label:'Total Contributions',data:years.map(y=>data[y].total),backgroundColor:'rgba(13,118,128,0.75)',borderColor:'#0d7680',borderWidth:0,borderRadius:2,order:2},
+        {label:'YoY Change %',data:yoyData,type:'line',borderColor:'#c0392b',backgroundColor:'transparent',pointBackgroundColor:'#c0392b',yAxisID:'y1',tension:0.3,order:1}
       ]
     },
     options:{
       responsive:true,
       plugins:{tooltip:{callbacks:{label:ctx=>ctx.dataset.label==='Total Contributions'?fmt(ctx.raw):pct(ctx.raw)}}},
       scales:{
-        y:{ticks:{callback:v=>fmt(v)},grid:{color:'#2a2d3e'}},
+        y:{ticks:{callback:v=>fmt(v)},grid:{color:'#e0cdb8'}},
         y1:{position:'right',ticks:{callback:v=>v+'%'},grid:{drawOnChartArea:false}},
-        x:{grid:{color:'#2a2d3e'}}
+        x:{grid:{color:'#e0cdb8'}}
       }
     }
   });
@@ -205,17 +218,17 @@ fetch('data.json').then(r=>r.json()).then(raw => {
       data:{
         labels:allYears.map(y=>y===2026?'2026*':String(y)),
         datasets:[
-          {label:'Contribution',data:amounts,backgroundColor:amounts.map((_,i)=>i===allYears.length-1?'rgba(59,130,246,0.3)':'rgba(59,130,246,0.6)'),borderRadius:6},
-          {label:'Rank',data:ranks,type:'line',borderColor:'#10b981',backgroundColor:'transparent',pointBackgroundColor:'#10b981',yAxisID:'y1',tension:0.3,spanGaps:true}
+          {label:'Contribution',data:amounts,backgroundColor:amounts.map((_,i)=>i===allYears.length-1?'rgba(13,118,128,0.35)':'rgba(13,118,128,0.75)'),borderRadius:2},
+          {label:'Rank',data:ranks,type:'line',borderColor:'#0f5499',backgroundColor:'transparent',pointBackgroundColor:'#0f5499',yAxisID:'y1',tension:0.3,spanGaps:true}
         ]
       },
       options:{
         responsive:true,
         plugins:{tooltip:{callbacks:{label:ctx=>ctx.dataset.label==='Contribution'?fmt(ctx.raw):'Rank #'+ctx.raw}}},
         scales:{
-          y:{ticks:{callback:v=>fmt(v)},grid:{color:'#2a2d3e'}},
+          y:{ticks:{callback:v=>fmt(v)},grid:{color:'#e0cdb8'}},
           y1:{position:'right',reverse:true,min:1,ticks:{callback:v=>'#'+v},grid:{drawOnChartArea:false},title:{display:true,text:'Rank',color:'#888'}},
-          x:{grid:{color:'#2a2d3e'}}
+          x:{grid:{color:'#e0cdb8'}}
         }
       }
     });
@@ -239,8 +252,8 @@ fetch('data.json').then(r=>r.json()).then(raw => {
       responsive:true,
       plugins:{legend:{display:false},tooltip:{callbacks:{label:ctx=>fmt(ctx.raw)}}},
       scales:{
-        x:{ticks:{callback:v=>fmt(v)},grid:{color:'#2a2d3e'}},
-        y:{grid:{color:'#2a2d3e'}}
+        x:{ticks:{callback:v=>fmt(v)},grid:{color:'#e0cdb8'}},
+        y:{grid:{color:'#e0cdb8'}}
       }
     }
   });
@@ -255,17 +268,17 @@ fetch('data.json').then(r=>r.json()).then(raw => {
     data:{
       labels:years.map(String),
       datasets:[
-        {label:'USA',data:usaPct,backgroundColor:'rgba(239,68,68,0.7)',stack:'s'},
-        {label:'Top 5 (excl. USA)',data:top5ExUsaPct,backgroundColor:'rgba(245,158,11,0.7)',stack:'s'},
-        {label:'All Other Donors',data:restPct,backgroundColor:'rgba(55,65,81,0.7)',stack:'s'}
+        {label:'USA',data:usaPct,backgroundColor:'#c0392b',stack:'s'},
+        {label:'Top 5 (excl. USA)',data:top5ExUsaPct,backgroundColor:'#f2a93b',stack:'s'},
+        {label:'All Other Donors',data:restPct,backgroundColor:'#d4c4b0',stack:'s'}
       ]
     },
     options:{
       responsive:true,
-      plugins:{tooltip:{callbacks:{label:ctx=>ctx.dataset.label+': '+ctx.raw.toFixed(1)+'%'}},legend:{position:'bottom',labels:{color:'#e0e0e0'}}},
+      plugins:{tooltip:{callbacks:{label:ctx=>ctx.dataset.label+': '+ctx.raw.toFixed(1)+'%'}},legend:{position:'bottom',labels:{color:'#807973'}}},
       scales:{
-        y:{stacked:true,max:100,ticks:{callback:v=>v+'%'},grid:{color:'#2a2d3e'}},
-        x:{stacked:true,grid:{color:'#2a2d3e'}}
+        y:{stacked:true,max:100,ticks:{callback:v=>v+'%'},grid:{color:'#e0cdb8'}},
+        x:{stacked:true,grid:{color:'#e0cdb8'}}
       }
     }
   });
@@ -279,13 +292,13 @@ fetch('data.json').then(r=>r.json()).then(raw => {
     type:'doughnut',
     data:{
       labels:['Top 10 Donors','Rank 11-20','All Others'],
-      datasets:[{data:[top10amt,next10amt,restAmt],backgroundColor:['#3b82f6','#8b5cf6','#374151']}]
+      datasets:[{data:[top10amt,next10amt,restAmt],backgroundColor:['#0d7680','#0f5499','#d4c4b0'],borderWidth:0}]
     },
     options:{
       responsive:true,
       plugins:{
         tooltip:{callbacks:{label:ctx=>ctx.label+': '+fmt(ctx.raw)+' ('+(ctx.raw/data[2025].total*100).toFixed(1)+'%)'}},
-        legend:{position:'bottom',labels:{color:'#e0e0e0'}}
+        legend:{position:'bottom',labels:{color:'#807973'}}
       }
     }
   });
@@ -295,12 +308,12 @@ fetch('data.json').then(r=>r.json()).then(raw => {
     type:'bar',
     data:{
       labels:allYears.map(y=>y===2026?'2026*':String(y)),
-      datasets:[{label:'Number of Donors',data:allYears.map(y=>data[y].donors.length),backgroundColor:'rgba(16,185,129,0.6)',borderRadius:6}]
+      datasets:[{label:'Number of Donors',data:allYears.map(y=>data[y].donors.length),backgroundColor:'rgba(13,118,128,0.75)',borderRadius:2}]
     },
     options:{
       responsive:true,
       plugins:{legend:{display:false}},
-      scales:{y:{grid:{color:'#2a2d3e'}},x:{grid:{color:'#2a2d3e'}}}
+      scales:{y:{grid:{color:'#e0cdb8'}},x:{grid:{color:'#e0cdb8'}}}
     }
   });
 
@@ -344,10 +357,10 @@ fetch('data.json').then(r=>r.json()).then(raw => {
     data:{labels:years.map(String), datasets:bumpDatasets},
     options:{
       responsive:true,
-      plugins:{tooltip:{callbacks:{label:ctx=>ctx.dataset.label+': #'+ctx.raw}}, legend:{position:'bottom',labels:{color:'#e0e0e0'}}},
+      plugins:{tooltip:{callbacks:{label:ctx=>ctx.dataset.label+': #'+ctx.raw}}, legend:{position:'bottom',labels:{color:'#807973'}}},
       scales:{
-        y:{reverse:true,min:1,max:15,ticks:{callback:v=>'#'+v},grid:{color:'#2a2d3e'}},
-        x:{grid:{color:'#2a2d3e'}}
+        y:{reverse:true,min:1,max:15,ticks:{callback:v=>'#'+v},grid:{color:'#e0cdb8'}},
+        x:{grid:{color:'#e0cdb8'}}
       }
     }
   });
