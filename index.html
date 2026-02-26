@@ -248,21 +248,24 @@ fetch('data.json').then(r=>r.json()).then(raw => {
   // === USA DEPENDENCY ===
   const usaPct = years.map(y=>{const usa=data[y].donors.find(d=>d.donor==='USA'); return usa?(usa.amount/data[y].total*100):0;});
   const top5Pct = years.map(y=>{const t5=data[y].donors.slice(0,5).reduce((s,d)=>s+d.amount,0); return (t5/data[y].total*100);});
+  const top5ExUsaPct = years.map((y,i)=>top5Pct[i]-usaPct[i]);
+  const restPct = years.map((y,i)=>100-top5Pct[i]);
   new Chart(document.getElementById('dependencyChart'), {
-    type:'line',
+    type:'bar',
     data:{
       labels:years.map(String),
       datasets:[
-        {label:'USA Share %',data:usaPct,borderColor:'#ef4444',backgroundColor:'rgba(239,68,68,0.1)',fill:true,tension:0.3},
-        {label:'Top 5 Share %',data:top5Pct,borderColor:'#f59e0b',backgroundColor:'rgba(245,158,11,0.1)',fill:true,tension:0.3}
+        {label:'USA',data:usaPct,backgroundColor:'rgba(239,68,68,0.7)',stack:'s'},
+        {label:'Top 5 (excl. USA)',data:top5ExUsaPct,backgroundColor:'rgba(245,158,11,0.7)',stack:'s'},
+        {label:'All Other Donors',data:restPct,backgroundColor:'rgba(55,65,81,0.7)',stack:'s'}
       ]
     },
     options:{
       responsive:true,
-      plugins:{tooltip:{callbacks:{label:ctx=>ctx.dataset.label+': '+ctx.raw.toFixed(1)+'%'}}},
+      plugins:{tooltip:{callbacks:{label:ctx=>ctx.dataset.label+': '+ctx.raw.toFixed(1)+'%'}},legend:{position:'bottom',labels:{color:'#e0e0e0'}}},
       scales:{
-        y:{min:0,max:100,ticks:{callback:v=>v+'%'},grid:{color:'#2a2d3e'}},
-        x:{grid:{color:'#2a2d3e'}}
+        y:{stacked:true,max:100,ticks:{callback:v=>v+'%'},grid:{color:'#2a2d3e'}},
+        x:{stacked:true,grid:{color:'#2a2d3e'}}
       }
     }
   });
