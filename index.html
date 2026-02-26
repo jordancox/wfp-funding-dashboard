@@ -235,7 +235,7 @@ fetch('data.json').then(r=>r.json()).then(raw => {
       datasets:[{data:top15.map(x=>x[1]),backgroundColor:COLORS}]
     },
     options:{
-      indexAxis:'horizontal',
+      indexAxis:'y',
       responsive:true,
       plugins:{legend:{display:false},tooltip:{callbacks:{label:ctx=>fmt(ctx.raw)}}},
       scales:{
